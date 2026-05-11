@@ -5,31 +5,31 @@ Auto-generated tech news cards, updated daily.
 ## 2026-05-11 Top Stories
 
 1. **Hardware Attestation as Monopoly Enabler**
-   HN Score: 1196
+   HN Score: 1271
 
 2. **Local AI needs to be the norm**
-   HN Score: 847
+   HN Score: 901
 
-3. **The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)**
-   HN Score: 79
+3. **I'm going back to writing code by hand**
+   HN Score: 226
 
-4. **I'm going back to writing code by hand**
-   HN Score: 197
+4. **The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)**
+   HN Score: 99
 
 5. **Running local models on an M4 with 24GB memory**
-   HN Score: 221
+   HN Score: 234
 
 6. **ai-twinkle/Hub**
-   Twinkle Hub — community feedback / feature requests for hub.twinkleai.tw | ★63
+   Twinkle Hub — community feedback / feature requests for hub.twinkleai.tw | ★68
 
-7. **jha0313/codex-live-demo**
-   [TypeScript] ★8
+7. **hero8152/Infinite-Canvas**
+   [HTML] Supports comfyui/API calls/modelscope calls | ★11
 
 8. **chris0214/Blender-MMD-Physics-Addons**
-   [Python] 适用于Blender4.2+版本的MMD实时物理模拟插件 | ★8
+   [Python] 适用于Blender4.2+版本的MMD实时物理模拟插件 | ★9
 
-9. **hero8152/Infinite-Canvas**
-   [HTML] Supports comfyui/API calls/modelscope calls | ★9
+9. **jha0313/codex-live-demo**
+   [TypeScript] ★8
 
 10. **eeviriyi/NodeGet-SingBox-Panel**
    [JavaScript] NodeGet Dashboard extension for managing sing-box configs | ★8

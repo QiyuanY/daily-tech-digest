@@ -8,64 +8,64 @@
   "cards": [
     {
       "title": "Hardware Attestation as Monopoly Enabler",
-      "body": "HN Score: 1196",
+      "body": "HN Score: 1271",
       "caption": "来源: Hacker News | https://grapheneos.social/@GrapheneOS/116550899908879585",
       "output": "card_01.png",
       "accent": "FF6600"
     },
     {
       "title": "Local AI needs to be the norm",
-      "body": "HN Score: 847",
+      "body": "HN Score: 901",
       "caption": "来源: Hacker News | https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "output": "card_02.png",
       "accent": "FF6600"
     },
     {
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
-      "body": "HN Score: 79",
-      "caption": "来源: Hacker News | https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "title": "I'm going back to writing code by hand",
+      "body": "HN Score: 226",
+      "caption": "来源: Hacker News | https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
       "output": "card_03.png",
       "accent": "FF6600"
     },
     {
-      "title": "I'm going back to writing code by hand",
-      "body": "HN Score: 197",
-      "caption": "来源: Hacker News | https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+      "body": "HN Score: 99",
+      "caption": "来源: Hacker News | https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
       "output": "card_04.png",
       "accent": "FF6600"
     },
     {
       "title": "Running local models on an M4 with 24GB memory",
-      "body": "HN Score: 221",
+      "body": "HN Score: 234",
       "caption": "来源: Hacker News | https://jola.dev/posts/running-local-models-on-m4",
       "output": "card_05.png",
       "accent": "FF6600"
     },
     {
       "title": "ai-twinkle/Hub",
-      "body": "Twinkle Hub — community feedback / feature requests for hub.twinkleai.tw | ★63",
+      "body": "Twinkle Hub — community feedback / feature requests for hub.twinkleai.tw | ★68",
       "caption": "来源: GitHub Trending | https://github.com/ai-twinkle/Hub",
       "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "hero8152/Infinite-Canvas",
+      "body": "[HTML] Supports comfyui/API calls/modelscope calls | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/hero8152/Infinite-Canvas",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "chris0214/Blender-MMD-Physics-Addons",
+      "body": "[Python] 适用于Blender4.2+版本的MMD实时物理模拟插件 | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/chris0214/Blender-MMD-Physics-Addons",
+      "output": "card_08.png",
       "accent": "6E40C9"
     },
     {
       "title": "jha0313/codex-live-demo",
       "body": "[TypeScript] ★8",
       "caption": "来源: GitHub Trending | https://github.com/jha0313/codex-live-demo",
-      "output": "card_07.png",
-      "accent": "6E40C9"
-    },
-    {
-      "title": "chris0214/Blender-MMD-Physics-Addons",
-      "body": "[Python] 适用于Blender4.2+版本的MMD实时物理模拟插件 | ★8",
-      "caption": "来源: GitHub Trending | https://github.com/chris0214/Blender-MMD-Physics-Addons",
-      "output": "card_08.png",
-      "accent": "6E40C9"
-    },
-    {
-      "title": "hero8152/Infinite-Canvas",
-      "body": "[HTML] Supports comfyui/API calls/modelscope calls | ★9",
-      "caption": "来源: GitHub Trending | https://github.com/hero8152/Infinite-Canvas",
       "output": "card_09.png",
       "accent": "6E40C9"
     },
