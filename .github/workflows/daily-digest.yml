@@ -43,13 +43,10 @@ jobs:
 
       - name: Generate cards
         run: |
-          python scripts/generate_cards.py /tmp/news_config.json --output-dir output --bg /tmp/bg.png
-
-      - name: Organize output
-        run: |
           DATE=$(date +%Y-%m-%d)
-          mkdir -p "archive/$DATE"
-          cp output/*.png "archive/$DATE/"
+          python scripts/generate_cards.py /tmp/news_config.json \
+            --output-dir "archive/$DATE" \
+            --bg /tmp/bg.png
           cp /tmp/news_config.json "archive/$DATE/config.json"
           cp /tmp/bg.png "archive/$DATE/bg.png"
 
