@@ -22,7 +22,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install Pillow
+          pip install Pillow requests
           sudo apt-get update && sudo apt-get install -y fonts-noto-cjk
 
       - name: Fetch daily news
@@ -33,9 +33,17 @@ jobs:
             --config-out /tmp/news_config.json \
             --readme-out README.md
 
+      - name: Generate AI background
+        env:
+          VOLC_ACCESSKEY: ${{ secrets.VOLC_ACCESSKEY }}
+          VOLC_SECRETKEY: ${{ secrets.VOLC_SECRETKEY }}
+        run: |
+          PROMPT="abstract dark technology background, gradient mesh, neon blue purple glow, futuristic digital art, high quality"
+          python scripts/generate_bg.py "$PROMPT" --size 2K --output /tmp/bg.png
+
       - name: Generate cards
         run: |
-          python scripts/generate_cards.py /tmp/news_config.json --output-dir output
+          python scripts/generate_cards.py /tmp/news_config.json --output-dir output --bg /tmp/bg.png
 
       - name: Organize output
         run: |
@@ -43,6 +51,7 @@ jobs:
           mkdir -p "archive/$DATE"
           cp output/*.png "archive/$DATE/"
           cp /tmp/news_config.json "archive/$DATE/config.json"
+          cp /tmp/bg.png "archive/$DATE/bg.png"
 
       - name: Commit and push
         run: |

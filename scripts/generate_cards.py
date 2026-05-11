@@ -61,28 +61,33 @@ def smart_wrap(text, font, max_width, draw):
 
 def create_card(title, body="", caption="", output="card.png",
                 width=1080, height=1080, title_size=44, body_size=28,
-                accent_color=(99, 102, 241)):
+                accent_color=(99, 102, 241), bg_path=""):
 
-    # Gradient background
-    bg = Image.new("RGBA", (width, height))
-    draw = ImageDraw.Draw(bg)
-
-    # Dark gradient
-    for y in range(height):
-        r = int(20 + 15 * math.sin(y / height * math.pi))
-        g = int(20 + 10 * math.sin(y / height * math.pi))
-        b = int(40 + 25 * math.sin(y / height * math.pi))
-        draw.line([(0, y), (width, y)], fill=(r, g, b, 255))
-
-    # Subtle radial highlight
-    highlight = Image.new("RGBA", (width, height), (0, 0, 0, 0))
-    h_draw = ImageDraw.Draw(highlight)
-    cx, cy = width // 2, height // 3
-    for r in range(300, 0, -3):
-        alpha = int(25 * (1 - r / 300))
-        h_draw.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(accent_color[0], accent_color[1], accent_color[2], alpha))
-    bg = Image.alpha_composite(bg, highlight)
-    draw = ImageDraw.Draw(bg)
+    if bg_path and os.path.exists(bg_path):
+        # Use provided background image
+        bg = Image.open(bg_path).convert("RGBA")
+        bg = bg.resize((width, height), Image.LANCZOS)
+        # Blur + darken for text readability
+        bg = bg.filter(ImageFilter.GaussianBlur(radius=3))
+        dark = Image.new("RGBA", (width, height), (0, 0, 0, 80))
+        bg = Image.alpha_composite(bg, dark)
+    else:
+        # Fallback: programmatic gradient
+        bg = Image.new("RGBA", (width, height))
+        draw = ImageDraw.Draw(bg)
+        for y in range(height):
+            r = int(20 + 15 * math.sin(y / height * math.pi))
+            g = int(20 + 10 * math.sin(y / height * math.pi))
+            b = int(40 + 25 * math.sin(y / height * math.pi))
+            draw.line([(0, y), (width, y)], fill=(r, g, b, 255))
+        # Subtle radial highlight
+        highlight = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+        h_draw = ImageDraw.Draw(highlight)
+        cx, cy = width // 2, height // 3
+        for r in range(300, 0, -3):
+            alpha = int(25 * (1 - r / 300))
+            h_draw.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(accent_color[0], accent_color[1], accent_color[2], alpha))
+        bg = Image.alpha_composite(bg, highlight)
 
     padding = 60
     content_x = padding
@@ -142,6 +147,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("config", help="Batch config JSON")
     parser.add_argument("--output-dir", default="output", help="Output directory")
+    parser.add_argument("--bg", default="", help="Background image path (optional)")
     args = parser.parse_args()
 
     with open(args.config, "r", encoding="utf-8") as f:
@@ -169,6 +175,7 @@ def main():
             title_size=card.get("title_size", defaults.get("title_size", 44)),
             body_size=card.get("body_size", defaults.get("body_size", 28)),
             accent_color=accent,
+            bg_path=args.bg,
         )
 
     print(f"\nDone: {len(cards)} cards in {args.output_dir}/")
