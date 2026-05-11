@@ -8,42 +8,42 @@
   "cards": [
     {
       "title": "Hardware Attestation as Monopoly Enabler",
-      "body": "HN Score: 1168",
+      "body": "HN Score: 1196",
       "caption": "来源: Hacker News | https://grapheneos.social/@GrapheneOS/116550899908879585",
       "output": "card_01.png",
       "accent": "FF6600"
     },
     {
       "title": "Local AI needs to be the norm",
-      "body": "HN Score: 830",
+      "body": "HN Score: 847",
       "caption": "来源: Hacker News | https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "output": "card_02.png",
       "accent": "FF6600"
     },
     {
       "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
-      "body": "HN Score: 74",
+      "body": "HN Score: 79",
       "caption": "来源: Hacker News | https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
       "output": "card_03.png",
       "accent": "FF6600"
     },
     {
       "title": "I'm going back to writing code by hand",
-      "body": "HN Score: 183",
+      "body": "HN Score: 197",
       "caption": "来源: Hacker News | https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
       "output": "card_04.png",
       "accent": "FF6600"
     },
     {
       "title": "Running local models on an M4 with 24GB memory",
-      "body": "HN Score: 213",
+      "body": "HN Score: 221",
       "caption": "来源: Hacker News | https://jola.dev/posts/running-local-models-on-m4",
       "output": "card_05.png",
       "accent": "FF6600"
     },
     {
       "title": "ai-twinkle/Hub",
-      "body": "Twinkle Hub — community feedback / feature requests for hub.twinkleai.tw | ★61",
+      "body": "Twinkle Hub — community feedback / feature requests for hub.twinkleai.tw | ★63",
       "caption": "来源: GitHub Trending | https://github.com/ai-twinkle/Hub",
       "output": "card_06.png",
       "accent": "6E40C9"
@@ -56,23 +56,23 @@
       "accent": "6E40C9"
     },
     {
-      "title": "eeviriyi/NodeGet-SingBox-Panel",
-      "body": "[JavaScript] NodeGet Dashboard extension for managing sing-box configs | ★8",
-      "caption": "来源: GitHub Trending | https://github.com/eeviriyi/NodeGet-SingBox-Panel",
+      "title": "chris0214/Blender-MMD-Physics-Addons",
+      "body": "[Python] 适用于Blender4.2+版本的MMD实时物理模拟插件 | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/chris0214/Blender-MMD-Physics-Addons",
       "output": "card_08.png",
       "accent": "6E40C9"
     },
     {
-      "title": "mrfunntastiic/hash256-cli",
-      "body": "[JavaScript] ★8",
-      "caption": "来源: GitHub Trending | https://github.com/mrfunntastiic/hash256-cli",
+      "title": "hero8152/Infinite-Canvas",
+      "body": "[HTML] Supports comfyui/API calls/modelscope calls | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/hero8152/Infinite-Canvas",
       "output": "card_09.png",
       "accent": "6E40C9"
     },
     {
-      "title": "hero8152/Infinite-Canvas",
-      "body": "[HTML] Supports comfyui/API calls/modelscope calls | ★8",
-      "caption": "来源: GitHub Trending | https://github.com/hero8152/Infinite-Canvas",
+      "title": "eeviriyi/NodeGet-SingBox-Panel",
+      "body": "[JavaScript] NodeGet Dashboard extension for managing sing-box configs | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/eeviriyi/NodeGet-SingBox-Panel",
       "output": "card_10.png",
       "accent": "6E40C9"
     }
