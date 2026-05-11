@@ -1,0 +1,54 @@
+name: Daily Tech Digest
+
+on:
+  schedule:
+    # UTC 02:00 daily = 北京时间 10:00
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install Pillow
+          sudo apt-get update && sudo apt-get install -y fonts-noto-cjk
+
+      - name: Fetch daily news
+        run: |
+          python scripts/fetch_news.py \
+            --sources hn,github,producthunt \
+            --top 5 \
+            --config-out /tmp/news_config.json \
+            --readme-out README.md
+
+      - name: Generate cards
+        run: |
+          python scripts/generate_cards.py /tmp/news_config.json --output-dir output
+
+      - name: Organize output
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          mkdir -p "archive/$DATE"
+          cp output/*.png "archive/$DATE/"
+          cp /tmp/news_config.json "archive/$DATE/config.json"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          DATE=$(date +%Y-%m-%d)
+          git diff --cached --quiet || git commit -m "📰 Daily digest: $DATE"
+          git push
