@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-12",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "body": "HN Score: 694 | https:&#x2F;&#x2F;github.com&#x2F;TanStack&#x2F;router&#x2F;issues&#x2F;7383",
+      "caption": "来源: Hacker News | https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Platform on AWS",
+      "body": "HN Score: 95",
+      "caption": "来源: Hacker News | https://claude.com/blog/claude-platform-on-aws",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "They Live (1988) inspired Adblocker",
+      "body": "HN Score: 99",
+      "caption": "来源: Hacker News | https://github.com/davmlaw/they_live_adblocker",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "If AI writes your code, why use Python?",
+      "body": "HN Score: 335",
+      "caption": "来源: Hacker News | https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "body": "HN Score: 287",
+      "caption": "来源: Hacker News | https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "ZJunCher/xiaoyan-ai-dev-assistant",
+      "body": "[Java] 基于 RAG 混合检索与多轮记忆的 AI 研发助手，支持团队知识问答，也适合新手学习 RAG 应用开发。 | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/ZJunCher/xiaoyan-ai-dev-assistant",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Nick-Baumann/gobbo-ai",
+      "body": "[TypeScript] GRRRBLEHHH! | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/Nick-Baumann/gobbo-ai",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "qianchentao9/SwinGSR",
+      "body": "[Python] ★10",
+      "caption": "来源: GitHub Trending | https://github.com/qianchentao9/SwinGSR",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "komeadanagito/oh-my-skills",
+      "body": "A curated collection of reusable skills for AI coding assistants | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/komeadanagito/oh-my-skills",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "IYENTeam/Hent-ai",
+      "body": "[TypeScript] Emotion Image Attachment Plugin for OpenClaw — Auto-classify emotions via LLM and attach matching images to Discord mess | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/IYENTeam/Hent-ai",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
