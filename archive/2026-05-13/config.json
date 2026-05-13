@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-13",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "body": "HN Score: 60",
+      "caption": "来源: Hacker News | https://arxiv.org/abs/2605.08419",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "body": "HN Score: 318",
+      "caption": "来源: Hacker News | https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Googlebook",
+      "body": "HN Score: 703 | https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Android&#x2F;comments&#x2F;1tb8xls&#x2F;introducin...",
+      "caption": "来源: Hacker News | https://googlebook.google/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "body": "HN Score: 372 | Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok&#x2F;s prefill and 1200",
+      "caption": "来源: Hacker News | https://github.com/cactus-compute/needle",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The vi family",
+      "body": "HN Score: 75",
+      "caption": "来源: Hacker News | https://lpar.ATH0.com/posts/2026/05/the-vi-family/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "1TDSPY-26/front-1sem-aula-03",
+      "body": "[HTML] ★14",
+      "caption": "来源: GitHub Trending | https://github.com/1TDSPY-26/front-1sem-aula-03",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "NJU-PCALab/L2P",
+      "body": "L2P: Unlocking Latent Potential for Pixel Generation | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/NJU-PCALab/L2P",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "TANGandXUE/wcdb-key-tool",
+      "body": "[Python] Extract WeChat (WCDB/SQLCipher4) database encryption keys on Linux. Auto-adapts to new versions via ELF static analysis  | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/TANGandXUE/wcdb-key-tool",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Mar7thLover/March7thHoney-Public",
+      "body": "★8",
+      "caption": "来源: GitHub Trending | https://github.com/Mar7thLover/March7thHoney-Public",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Sunil-Kumar-Mudusu/healthcare-fraud-detection-data-framework",
+      "body": "[Python] Healthcare Fraud Detection Data Framework — six-stage claims pipeline with YAML rule engine, IQR anomaly detection, and  | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/Sunil-Kumar-Mudusu/healthcare-fraud-detection-data-framework",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
