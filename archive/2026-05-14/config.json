@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-14",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Claude for Small Business",
+      "body": "HN Score: 106",
+      "caption": "来源: Hacker News | https://www.anthropic.com/news/claude-for-small-business",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Scorched Earth 2000 – Web",
+      "body": "HN Score: 193",
+      "caption": "来源: Hacker News | http://www.scorch2000.com/web/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "body": "HN Score: 629",
+      "caption": "来源: Hacker News | https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cisco workforce reductions",
+      "body": "HN Score: 130",
+      "caption": "来源: Hacker News | https://blogs.cisco.com/news/our-path-forward",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "body": "HN Score: 541",
+      "caption": "来源: Hacker News | https://fredchan.org/blog/locality-domains-guide/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "B3hnamR/PsiphonOverMITM",
+      "body": "[PowerShell] ★18",
+      "caption": "来源: GitHub Trending | https://github.com/B3hnamR/PsiphonOverMITM",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "David-patrick-chuks/Kyro-Protocol",
+      "body": "Kyro Protocol is an on-chain financial infrastructure built on the Stellar network that enables AI agents (AgentKyro) to | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/David-patrick-chuks/Kyro-Protocol",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "CyberSealNull/CcCompanion",
+      "body": "[Swift] Bring Claude Code to your iPhone. Open-source iOS client + tiny Python push server. Local-first, runs on your own Mac an | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/CyberSealNull/CcCompanion",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "cityjia/nft-template",
+      "body": "Production-ready NFT collection template with ERC-721, metadata, and minting dApp | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/cityjia/nft-template",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "cityjia/cross-chain-bridge",
+      "body": "Cross-chain bridge implementation template supporting EVM-compatible networks | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/cityjia/cross-chain-bridge",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
