@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-15",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Mullvad exit IPs are surprisingly identifying",
+      "body": "HN Score: 226",
+      "caption": "来源: Hacker News | https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How Claude Code works in large codebases",
+      "body": "HN Score: 78",
+      "caption": "来源: Hacker News | https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "body": "HN Score: 749",
+      "caption": "来源: Hacker News | https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A few words on DS4",
+      "body": "HN Score: 247",
+      "caption": "来源: Hacker News | https://antirez.com/news/165",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "body": "HN Score: 67",
+      "caption": "来源: Hacker News | https://writing.antonleicht.me/p/cut-off",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "vector-0802/Web3-Casino",
+      "body": "[TypeScript] ★14",
+      "caption": "来源: GitHub Trending | https://github.com/vector-0802/Web3-Casino",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "2951461586/mulerun-pool",
+      "body": "[Python] MuleRun Outlook registration and API key pool proxy | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/2951461586/mulerun-pool",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AmyraxVPN-Main/AmyraxVPN-RELAY",
+      "body": "[HTML] AmyraxVPN Netlify RELAY! | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/AmyraxVPN-Main/AmyraxVPN-RELAY",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "noho/code-is-cheap",
+      "body": "[Shell] ★7",
+      "caption": "来源: GitHub Trending | https://github.com/noho/code-is-cheap",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "resaro-ai/drone_vlm_golden_eval",
+      "body": "[Python] Demo end to end VLM evaluation workshop for AI Engineer Singapore | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/resaro-ai/drone_vlm_golden_eval",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
