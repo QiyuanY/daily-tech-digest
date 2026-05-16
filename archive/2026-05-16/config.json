@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-16",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Project Gutenberg – keeps getting better",
+      "body": "HN Score: 822",
+      "caption": "来源: Hacker News | https://www.gutenberg.org/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "body": "HN Score: 1068 | https:&#x2F;&#x2F;xcancel.com&#x2F;mitchellh&#x2F;status&#x2F;2055380239711457578https:&#x2F;&#x2F;hachyderm.io&#x2F;@mitchellh&#x2F;11658043350810813",
+      "caption": "来源: Hacker News | https://twitter.com/mitchellh/status/2055380239711457578",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Additive Blending on the Nintendo 64",
+      "body": "HN Score: 69",
+      "caption": "来源: Hacker News | https://phoboslab.org/log/2026/05/n64-additive-blending",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The bird eye was pushed to an evolutionary extreme",
+      "body": "HN Score: 59",
+      "caption": "来源: Hacker News | https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The main thing about P2P meth is that there's so much of it (2021)",
+      "body": "HN Score: 89",
+      "caption": "来源: Hacker News | https://dynomight.net/p2p-meth/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "matthart1983/diskwatch",
+      "body": "[Rust] Single-host, read-only disk diagnostics TUI. Sibling to netwatch and syswatch. | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/matthart1983/diskwatch",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "shootthesound/comfyui-mesh",
+      "body": "[Python] Split FLUX.2 across two GPUs (LAN or same-machine) — NVENC compresses activations live on the wire. Icarus (ComfyUI node | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/shootthesound/comfyui-mesh",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mrdoob/reframe",
+      "body": "[JavaScript] Webapp for framing a video clip and exporting an MP4. | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/mrdoob/reframe",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "whiteaxesing/cita-dekra",
+      "body": "[Python] Agendador automático de citas DEKRA Costa Rica | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/whiteaxesing/cita-dekra",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "harry-leon/Smart-Automated-Car-Wash-Management-System",
+      "body": "★3",
+      "caption": "来源: GitHub Trending | https://github.com/harry-leon/Smart-Automated-Car-Wash-Management-System",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
