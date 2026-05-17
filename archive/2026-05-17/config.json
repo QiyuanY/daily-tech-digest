@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-17",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "body": "HN Score: 283",
+      "caption": "来源: Hacker News | https://crates.io/crates/zerostack/1.0.0",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "body": "HN Score: 82",
+      "caption": "来源: Hacker News | https://maurycyz.com/projects/mcusite/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A nicer voltmeter clock",
+      "body": "HN Score: 120",
+      "caption": "来源: Hacker News | https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "C++26 Shipped a SIMD Library Nobody Asked For",
+      "body": "HN Score: 70",
+      "caption": "来源: Hacker News | https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "body": "HN Score: 134",
+      "caption": "来源: Hacker News | https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "zhiyingzzhou/renewlet",
+      "body": "[TypeScript] Renewlet 是一个自托管的订阅管理工具。它把 SaaS、AI 工具、云服务和开发工具的价格、续费日、预算和提醒放到一起，适合个人、独立团队和家庭实验室使用。 | ★32",
+      "caption": "来源: GitHub Trending | https://github.com/zhiyingzzhou/renewlet",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "greatvishal27-rc/AI-Resume_Analyzer",
+      "body": "[Python] ★11",
+      "caption": "来源: GitHub Trending | https://github.com/greatvishal27-rc/AI-Resume_Analyzer",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "cropsgg/skills",
+      "body": "[TypeScript] ★5",
+      "caption": "来源: GitHub Trending | https://github.com/cropsgg/skills",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "JulieCarlon/168-days-to-systems",
+      "body": "[HTML] ★4",
+      "caption": "来源: GitHub Trending | https://github.com/JulieCarlon/168-days-to-systems",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Gertrundger/Cracker_Project",
+      "body": "[C++] ★4",
+      "caption": "来源: GitHub Trending | https://github.com/Gertrundger/Cracker_Project",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
