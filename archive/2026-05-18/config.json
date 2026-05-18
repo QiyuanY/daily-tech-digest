@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-18",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "GenCAD",
+      "body": "HN Score: 228",
+      "caption": "来源: Hacker News | https://gencad.github.io/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "body": "HN Score: 304",
+      "caption": "来源: Hacker News | https://github.com/tech4bot/rk3562deb",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+      "body": "HN Score: 101",
+      "caption": "来源: Hacker News | https://askanastronaut.issinrealtime.org/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Prolog Coding Horror",
+      "body": "HN Score: 97",
+      "caption": "来源: Hacker News | https://www.metalevel.at/prolog/horror",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "body": "HN Score: 270 | Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when t",
+      "caption": "来源: Hacker News | https://github.com/MinishLab/semble",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "robzolkos/pi-lifeline",
+      "body": "[TypeScript] Have small autoresearch model phone-a-friend (larger model) for guidance | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/robzolkos/pi-lifeline",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "0xking1jaa/branchguard",
+      "body": "[Shell] ★7",
+      "caption": "来源: GitHub Trending | https://github.com/0xking1jaa/branchguard",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "theMimolet/umotd",
+      "body": "[Go] Proof of concept for a MOTD that handles translations | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/theMimolet/umotd",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "8FiguresFigure8/cliforge",
+      "body": "[Shell] ★6",
+      "caption": "来源: GitHub Trending | https://github.com/8FiguresFigure8/cliforge",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "chungyuandye/NTOU_Thesis",
+      "body": "[TeX] 國立臺灣海洋大學碩博士論文 LaTeX 模板 | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/chungyuandye/NTOU_Thesis",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
