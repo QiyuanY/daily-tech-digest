@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-19",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The last six months in LLMs in five minutes",
+      "body": "HN Score: 215",
+      "caption": "来源: Hacker News | https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Click (2016)",
+      "body": "HN Score: 262",
+      "caption": "来源: Hacker News | https://clickclickclick.click/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Anyone on the Internet Can Ring Your Doorbell",
+      "body": "HN Score: 68",
+      "caption": "来源: Hacker News | https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Regex Chess: A 2-ply minimax chess engine in 84,688 regular expressions",
+      "body": "HN Score: 83",
+      "caption": "来源: Hacker News | https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "body": "HN Score: 413",
+      "caption": "来源: Hacker News | https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "suyancc/openai-plus-vxt",
+      "body": "[TypeScript] 一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。 | ★22",
+      "caption": "来源: GitHub Trending | https://github.com/suyancc/openai-plus-vxt",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "he4rt/marketing-extension",
+      "body": "[JavaScript] Chrome extension that passively captures X/Twitter GraphQL responses to track community engagement. Exports structured J | ★21",
+      "caption": "来源: GitHub Trending | https://github.com/he4rt/marketing-extension",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "boona13/crowds-system-js",
+      "body": "[HTML] ★11",
+      "caption": "来源: GitHub Trending | https://github.com/boona13/crowds-system-js",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "RoseKhlifa/Image-Studio",
+      "body": "[TypeScript] 开源image2调用图像生成/编辑桌面客户端 · SSE 流式保活,兼容 Cloudflare 524/504 超时截断 · Wails (Go + React/TS) ·   数据 100% 本地 | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/RoseKhlifa/Image-Studio",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Lynnouo/yushio",
+      "body": "[Python] Yushio (夕潮) — An AI collaborator persona for Claude Code and beyond. Three layered skills: base + art director + code au | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/Lynnouo/yushio",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
