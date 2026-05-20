@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-20",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Railway Blocked by Google Cloud",
+      "body": "HN Score: 391",
+      "caption": "来源: Hacker News | https://status.railway.com/?date=20260519",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "body": "HN Score: 128",
+      "caption": "来源: Hacker News | https://fivethirtyeightindex.com/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Gemini 3.5 Flash",
+      "body": "HN Score: 701 | https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.5-flas...",
+      "caption": "来源: Hacker News | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "body": "HN Score: 700",
+      "caption": "来源: Hacker News | https://virtualosmuseum.org/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "body": "HN Score: 222",
+      "caption": "来源: Hacker News | https://github.com/wiltodelta/remove-ai-watermarks",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "thananon/9arm-skills",
+      "body": "[Shell] ★382",
+      "caption": "来源: GitHub Trending | https://github.com/thananon/9arm-skills",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "guowang23333/kiro-pro-batch",
+      "body": "[JavaScript] Kiro Pro/Pro+ 批量订阅自动化工具，支持 GitHub/Google/AWS Builder ID 登录 + Stripe 自动支付 | ★37",
+      "caption": "来源: GitHub Trending | https://github.com/guowang23333/kiro-pro-batch",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "internetkafe/vpnhostinglist",
+      "body": "vps hosting list / список ссылок на vps хостинги | RemnaWave / 3X-UI / MarzBan / PasarGuard | ★34",
+      "caption": "来源: GitHub Trending | https://github.com/internetkafe/vpnhostinglist",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "5ec1cff/injectrc",
+      "body": "[C++] ★22",
+      "caption": "来源: GitHub Trending | https://github.com/5ec1cff/injectrc",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "smallpeanutbaby/little-peanut-agent",
+      "body": "[TypeScript] ★13",
+      "caption": "来源: GitHub Trending | https://github.com/smallpeanutbaby/little-peanut-agent",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
