@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-21",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "body": "HN Score: 984 | https:&#x2F;&#x2F;x.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271800912, https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2057175727271",
+      "caption": "来源: Hacker News | https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "body": "HN Score: 719 | Previous thread in sequence:GitHub is investigating unauthorized access to their internal repositories - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;i",
+      "caption": "来源: Hacker News | https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Haskell Foundation 2026 Update",
+      "body": "HN Score: 62",
+      "caption": "来源: Hacker News | https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: I reverse engineered Apple's video wallpapers",
+      "body": "HN Score: 202 | Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do",
+      "caption": "来源: Hacker News | https://github.com/kageroumado/phosphene",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DOS Zone",
+      "body": "HN Score: 189",
+      "caption": "来源: Hacker News | https://dos.zone/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Eynzof/hermes-agent-cn-desktop",
+      "body": "[TypeScript] Hermes Agent CN desktop app, Windows-First, built with Tauri, Typescript and Rust | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/Eynzof/hermes-agent-cn-desktop",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "YinqiBai962/D-ARL",
+      "body": "[Python] ★9",
+      "caption": "来源: GitHub Trending | https://github.com/YinqiBai962/D-ARL",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "lemon-casino/ai-lemon-tools-release",
+      "body": "ai 解决方案 | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/lemon-casino/ai-lemon-tools-release",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "obscurejames/ariel",
+      "body": "[C] UEFI bootloader supporting ELF relocation and memory mapping | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/obscurejames/ariel",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "JiaoTangXQ/obsidian-theme",
+      "body": "[JavaScript] obsidian 美化页面样式 | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/JiaoTangXQ/obsidian-theme",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
