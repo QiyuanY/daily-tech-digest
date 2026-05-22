@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-22",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "body": "HN Score: 784",
+      "caption": "来源: Hacker News | https://valhovey.github.io/gaia-mary/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "body": "HN Score: 233",
+      "caption": "来源: Hacker News | https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Was my $48K GPU server worth it?",
+      "body": "HN Score: 381",
+      "caption": "来源: Hacker News | https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Using Kagi Search with Low Vision",
+      "body": "HN Score: 177",
+      "caption": "来源: Hacker News | https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Uv is fantastic, but its package management UX is a mess",
+      "body": "HN Score: 153",
+      "caption": "来源: Hacker News | https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "amoslee2026/Babel",
+      "body": "[SystemVerilog] AI-native Chiplet design flow based on open-source EDA toolchain | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/amoslee2026/Babel",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alonsovm44/tc-lang",
+      "body": "[C] A minimalistic portable assembly lenguage | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/alonsovm44/tc-lang",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "yangblin666/xiaoyang-machine-learning",
+      "body": "[HTML] 给广大科研者、爱好者学习，共同交流，希望大家点 Star 多多支持 | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/yangblin666/xiaoyang-machine-learning",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "huey1in/KiroX_Cli",
+      "body": "[Go] ★6",
+      "caption": "来源: GitHub Trending | https://github.com/huey1in/KiroX_Cli",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "oscareduardomc/programacion_para_internetIII",
+      "body": "Este es el repositorio para la clase de Programación para Internet III, aquí se guardaran todos los proyectos y activida | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/oscareduardomc/programacion_para_internetIII",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
