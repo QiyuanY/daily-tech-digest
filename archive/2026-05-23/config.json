@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-23",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "body": "HN Score: 308",
+      "caption": "来源: Hacker News | https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Microsoft reports AI is more expensive than paying human employees",
+      "body": "HN Score: 161",
+      "caption": "来源: Hacker News | https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Why Japanese companies do so many different things",
+      "body": "HN Score: 588",
+      "caption": "来源: Hacker News | https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Project Glasswing: An Initial Update",
+      "body": "HN Score: 384",
+      "caption": "来源: Hacker News | https://www.anthropic.com/research/glasswing-initial-update",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Sleep research led to a new sleep apnea drug",
+      "body": "HN Score: 119",
+      "caption": "来源: Hacker News | https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "gokulgml/polymarket-copy-trading-bot",
+      "body": "[TypeScript] polymarket trading bot,polymarket copy trading bot,polymarket trading bot,polymarket copy trading bot,polymarket trading | ★136",
+      "caption": "来源: GitHub Trending | https://github.com/gokulgml/polymarket-copy-trading-bot",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "zy-zmc/tianming-skill",
+      "body": "[PowerShell] 天命 · AI长篇小说协同创作Skill — 模块化提示词工程系统 (Claude Skill / Prompt Engineering for Novel Writing) | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/zy-zmc/tianming-skill",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "bryanyzhu/agentic-ai-system-course",
+      "body": "[Shell] Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents  | ★18",
+      "caption": "来源: GitHub Trending | https://github.com/bryanyzhu/agentic-ai-system-course",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "RhysSullivan/meshnet",
+      "body": "[JavaScript] ★6",
+      "caption": "来源: GitHub Trending | https://github.com/RhysSullivan/meshnet",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Prateek-squadron/hyprconf2lua",
+      "body": "[Python] Convert Hyprland .conf to Lua for v0.55+ — drop-in replacement for deprecated hyprlang. ~97% auto-conversion, 0% guesswo | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/Prateek-squadron/hyprconf2lua",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
