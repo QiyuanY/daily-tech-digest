@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-24",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Amazon Web Services – Four Years and Out",
+      "body": "HN Score: 62",
+      "caption": "来源: Hacker News | https://www.adventuresinoss.com/aws-four-years/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "body": "HN Score: 152 | https:&#x2F;&#x2F;opensource.microsoft.com&#x2F;blog&#x2F;2026&#x2F;04&#x2F;28&#x2F;continuing-...",
+      "caption": "来源: Hacker News | https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?",
+      "body": "HN Score: 54",
+      "caption": "来源: Hacker News | https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "body": "HN Score: 101",
+      "caption": "来源: Hacker News | https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Wake up! 16b",
+      "body": "HN Score: 140",
+      "caption": "来源: Hacker News | https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "maowuzz/chatgpt-session-forge",
+      "body": "[JavaScript] ChatGPT 会话管理与 CPA/sub2api/Cockpit 导出工具 / Local ChatGPT session manager and CPA/sub2api/Cockpit exporter | ★27",
+      "caption": "来源: GitHub Trending | https://github.com/maowuzz/chatgpt-session-forge",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "modaic-ai/gepa-viz",
+      "body": "[TypeScript] Interactive live visualizer for gepa runs | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/modaic-ai/gepa-viz",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SmithVestibule/Hytale-Mods-Windows-2026",
+      "body": "⭐️ Hytale Mods 2026 | Aimbot ESP Wallhack | Triggerbot NoRecoil Glow | Mod Menu Executor Loader | Auto Farm Heal Macro | | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/SmithVestibule/Hytale-Mods-Windows-2026",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "MysticCommissioner/Revo-Uninstaller-Pro-Crack-2026",
+      "body": "⭐️ Revo Uninstaller Pro 2026 | Uninstall Software Windows 10/11 | Complete Removal Tool | Setup Installer v5.0 | Activat | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/MysticCommissioner/Revo-Uninstaller-Pro-Crack-2026",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Cascadethroughspark/Spotify-Premium-Crack-2026",
+      "body": "⭐️ Spotify Premium 2026 | Setup Installer v1.0 | Keygen License Key | Full Version Pre-Activated | Latest Build Pro | By | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/Cascadethroughspark/Spotify-Premium-Crack-2026",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
