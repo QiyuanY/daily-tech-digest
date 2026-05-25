@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-25",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Jira Is Turing-Complete",
+      "body": "HN Score: 67",
+      "caption": "来源: Hacker News | https://seriot.ch/computation/jira.html",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "body": "HN Score: 299",
+      "caption": "来源: Hacker News | https://audiomass.co/?multitrack=1",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "body": "HN Score: 521 | Related ongoing thread:DeepSeek makes the V4 Pro price discount permanent - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48237663 - May 2026 (3",
+      "caption": "来源: Hacker News | https://esengine.github.io/DeepSeek-Reasonix/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Migrating from Go to Rust",
+      "body": "HN Score: 219",
+      "caption": "来源: Hacker News | https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "White Rabbit – sub-nanosecond synchronization for large distributed systems",
+      "body": "HN Score: 65",
+      "caption": "来源: Hacker News | https://ohwr.org/projects/white-rabbit/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "realrossmanngroup/no_ai_slop_writing_rules",
+      "body": "Claude Code reference: write in Louis Rossmann's voice, never like AI slop. Portable CLAUDE.md plus skills. | ★24",
+      "caption": "来源: GitHub Trending | https://github.com/realrossmanngroup/no_ai_slop_writing_rules",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "gonefunctor/ariel",
+      "body": "[C] AArch64 EL2 hypervisor for QEMU virt that boots at EL2 | ★23",
+      "caption": "来源: GitHub Trending | https://github.com/gonefunctor/ariel",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Hemani-S/legal-case--prediction-project",
+      "body": "[Jupyter Notebook] ★22",
+      "caption": "来源: GitHub Trending | https://github.com/Hemani-S/legal-case--prediction-project",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "johilrohan92-prog/Fingerprint-Based-Blood-Group-Detection-Using--vision-transformer-and--ensemble-learning",
+      "body": "[Jupyter Notebook] ★13",
+      "caption": "来源: GitHub Trending | https://github.com/johilrohan92-prog/Fingerprint-Based-Blood-Group-Detection-Using--vision-transformer-and--ensemble-learning",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SKarthika13/UPI-fraud-detection-using-machine-learning",
+      "body": "★12",
+      "caption": "来源: GitHub Trending | https://github.com/SKarthika13/UPI-fraud-detection-using-machine-learning",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
