@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-26",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Using AI to write better code more slowly",
+      "body": "HN Score: 423",
+      "caption": "来源: Hacker News | https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "body": "HN Score: 205",
+      "caption": "来源: Hacker News | https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How Shamir's Secret Sharing Works",
+      "body": "HN Score: 146",
+      "caption": "来源: Hacker News | https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "body": "HN Score: 228",
+      "caption": "来源: Hacker News | https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
+      "body": "HN Score: 117",
+      "caption": "来源: Hacker News | https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "SeemSeam/plan-tree",
+      "body": "Codex skill for maintaining structured planning document trees | ★25",
+      "caption": "来源: GitHub Trending | https://github.com/SeemSeam/plan-tree",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "vaamonde/ai-network-senac-tit",
+      "body": "Repositório do Curso de IA para Redes de Computadores do SENAC Lapa Tito | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/vaamonde/ai-network-senac-tit",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "WoodHelmsman/Macrium-Reflect-Crack",
+      "body": "Software repository — parsed from GitHub. | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/WoodHelmsman/Macrium-Reflect-Crack",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "opencrewmanspigot/Unnamed-ESP",
+      "body": "Player ESP for Roblox, fully undetectable, uses Synapse's built in drawing API | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/opencrewmanspigot/Unnamed-ESP",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "PoolSocialTower/Folx-Pro-Crack",
+      "body": "Software repository — parsed from GitHub. | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/PoolSocialTower/Folx-Pro-Crack",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
