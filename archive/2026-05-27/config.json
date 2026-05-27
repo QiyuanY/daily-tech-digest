@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-27",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Cloudflare Flagship",
+      "body": "HN Score: 166",
+      "caption": "来源: Hacker News | https://developers.cloudflare.com/flagship/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "That Methyl Methacrylate Tank",
+      "body": "HN Score: 300",
+      "caption": "来源: Hacker News | https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I built a Git-tracked book production pipeline",
+      "body": "HN Score: 210",
+      "caption": "来源: Hacker News | https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A few interesting modern pixel fonts",
+      "body": "HN Score: 314",
+      "caption": "来源: Hacker News | https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "From Rust to Ruby",
+      "body": "HN Score: 95",
+      "caption": "来源: Hacker News | https://xlii.space/eng/from-rust-to-ruby/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GOROman/nullevi03",
+      "body": "[Shell] ★87",
+      "caption": "来源: GitHub Trending | https://github.com/GOROman/nullevi03",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "dama-cyber/Distilled-Novel-Toolbox",
+      "body": "??????? - novel writing skills toolbox | ★34",
+      "caption": "来源: GitHub Trending | https://github.com/dama-cyber/Distilled-Novel-Toolbox",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Devadarshini27/NPTEL-Tracker",
+      "body": "[JavaScript] ★23",
+      "caption": "来源: GitHub Trending | https://github.com/Devadarshini27/NPTEL-Tracker",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mli/docs",
+      "body": "[MDX] ★16",
+      "caption": "来源: GitHub Trending | https://github.com/mli/docs",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "OttoRenner/Gentle-Coding",
+      "body": "A small scale Proof of Concept (PoC) demonstrating how authoritarian prompt engineering induces emergent performance anx | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/OttoRenner/Gentle-Coding",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
