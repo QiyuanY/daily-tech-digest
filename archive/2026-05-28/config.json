@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-28",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "body": "HN Score: 733 | https:&#x2F;&#x2F;variety.com&#x2F;2026&#x2F;digital&#x2F;news&#x2F;youtube-ai-video-label...",
+      "caption": "来源: Hacker News | https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Hallucinate – Massively Multiplayer Online Rave",
+      "body": "HN Score: 100",
+      "caption": "来源: Hacker News | https://hallucinate.site",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "body": "HN Score: 775",
+      "caption": "来源: Hacker News | https://simonwillison.net/2026/May/27/product-market-fit/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "SimCity 3k in 4k (2025)",
+      "body": "HN Score: 336",
+      "caption": "来源: Hacker News | https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "What Apple and Google are doing to push notifications",
+      "body": "HN Score: 240",
+      "caption": "来源: Hacker News | https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "XuToWei/Image-To-UI",
+      "body": "[Python] Image-to-UI Codex skill: convert game UI screenshots and sliced sprites into ui_structure.json. | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/XuToWei/Image-To-UI",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "OnlyTerp/prompt-cache-skills",
+      "body": "[Python] Drop-in prompt-caching fixes for the LLM agent harness you use. Point your AI coding agent at this repo and it ships the | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/OnlyTerp/prompt-cache-skills",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "stagas/hallucinate",
+      "body": "[TypeScript] ★10",
+      "caption": "来源: GitHub Trending | https://github.com/stagas/hallucinate",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Dilpreetxsandu/medisense-ai",
+      "body": "[HTML] ★10",
+      "caption": "来源: GitHub Trending | https://github.com/Dilpreetxsandu/medisense-ai",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "chaxiu/munk-ai",
+      "body": "AI testing infrastructure for Harness Engineering across Android, iOS, and Web. | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/chaxiu/munk-ai",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
