@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-29",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Claude Opus 4.8",
+      "body": "HN Score: 1380",
+      "caption": "来源: Hacker News | https://www.anthropic.com/news/claude-opus-4-8",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+      "body": "HN Score: 793",
+      "caption": "来源: Hacker News | https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Blue Origin’s New Glenn rocket exploded during a static fire test",
+      "body": "HN Score: 150",
+      "caption": "来源: Hacker News | https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I made a million dollar product from my dorm room (2025)",
+      "body": "HN Score: 312",
+      "caption": "来源: Hacker News | https://nick.winans.io/blog/nice-nano/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cars collect a startling amount of data about you",
+      "body": "HN Score: 239",
+      "caption": "来源: Hacker News | https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Polymarket-DevRel/polymarket-devrel",
+      "body": "[Rust] ★70",
+      "caption": "来源: GitHub Trending | https://github.com/Polymarket-DevRel/polymarket-devrel",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ivanzhang2/mainland-tv-drama",
+      "body": "大陆电视剧追剧手册 2024-2026 | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/ivanzhang2/mainland-tv-drama",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ivanzhang/overseas-drama-guide",
+      "body": "海外剧集观影笔记 - 鱿鱼游戏 / 权力的游戏 / 绝命毒师 | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/ivanzhang/overseas-drama-guide",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ivanzhang2/year-by-year-films",
+      "body": "按年份分类电影榜：2024 / 2025 / 2026 | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/ivanzhang2/year-by-year-films",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ivanzhang/movie-region-guide",
+      "body": "按地区分类的电影榜：美国 / 日本 / 韩国 / 港片 | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/ivanzhang/movie-region-guide",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
