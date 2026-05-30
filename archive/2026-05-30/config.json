@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-30",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "SQLite is all you need for durable workflows",
+      "body": "HN Score: 453",
+      "caption": "来源: Hacker News | https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "body": "HN Score: 140",
+      "caption": "来源: Hacker News | https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Naphtha shortages in Japan",
+      "body": "HN Score: 77",
+      "caption": "来源: Hacker News | https://www.nippon.com/en/japan-data/h02783/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Notes from the Mistral AI Now Summit",
+      "body": "HN Score: 331",
+      "caption": "来源: Hacker News | https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MCP is dead?",
+      "body": "HN Score: 151",
+      "caption": "来源: Hacker News | https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "kitlangton/cellshot",
+      "body": "[Rust] ★16",
+      "caption": "来源: GitHub Trending | https://github.com/kitlangton/cellshot",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "wwe-dog/ppt-image2-editable-rebuild",
+      "body": "[Python] 一个基于截图/参考图重建可编辑 PPT 的 Codex skill。先用 image2/imagegen 生成单页视觉参考图，再以局部截图保留复杂插图、图标、地图等视觉资产，同时用 PPT 文本框和形状重建标题、正文、卡片、箭头、标签、结论 | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/wwe-dog/ppt-image2-editable-rebuild",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "YonghaoZhao722/cc-sanitizer",
+      "body": "[TypeScript] Fix Claude Code's \"Invalid signature in thinking block\" error when switching models | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/YonghaoZhao722/cc-sanitizer",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "lucidrains/kalmanformer",
+      "body": "[Python] Implementation of Kalmanformer, modeling the Kalman gain with a transformer | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/lucidrains/kalmanformer",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "zgwl/chinese-buy-us-stock-guide",
+      "body": "美股指南 | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/zgwl/chinese-buy-us-stock-guide",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
