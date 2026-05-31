@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-31",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Domain expertise has always been the real moat",
+      "body": "HN Score: 451",
+      "caption": "来源: Hacker News | https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "body": "HN Score: 51",
+      "caption": "来源: Hacker News | https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Shantell Sans (2023)",
+      "body": "HN Score: 187",
+      "caption": "来源: Hacker News | https://shantellsans.com/process",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I found a seashell in the middle of the desert",
+      "body": "HN Score: 286",
+      "caption": "来源: Hacker News | https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Microsoft Office 2019 and 2021 for Mac view-only conversion",
+      "body": "HN Score: 771",
+      "caption": "来源: Hacker News | https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "polymaxi2/polymarket-arbitrage-trading-bot",
+      "body": "polymarket trading bot polymarket bot polymarket bot polymarket bot polymarket trading bot polymarket trading bot polyma | ★203",
+      "caption": "来源: GitHub Trending | https://github.com/polymaxi2/polymarket-arbitrage-trading-bot",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "veryyoldman/metamask-openclaw",
+      "body": "[TypeScript] 🦊 OpenClaw — a safety-first MetaMask SDK toolkit & AI-agent skill. Connect wallets, read balances, sign messages and sen | ★87",
+      "caption": "来源: GitHub Trending | https://github.com/veryyoldman/metamask-openclaw",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "jarvisjustinj-arch/TaskMaster-ReactNative",
+      "body": "[JavaScript] A modern React Native starter project for task management with clean structure and beginner-friendly code. | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/jarvisjustinj-arch/TaskMaster-ReactNative",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "gmapsscraper/google-maps-agent-skills",
+      "body": "Claude Code / OpenClaw skills for Google Maps lead    generation. Scrape businesses, extract emails, analyze competitors | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/gmapsscraper/google-maps-agent-skills",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "luoshi2025/skill-antifragile",
+      "body": "Antifragile debate skill: A proposes, B finds gaps, God's-hand fuses. Three-step adversarial review for any plan or deci | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/luoshi2025/skill-antifragile",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
