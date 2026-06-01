@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-01",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Chuwi Minibook X",
+      "body": "HN Score: 207",
+      "caption": "来源: Hacker News | https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "body": "HN Score: 624",
+      "caption": "来源: Hacker News | https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+      "body": "HN Score: 100",
+      "caption": "来源: Hacker News | https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+      "body": "HN Score: 183",
+      "caption": "来源: Hacker News | https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "body": "HN Score: 364",
+      "caption": "来源: Hacker News | https://prismml.com/news/bonsai-image-4b",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "djs0618/RFABE",
+      "body": "[Python] ★16",
+      "caption": "来源: GitHub Trending | https://github.com/djs0618/RFABE",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mmaterone/shender",
+      "body": "[JavaScript] A bridge layer between After Effects and Illustrator. | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/mmaterone/shender",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "xiaoyehua111/chatgpt-answer-outline",
+      "body": "[JavaScript] ★10",
+      "caption": "来源: GitHub Trending | https://github.com/xiaoyehua111/chatgpt-answer-outline",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "couragec/llm-intern-skill",
+      "body": "[TeX] ★8",
+      "caption": "来源: GitHub Trending | https://github.com/couragec/llm-intern-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "TclyAug/PPLL",
+      "body": "[C++] ★7",
+      "caption": "来源: GitHub Trending | https://github.com/TclyAug/PPLL",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
