@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-02",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "body": "HN Score: 1605 | https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2026&#x2F;06&#x2F;hackers-used-metas-ai-su...",
+      "caption": "来源: Hacker News | https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "macOS needs its grid back",
+      "body": "HN Score: 186",
+      "caption": "来源: Hacker News | https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "body": "HN Score: 266 | https:&#x2F;&#x2F;archive.ph&#x2F;nKEVw",
+      "caption": "来源: Hacker News | https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "body": "HN Score: 230",
+      "caption": "来源: Hacker News | https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Chipotlai Max",
+      "body": "HN Score: 170",
+      "caption": "来源: Hacker News | https://github.com/cyberpapiii/chipotlai-max",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "001x1/Multi-Crypto-Flashing-Tool",
+      "body": "✅ https://cryptoflasher.net ✅ | ★71",
+      "caption": "来源: GitHub Trending | https://github.com/001x1/Multi-Crypto-Flashing-Tool",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Ching0346mi7/Flash-USDT-Sender",
+      "body": "[Python] Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas s | ★45",
+      "caption": "来源: GitHub Trending | https://github.com/Ching0346mi7/Flash-USDT-Sender",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "chrisryugj/archhub-mcp",
+      "body": "[Python] 국토교통부 건축HUB → MCP 서버. 건축물대장·건축인허가·주택인허가 + 법정동코드 + 한 필지 종합카드·동 단위 통계·노후건축물 분석. 공용키 탑재 remote 커넥터(URL만 등록) | ★22",
+      "caption": "来源: GitHub Trending | https://github.com/chrisryugj/archhub-mcp",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Adhithya988/Personal-Finance-Visualizer",
+      "body": "[HTML] new repo | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/Adhithya988/Personal-Finance-Visualizer",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Mordekai32/epms",
+      "body": "[JavaScript] ★15",
+      "caption": "来源: GitHub Trending | https://github.com/Mordekai32/epms",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
