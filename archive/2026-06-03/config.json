@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-03",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "body": "HN Score: 283",
+      "caption": "来源: Hacker News | https://blog.ammaraskar.com/github-token-stealing/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Unreasonable Redundancy of Nature's Protein Folds",
+      "body": "HN Score: 58",
+      "caption": "来源: Hacker News | https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "body": "HN Score: 252",
+      "caption": "来源: Hacker News | https://github.com/c0dejedi/nbd-vram",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MAI-Code-1-Flash",
+      "body": "HN Score: 446 | https:&#x2F;&#x2F;microsoft.ai&#x2F;models&#x2F;mai-code-1-flash&#x2F;https:&#x2F;&#x2F;microsoft.ai&#x2F;pdf&#x2F;MAI-Code-1-Flash-Model-Card.PDFLaun",
+      "caption": "来源: Hacker News | https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "CT scans of BYD car parts",
+      "body": "HN Score: 336",
+      "caption": "来源: Hacker News | https://www.lumafield.com/scan-of-the-month/byd",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GalaxyGeneralRobotics/Humanoid-GPT",
+      "body": "[Python] ★16",
+      "caption": "来源: GitHub Trending | https://github.com/GalaxyGeneralRobotics/Humanoid-GPT",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "veteranbv/aicrawl",
+      "body": "[Go] ★13",
+      "caption": "来源: GitHub Trending | https://github.com/veteranbv/aicrawl",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "magicwand1993/C-nh-n",
+      "body": "[TypeScript] ★12",
+      "caption": "来源: GitHub Trending | https://github.com/magicwand1993/C-nh-n",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "9904099/opsledger",
+      "body": "[Go] Self-hosted cloud operations ledger, CMDB, credential approvals, audit logs, cost snapshots, and WebSSH for SRE and DevO | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/9904099/opsledger",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "xevrion-v2/agent-playground",
+      "body": "[TypeScript] ★8",
+      "caption": "来源: GitHub Trending | https://github.com/xevrion-v2/agent-playground",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
