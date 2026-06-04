@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-04",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "\"They're made out of weights\"",
+      "body": "HN Score: 407",
+      "caption": "来源: Hacker News | https://maxleiter.com/blog/weights",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "body": "HN Score: 186",
+      "caption": "来源: Hacker News | https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "body": "HN Score: 699",
+      "caption": "来源: Hacker News | https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "body": "HN Score: 156",
+      "caption": "来源: Hacker News | https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "body": "HN Score: 794",
+      "caption": "来源: Hacker News | https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "boona13/sprite-lab",
+      "body": "[TypeScript] ★28",
+      "caption": "来源: GitHub Trending | https://github.com/boona13/sprite-lab",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Jasionf/smart-home-button",
+      "body": "[C++] ★21",
+      "caption": "来源: GitHub Trending | https://github.com/Jasionf/smart-home-button",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ApprenticeTrek55/4k-video-downloader-crack",
+      "body": "★18",
+      "caption": "来源: GitHub Trending | https://github.com/ApprenticeTrek55/4k-video-downloader-crack",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "magmaagentstare/Internet-Manager-Download-crack",
+      "body": "Internet Manager Download - High-speed download accelerator and file management utility. Comprehensive guide with setup  | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/magmaagentstare/Internet-Manager-Download-crack",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ZettaSnailStar/autodesk-revit-crack",
+      "body": "Autodesk Revit - Building Information Modeling (BIM) software for architectural design. Comprehensive guide with setup i | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/ZettaSnailStar/autodesk-revit-crack",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
