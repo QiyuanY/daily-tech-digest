@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-05",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "body": "HN Score: 176 | https:&#x2F;&#x2F;developers.meta.com&#x2F;horizon&#x2F;blog&#x2F;build-apps-for-port...",
+      "caption": "来源: Hacker News | https://fb.watch/HxPu0fSyeH/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+      "body": "HN Score: 83",
+      "caption": "来源: Hacker News | https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "body": "HN Score: 365",
+      "caption": "来源: Hacker News | https://github.com/anthropics/defending-code-reference-harness",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "body": "HN Score: 130",
+      "caption": "来源: Hacker News | https://github.com/alibaba/open-code-review",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "body": "HN Score: 141",
+      "caption": "来源: Hacker News | https://arxiv.org/abs/2606.04032",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "veryyoldman/undress-ai-image-video-generator",
+      "body": "[Python] AI tool for generating uncensored images and videos | ★131",
+      "caption": "来源: GitHub Trending | https://github.com/veryyoldman/undress-ai-image-video-generator",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HemomancerCreate/Undown-Tool",
+      "body": "Best tool for unlock lockdown browser bypass | ★29",
+      "caption": "来源: GitHub Trending | https://github.com/HemomancerCreate/Undown-Tool",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "coinbaselarper/lucideium",
+      "body": "[Shell] Lucideium chromeos mod | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/coinbaselarper/lucideium",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "zzszmyf/codefuse",
+      "body": "[Go] Stop grepping. CodeFuse pre-indexes your codebase so AI agents can cat symbols and ls outlines in stead of rescanning fi | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/zzszmyf/codefuse",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "chaseai-yt/grill-me-codex",
+      "body": "★13",
+      "caption": "来源: GitHub Trending | https://github.com/chaseai-yt/grill-me-codex",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
