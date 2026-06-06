@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-06",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "C++: The Programming Language back cover raises questions not answered by front",
+      "body": "HN Score: 55",
+      "caption": "来源: Hacker News | https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The intracies of modern camera lens repair (2024)",
+      "body": "HN Score: 128",
+      "caption": "来源: Hacker News | https://salvagedcircuitry.com/sigma-45mm.html",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How LLMs work",
+      "body": "HN Score: 130",
+      "caption": "来源: Hacker News | https://www.0xkato.xyz/how-llms-actually-work/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "body": "HN Score: 84",
+      "caption": "来源: Hacker News | https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "body": "HN Score: 376",
+      "caption": "来源: Hacker News | https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "anthony80188/medical-rag-chatbot",
+      "body": "[TypeScript] A medical FAQ chatbot powered by Retrieval-Augmented Generation (RAG) using FastAPI, LangChain, Qdrant, and React. | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/anthony80188/medical-rag-chatbot",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Mr-Erco/Nova-OperatingSystem",
+      "body": "[HTML] A fast and lightweight Operating System for you device | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/Mr-Erco/Nova-OperatingSystem",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "viper690/zenith-mesh",
+      "body": "Cloud-native service mesh for resilient microservices communication and observability. | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/viper690/zenith-mesh",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "viper690/nova-proxy",
+      "body": "High-performance Layer 7 proxy and load balancer optimized for edge computing. | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/viper690/nova-proxy",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "whaine-dev/O-que-mais-gosto-em-pernambuco",
+      "body": "[HTML] ★4",
+      "caption": "来源: GitHub Trending | https://github.com/whaine-dev/O-que-mais-gosto-em-pernambuco",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
