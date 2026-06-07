@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-07",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Valve P2P networking broken for more than 2 months",
+      "body": "HN Score: 103",
+      "caption": "来源: Hacker News | https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "body": "HN Score: 60",
+      "caption": "来源: Hacker News | https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "body": "HN Score: 78",
+      "caption": "来源: Hacker News | https://arxiv.org/abs/2601.14470",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "body": "HN Score: 165",
+      "caption": "来源: Hacker News | https://openai.com/index/harness-engineering/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "body": "HN Score: 318",
+      "caption": "来源: Hacker News | https://ntsc.rs/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "JimLiu/baoyu-design",
+      "body": "[JavaScript] Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks | ★66",
+      "caption": "来源: GitHub Trending | https://github.com/JimLiu/baoyu-design",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "CMC-27/Vibe-App-Wiki",
+      "body": "★11",
+      "caption": "来源: GitHub Trending | https://github.com/CMC-27/Vibe-App-Wiki",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mkhazaeidev/pypi-wheel-downloader",
+      "body": "[Python] Download all available wheel files for the latest release of any PyPI package directly from the official PyPI API. | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/mkhazaeidev/pypi-wheel-downloader",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Kovendan-R/CUSTOMER_CHURN_AGENT-master",
+      "body": "[Python] ★5",
+      "caption": "来源: GitHub Trending | https://github.com/Kovendan-R/CUSTOMER_CHURN_AGENT-master",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "youmadefox-spec/ai-botanic-picker-serenity-skill",
+      "body": "[Python] ★4",
+      "caption": "来源: GitHub Trending | https://github.com/youmadefox-spec/ai-botanic-picker-serenity-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
