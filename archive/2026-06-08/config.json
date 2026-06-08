@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-08",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
+      "body": "HN Score: 79",
+      "caption": "来源: Hacker News | https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Dopamine Fracking",
+      "body": "HN Score: 113",
+      "caption": "来源: Hacker News | https://igerman.cc/blog/dopamine-fracking/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "APC–2 – A professional record cutter for producing original playback discs",
+      "body": "HN Score: 184",
+      "caption": "来源: Hacker News | https://teenage.engineering/products/apc-2",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "body": "HN Score: 160",
+      "caption": "来源: Hacker News | https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Building from zero after addiction, prison, and a felony",
+      "body": "HN Score: 567",
+      "caption": "来源: Hacker News | https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "supperzl/ita",
+      "body": "[Python] ★58",
+      "caption": "来源: GitHub Trending | https://github.com/supperzl/ita",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "StalkerLightning/roblox-voice-fix-2026",
+      "body": "[HTML] GoodbyeDPI · Zapret · DPI bypass 2026 · ⬇ Releases · без Python · один exe · roblox voice fix 2026 · 3-in-1 bypass 2026  | ★29",
+      "caption": "来源: GitHub Trending | https://github.com/StalkerLightning/roblox-voice-fix-2026",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "canwhite/MicroRAG",
+      "body": "[Python] The minimal implementation of rag | ★22",
+      "caption": "来源: GitHub Trending | https://github.com/canwhite/MicroRAG",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "StellarInsure-Org/stellarinsure-website",
+      "body": "[TypeScript] StellarInsure marketing website — editorial minimalist, built with Next.js + shadcn/ui | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/StellarInsure-Org/stellarinsure-website",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "sfee1212/moyutv",
+      "body": "[Kotlin] ★8",
+      "caption": "来源: GitHub Trending | https://github.com/sfee1212/moyutv",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
