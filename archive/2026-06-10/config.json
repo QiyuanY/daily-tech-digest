@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-10",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "macOS Container Machines",
+      "body": "HN Score: 555",
+      "caption": "来源: Hacker News | https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Fable 5",
+      "body": "HN Score: 2047 | System Card [pdf]: https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...",
+      "caption": "来源: Hacker News | https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Upcoming breaking changes for npm v12",
+      "body": "HN Score: 301",
+      "caption": "来源: Hacker News | https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Rich Sutton on AI creativity and discovery",
+      "body": "HN Score: 78 | https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=K5LAFEjTlBA",
+      "caption": "来源: Hacker News | https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "body": "HN Score: 324",
+      "caption": "来源: Hacker News | https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tom-Babb/ai-marketing-skills-with-by-tom-babb",
+      "body": "★15",
+      "caption": "来源: GitHub Trending | https://github.com/Tom-Babb/ai-marketing-skills-with-by-tom-babb",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HoleMythBall/F95-zone-Sync-Manager",
+      "body": "Best NSFW Game Manager 2026 – Auto Install and Update Mods Fast  | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/HoleMythBall/F95-zone-Sync-Manager",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "JiminLee-way/SejongUnivMobile",
+      "body": "[Dart] 비공식 세종대학교 통합 모바일 앱. | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/JiminLee-way/SejongUnivMobile",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "aslzoda1/j10023",
+      "body": "[Python] ★8",
+      "caption": "来源: GitHub Trending | https://github.com/aslzoda1/j10023",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "aslzoda1/j9917",
+      "body": "[C++] ★8",
+      "caption": "来源: GitHub Trending | https://github.com/aslzoda1/j9917",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
