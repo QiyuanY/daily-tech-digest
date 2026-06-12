@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-12",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "body": "HN Score: 165",
+      "caption": "来源: Hacker News | https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "body": "HN Score: 344",
+      "caption": "来源: Hacker News | https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "body": "HN Score: 536",
+      "caption": "来源: Hacker News | https://tombedor.dev/human-attention-and-human-effort/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Homebrew 6.0.0",
+      "body": "HN Score: 1141 | Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller,",
+      "caption": "来源: Hacker News | https://brew.sh/2026/06/11/homebrew-6.0.0/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How we made hit video game Prince of Persia",
+      "body": "HN Score: 56",
+      "caption": "来源: Hacker News | https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "body": "[JavaScript] Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. | ★247",
+      "caption": "来源: GitHub Trending | https://github.com/DietrichGebert/ponytail",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "corerajsack52/discord-proxy-bypass-2026",
+      "body": "[HTML] ⬇ discord-proxy-bypass-2026.rar в Releases · #discord #proxy #bypass #zapret-discord-youtube #rkn-bypass #no-vpn #dpi-fi | ★40",
+      "caption": "来源: GitHub Trending | https://github.com/corerajsack52/discord-proxy-bypass-2026",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "joeseesun/qiaomu-ai-prd",
+      "body": "[Python] Turn one-line product ideas into AI-implementable PRDs with speed-read cards, constraint layers, overdelivery ideas, met | ★39",
+      "caption": "来源: GitHub Trending | https://github.com/joeseesun/qiaomu-ai-prd",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Jia-Ethan/github-solution-research",
+      "body": "[Python] Codex skill for GitHub-backed engineering solution research | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/Jia-Ethan/github-solution-research",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "corerajsack52/discord-dpi-fix-2026",
+      "body": "[HTML] ⬇ discord-dpi-fix-2026.rar в Releases · #discord #dpi #fix #zapret-discord-youtube #rkn-bypass #no-vpn #dpi-fix #russia- | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/corerajsack52/discord-dpi-fix-2026",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
