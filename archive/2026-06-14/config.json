@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-14",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Honda Civics and the Evil Valet",
+      "body": "HN Score: 206 | Previously: Show HN: Honda Civic Infotainment Reverse-Engineering - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=36052753 - May 2023 (43 commen",
+      "caption": "来源: Hacker News | https://juniperspring.org/posts/honda-evil-valet/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Pac-Man, but you're the ghost",
+      "body": "HN Score: 51",
+      "caption": "来源: Hacker News | https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "body": "HN Score: 797",
+      "caption": "来源: Hacker News | https://desfontain.es/blog/banning-noise.html",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GLM 5.2 Is Out",
+      "body": "HN Score: 500 | https:&#x2F;&#x2F;digg.com&#x2F;tech&#x2F;ii9xibgn",
+      "caption": "来源: Hacker News | https://twitter.com/jietang/status/2065784751345287314",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Every Frame Perfect",
+      "body": "HN Score: 658",
+      "caption": "来源: Hacker News | https://tonsky.me/blog/every-frame-perfect/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "pzr2508/RL_for_Game",
+      "body": "[Python] ★33",
+      "caption": "来源: GitHub Trending | https://github.com/pzr2508/RL_for_Game",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "bi7x/USDT-BTC-Transaction-Flashing-Tool",
+      "body": "★30",
+      "caption": "来源: GitHub Trending | https://github.com/bi7x/USDT-BTC-Transaction-Flashing-Tool",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "rotejin/tomari-guruguru",
+      "body": "[JavaScript] 25方向のマウス追従と口パクに対応したトマリ用ブラウザアバター | ★29",
+      "caption": "来源: GitHub Trending | https://github.com/rotejin/tomari-guruguru",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "fivetaku/fablize",
+      "body": "[Shell] A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. S | ★26",
+      "caption": "来源: GitHub Trending | https://github.com/fivetaku/fablize",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "royalbhati/sqltoerdiagram",
+      "body": "[JavaScript] ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothin | ★23",
+      "caption": "来源: GitHub Trending | https://github.com/royalbhati/sqltoerdiagram",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
