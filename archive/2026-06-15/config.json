@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-15",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Your ePub Is fine",
+      "body": "HN Score: 487",
+      "caption": "来源: Hacker News | https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Even more batteries included with Emacs",
+      "body": "HN Score: 154",
+      "caption": "来源: Hacker News | https://karthinks.com/software/even-more-batteries-included-with-emacs/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Curl will not accept vulnerability reports during July 2026",
+      "body": "HN Score: 211",
+      "caption": "来源: Hacker News | https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "body": "HN Score: 522",
+      "caption": "来源: Hacker News | https://github.com/tamnd/kage",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Bitsy",
+      "body": "HN Score: 159",
+      "caption": "来源: Hacker News | https://bitsy.org/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "thamer4a-afk/VelocityRobloxExecutor",
+      "body": "Better scripts executor for Roblox 2026. | ★154",
+      "caption": "来源: GitHub Trending | https://github.com/thamer4a-afk/VelocityRobloxExecutor",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Swarmchefill/CapC-Pro",
+      "body": "CapCut Pro Studio (2026) - The ultimate high-performance video editing suite with all premium features unlocked. Experie | ★50",
+      "caption": "来源: GitHub Trending | https://github.com/Swarmchefill/CapC-Pro",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alchaincyf/loop-engineering-orange-book",
+      "body": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free. | ★31",
+      "caption": "来源: GitHub Trending | https://github.com/alchaincyf/loop-engineering-orange-book",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HuolalaTech/huolala-figma-mcp",
+      "body": "[Python] Huolala's in-house MCP service that automatically converts Figma designs into high-fidelity UI code. | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/HuolalaTech/huolala-figma-mcp",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "renee-jia/scholar-loop",
+      "body": "[Python] An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with determinis | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/renee-jia/scholar-loop",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
