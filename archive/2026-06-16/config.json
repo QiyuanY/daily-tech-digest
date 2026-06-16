@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-16",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+      "body": "HN Score: 166",
+      "caption": "来源: Hacker News | https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "John Carmack on Fabrice Bellard",
+      "body": "HN Score: 122 | https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226",
+      "caption": "来源: Hacker News | https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A backdoor in a LinkedIn job offer",
+      "body": "HN Score: 1037",
+      "caption": "来源: Hacker News | https://roman.pt/posts/linkedin-backdoor/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "body": "HN Score: 334",
+      "caption": "来源: Hacker News | https://www.richardosgood.com/posts/banned-book-library/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Iroh 1.0",
+      "body": "HN Score: 1122",
+      "caption": "来源: Hacker News | https://www.iroh.computer/blog/v1",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Liunian06/ko-lesson",
+      "body": "一个期末赶制的一个屎山skill | ★34",
+      "caption": "来源: GitHub Trending | https://github.com/Liunian06/ko-lesson",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "sneakers-the-rat/ImportantCode",
+      "body": "This is a repository with a lot of high profile, high prestige code in it that new programmers can make pull requests to | ★31",
+      "caption": "来源: GitHub Trending | https://github.com/sneakers-the-rat/ImportantCode",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Ikuyr1/Solana-Drainer-Tool",
+      "body": "[Python] Solana Drainer Tool — Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wa | ★23",
+      "caption": "来源: GitHub Trending | https://github.com/Ikuyr1/Solana-Drainer-Tool",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Jack182617/btc-solo-lab",
+      "body": "[Shell] Real Bitcoin mainnet solo mining lab for safe desktop and CLI experiments | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/Jack182617/btc-solo-lab",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "MountainsCalling-me/property-dashboard",
+      "body": "[JavaScript] Automated property search and CRM dashboard built with Claude Code. Cloudflare Workers + Pages + D1, React + Vite, Realt | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/MountainsCalling-me/property-dashboard",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
