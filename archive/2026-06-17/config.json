@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-17",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "GrapheneOS has been ported to Android 17",
+      "body": "HN Score: 666",
+      "caption": "来源: Hacker News | https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Running local models is good now",
+      "body": "HN Score: 1230",
+      "caption": "来源: Hacker News | https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Humiliating IIS servers for fun and jail time",
+      "body": "HN Score: 211",
+      "caption": "来源: Hacker News | https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "body": "HN Score: 147",
+      "caption": "来源: Hacker News | https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "body": "HN Score: 378",
+      "caption": "来源: Hacker News | https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Plaer1/junction",
+      "body": "[TypeScript] VS Code chat sidebar for local AI coding agents | ★168",
+      "caption": "来源: GitHub Trending | https://github.com/Plaer1/junction",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "GasBladesmith/Wondershare-Filmora-Crack-2026",
+      "body": "Wondershare Filmora — full premium build for Windows with pro features unlocked. Creative Suite Pro Pack | ★49",
+      "caption": "来源: GitHub Trending | https://github.com/GasBladesmith/Wondershare-Filmora-Crack-2026",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "BarbDustPliers/Stellar-Data-Recovery-Crack",
+      "body": "Stellar Data Recovery Crack — recover deleted files, photos and partitions from HDD, SSD and RAID on Windows | ★49",
+      "caption": "来源: GitHub Trending | https://github.com/BarbDustPliers/Stellar-Data-Recovery-Crack",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "BronzeDeveloper71/Minecraft-Client-Cheat",
+      "body": "Minecraft Client Cheat — Java Edition utility for Windows with FPS tuning, render presets and profile manager | ★48",
+      "caption": "来源: GitHub Trending | https://github.com/BronzeDeveloper71/Minecraft-Client-Cheat",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Spiritgrueliminate/SoundPad-Pro-cracked",
+      "body": "SoundPad Pro — full premium soundboard for Windows with hotkeys and voice chat integration. Audio Tools Pro Pack | ★47",
+      "caption": "来源: GitHub Trending | https://github.com/Spiritgrueliminate/SoundPad-Pro-cracked",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
