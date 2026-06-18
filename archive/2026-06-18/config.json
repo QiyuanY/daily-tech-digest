@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-18",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Midjourney Medical",
+      "body": "HN Score: 521 | https:&#x2F;&#x2F;www.midjourney.com&#x2F;medicalVideo: https:&#x2F;&#x2F;x.com&#x2F;midjourney&#x2F;status&#x2F;2067422898407837797",
+      "caption": "来源: Hacker News | https://www.midjourney.com/medical/blogpost",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "body": "HN Score: 127",
+      "caption": "来源: Hacker News | https://blog.alexellis.io/local-ai-is-not-opus/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Lore – Open source version control system designed for scalability",
+      "body": "HN Score: 1089",
+      "caption": "来源: Hacker News | https://lore.org/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Apple boss Tim Cook says prices to rise due to memory chip costs",
+      "body": "HN Score: 52",
+      "caption": "来源: Hacker News | https://www.bbc.com/news/articles/c3wyxvqdx1zo",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "body": "HN Score: 433 | https:&#x2F;&#x2F;archive.ph&#x2F;MlU1U",
+      "caption": "来源: Hacker News | https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MstKail/polymarket-trading-bot-services-polyedge365",
+      "body": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket | ★40",
+      "caption": "来源: GitHub Trending | https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Try112/cesium-vectortile-gl-plus",
+      "body": "[JavaScript] **cesium-vectortile-gl-plus** 是专为 **CesiumJS** 设计的开源矢量瓦片渲染库。原生 Primitive 实现，**不依赖 ImageryProvider 和 第三方矢量瓦片渲染器**， 支持 MLT | ★22",
+      "caption": "来源: GitHub Trending | https://github.com/Try112/cesium-vectortile-gl-plus",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "natedemoss/cf-recommend",
+      "body": "[C++] Codeforces CLI tool | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/natedemoss/cf-recommend",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "LoopBureaucrat/FPS-Drop-Fix-PowerShell",
+      "body": "Install FPS Drop Fix via PowerShell — one-command gaming optimizer for Windows 10/11. Fix stuttering, FPS drops, input l | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/LoopBureaucrat/FPS-Drop-Fix-PowerShell",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "atherio-danp/cde-dotnetcc",
+      "body": "[JavaScript] Claude Code harness for .NET developers | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/atherio-danp/cde-dotnetcc",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
