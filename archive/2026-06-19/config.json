@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-19",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Ice water drowning survival of young patient (2025)",
+      "body": "HN Score: 111",
+      "caption": "来源: Hacker News | https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "body": "HN Score: 93",
+      "caption": "来源: Hacker News | https://www.greybeam.ai/blog/duckdb-internals-part-1",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "body": "HN Score: 145",
+      "caption": "来源: Hacker News | https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "body": "HN Score: 764",
+      "caption": "来源: Hacker News | https://orchidfiles.com/github-repositories-distributing-malware/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Zero-Touch OAuth for MCP",
+      "body": "HN Score: 178",
+      "caption": "来源: Hacker News | https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "joeseesun/qiaomu-llm-mcp",
+      "body": "[Python] 把多模型 Provider、本地密钥和 HeavySkill 讨论统一成 MCP 网关 | Local MCP gateway for multi-provider LLM routing, secrets, and HeavySkill  | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/joeseesun/qiaomu-llm-mcp",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AI4Maths/awesome-interactive-theorem-prover",
+      "body": "A curated list of awesome interactive theorem prover frameworks | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/AI4Maths/awesome-interactive-theorem-prover",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alfaoz/opencode-see-image",
+      "body": "[TypeScript] give non-vision models the ability to see images by routing images to a vision capable model | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/alfaoz/opencode-see-image",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AndrewPrifer/swift-web-bridge",
+      "body": "[Swift] ★7",
+      "caption": "来源: GitHub Trending | https://github.com/AndrewPrifer/swift-web-bridge",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "rusmanaid/getcontact",
+      "body": "[PHP] Getcontact Cek | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/rusmanaid/getcontact",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
