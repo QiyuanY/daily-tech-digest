@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-20",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Data Compression Explained (2012)",
+      "body": "HN Score: 81",
+      "caption": "来源: Hacker News | https://mattmahoney.net/dc/dce.html",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "There are no instances in ATProto",
+      "body": "HN Score: 401",
+      "caption": "来源: Hacker News | https://overreacted.io/there-are-no-instances-in-atproto/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Surprising economics of load-balanced systems",
+      "body": "HN Score: 85",
+      "caption": "来源: Hacker News | https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Hyundai buys Boston Dynamics",
+      "body": "HN Score: 756",
+      "caption": "来源: Hacker News | https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Norway imposes near ban on AI in elementary school",
+      "body": "HN Score: 587",
+      "caption": "来源: Hacker News | https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "itssosunny/im-not-strange-ai",
+      "body": "[Python] ★19",
+      "caption": "来源: GitHub Trending | https://github.com/itssosunny/im-not-strange-ai",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "yansc153/huajiao-finance-writer",
+      "body": "[Python] 蒸馏个人 voice、可自我迭代的中文财经写作 Skill | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/yansc153/huajiao-finance-writer",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "madeye/shadowvpn-ios",
+      "body": "[Rust] Native iOS client for ShadowVPN — a UDP, pre-shared-key, layer-3 tunnel using the shadowsocks AEAD UDP wire scheme (Swif | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/madeye/shadowvpn-ios",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Zhuyicheng-HIT/uav-rgbd--city-simulation",
+      "body": "[Python] 本仓库是基于 Gazebo、ArduPilot/MAVROS、D435i RGB-D 深度相机与 YOLO 的无人机城市仿真及识别-预测-避障系统，包含基础包的仿真环境、移动行人与车辆场景、目标检测与拓展包的轨迹预测、安全降落点生成、仿真飞 | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/Zhuyicheng-HIT/uav-rgbd--city-simulation",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AI-XiaoDao/ai-browser-mcp",
+      "body": "[C++] Windows local MCP browser automation — 217 tools, any AI agent (Cursor/Claude/Cline). One sentence: scrape, reverse, loc | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/AI-XiaoDao/ai-browser-mcp",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
