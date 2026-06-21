@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-21",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Developers don't understand CORS (2019)",
+      "body": "HN Score: 119",
+      "caption": "来源: Hacker News | https://fosterelli.co/developers-dont-understand-cors",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Building reliable agentic AI systems",
+      "body": "HN Score: 54",
+      "caption": "来源: Hacker News | https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Renting a sewing machine from the library",
+      "body": "HN Score: 191",
+      "caption": "来源: Hacker News | https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "body": "HN Score: 201",
+      "caption": "来源: Hacker News | https://github.com/mysk-research/loupe",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Epoll vs. io_uring in Linux",
+      "body": "HN Score: 122",
+      "caption": "来源: Hacker News | https://sibexi.co/posts/epoll-vs-io_uring/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "fivetaku/insane-review",
+      "body": "[Python] Use GPT-5.5 Pro (web-only, no API) from inside Claude Code — repomix-pack the relevant code, send to subscription ChatGP | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/fivetaku/insane-review",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "f4mi/colortablething",
+      "body": "[Python] Inject custom color match tables in DaVinci Resolve | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/f4mi/colortablething",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "bulut396/Python-Risk-Management-Library",
+      "body": "[Python] A lightweight Python library for financial risk metrics (volatility, Sharpe/Sortino, beta, drawdown, VaR). | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/bulut396/Python-Risk-Management-Library",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "0xHossam/UNCagedSandbox",
+      "body": "Research on a new PoC for a Windows Sandbox .wsb HostFolder UNC path primitive that causes the host to authenticate over | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/0xHossam/UNCagedSandbox",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "lamm-mit/ScienceSkills",
+      "body": "[Python] Collection of scientific and engineering skills | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/lamm-mit/ScienceSkills",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
