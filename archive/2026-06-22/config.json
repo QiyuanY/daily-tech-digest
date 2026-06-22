@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-22",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Deno Desktop",
+      "body": "HN Score: 171",
+      "caption": "来源: Hacker News | https://docs.deno.com/runtime/desktop/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Help I accidentally a wigglegram",
+      "body": "HN Score: 154",
+      "caption": "来源: Hacker News | https://lmao.center/blog/wiggle-accidents/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Did my old job only exist because of fraud?",
+      "body": "HN Score: 480",
+      "caption": "来源: Hacker News | https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "body": "HN Score: 346",
+      "caption": "来源: Hacker News | https://apertvs.ai/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "There is minimal downside to switching to open models",
+      "body": "HN Score: 183",
+      "caption": "来源: Hacker News | https://www.marble.onl/posts/cancel_claude.html",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "WilonityInc/WilonityLoader",
+      "body": "Wilonity Loader is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, vis | ★75",
+      "caption": "来源: GitHub Trending | https://github.com/WilonityInc/WilonityLoader",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HKUDS/AgentSpace",
+      "body": "[TypeScript] \"AgentSpace: Human + Agents. One Team. One Workspace\" | ★27",
+      "caption": "来源: GitHub Trending | https://github.com/HKUDS/AgentSpace",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HackMoonString/SoftMaker-Office-2026",
+      "body": "softmaker office download windows — SoftMaker Office for Windows 11 & 10. Direct download, install steps and setup guide | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/HackMoonString/SoftMaker-Office-2026",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Blockadezemooring/Steam-Disk-Write-Error-Fix",
+      "body": "steam disk write error — Steam Disk Write Error Fix for Windows 11 & 10. Direct repair download and step-by-step fix gui | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/Blockadezemooring/Steam-Disk-Write-Error-Fix",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ManateeRepel/ArtRage-2026",
+      "body": "artrage download windows — ArtRage for Windows 11 & 10. Direct download, install steps and setup guide. | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/ManateeRepel/ArtRage-2026",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
