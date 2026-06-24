@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-24",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Vulnerability reports are not special anymore",
+      "body": "HN Score: 187",
+      "caption": "来源: Hacker News | https://words.filippo.io/vuln-reports/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Jerry's Map",
+      "body": "HN Score: 409 | https:&#x2F;&#x2F;www.openculture.com&#x2F;2026&#x2F;06&#x2F;this-man-has-been-drawin...",
+      "caption": "来源: Hacker News | http://www.jerrysmap.com/the-map",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "FUTO Swipe – A new swipe typing model",
+      "body": "HN Score: 429",
+      "caption": "来源: Hacker News | https://swipe.futo.tech/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "In memory of the man who put red and green squiggles under words",
+      "body": "HN Score: 287",
+      "caption": "来源: Hacker News | https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Printing Gaussian Splats",
+      "body": "HN Score: 249",
+      "caption": "来源: Hacker News | https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "abundantbeing/hermes-browser-extension",
+      "body": "[JavaScript] Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime. | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/abundantbeing/hermes-browser-extension",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SageReminisce/XYplorer-2026",
+      "body": "xyplorer download — XYplorer for Windows 11 & 10. Direct download, install steps and setup guide. | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/SageReminisce/XYplorer-2026",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Colonyflucrypt/Wise-Disk-Cleaner-2026",
+      "body": "wise disk cleaner download — Wise Disk Cleaner for Windows 11 & 10. Direct download, install steps and setup guide. | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/Colonyflucrypt/Wise-Disk-Cleaner-2026",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "fhgg888/summer-camp-autofill",
+      "body": "[JavaScript] ★8",
+      "caption": "来源: GitHub Trending | https://github.com/fhgg888/summer-camp-autofill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "redtecher/FirmCure",
+      "body": "[Python] FIRMCURE: Towards Autonomous and Adaptive Rehosting of Linux-Based Firmware | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/redtecher/FirmCure",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
