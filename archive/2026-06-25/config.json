@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-25",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "body": "HN Score: 276",
+      "caption": "来源: Hacker News | https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "body": "HN Score: 644 | Announcement: https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-...https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-",
+      "caption": "来源: Hacker News | https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cloudflare launched self-managed OAuth for all",
+      "body": "HN Score: 95",
+      "caption": "来源: Hacker News | https://blog.cloudflare.com/oauth-for-all/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "body": "HN Score: 119",
+      "caption": "来源: Hacker News | https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Blogging can just be stating the obvious",
+      "body": "HN Score: 163",
+      "caption": "来源: Hacker News | https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DrizzleWalker/Lossless-Scaling-Download-2026",
+      "body": "⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame gen | ★38",
+      "caption": "来源: GitHub Trending | https://github.com/DrizzleWalker/Lossless-Scaling-Download-2026",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "suphotP/chatgpt-api",
+      "body": "[Python] Local ChatGPT Web bridge with API, console, opencode integration, and character-game use case | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/suphotP/chatgpt-api",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "crewrectorlose/Game-Bar-Not-Recording-Fix",
+      "body": "xbox game bar not recording — Xbox Game Bar Not Recording Fix for Windows 11 & 10. Direct repair download and step-by-st | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/crewrectorlose/Game-Bar-Not-Recording-Fix",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SwarmSamurai/Sugar-Bytes-Effectrix-2026",
+      "body": "sugar bytes effectrix download — Sugar Bytes Effectrix for Windows 11 & 10. Direct download, install steps and setup gui | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/SwarmSamurai/Sugar-Bytes-Effectrix-2026",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Cyantenspanner/AMD-Radeon-Software",
+      "body": "amd radeon software download — AMD Radeon Software for Windows 11 & 10. Direct download, install steps and setup guide. | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/Cyantenspanner/AMD-Radeon-Software",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
