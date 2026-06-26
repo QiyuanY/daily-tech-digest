@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-26",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Om Malik has died",
+      "body": "HN Score: 748 | https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;om-malik-taught-silicon-vall...",
+      "caption": "来源: Hacker News | https://om.co/2026/06/24/1966-2026/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "body": "HN Score: 1166 | Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdfhttps:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa",
+      "caption": "来源: Hacker News | https://scrollprize.org/firstscroll",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Libre Barcode Project",
+      "body": "HN Score: 74",
+      "caption": "来源: Hacker News | https://graphicore.github.io/librebarcode/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "body": "HN Score: 119",
+      "caption": "来源: Hacker News | https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "body": "HN Score: 74",
+      "caption": "来源: Hacker News | https://www.fernandoi.cl/posts/hackmyclaw/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "xiaohuailabs/xiaohu-ip-studio",
+      "body": "[HTML] 开源中文配图技能 + IP 角色库:用「挑认知锚点→现编隐喻→反PPT自检」为中文深度文生成固定角色出演的正文配图 | ★75",
+      "caption": "来源: GitHub Trending | https://github.com/xiaohuailabs/xiaohu-ip-studio",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Megaeljourney/AppWave",
+      "body": "AppWave gives you a beautiful, intuitive interface to the powerful Windows Package Manager (Winget). Browse hundreds of  | ★33",
+      "caption": "来源: GitHub Trending | https://github.com/Megaeljourney/AppWave",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "VolcanoSteam/roblox-xecutor",
+      "body": "Wilonity the best roblox exploit on github! | ★31",
+      "caption": "来源: GitHub Trending | https://github.com/VolcanoSteam/roblox-xecutor",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "nonononull/codex-retry-gateway",
+      "body": "[JavaScript] ★15",
+      "caption": "来源: GitHub Trending | https://github.com/nonononull/codex-retry-gateway",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Ever-5475/vue-admin-cms",
+      "body": "[Vue] 基于 Vue.js 2 + Flask+MySQL 的前后端分离内容管理系统 | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/Ever-5475/vue-admin-cms",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
