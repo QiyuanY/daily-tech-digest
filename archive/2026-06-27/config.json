@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-27",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "body": "HN Score: 927 | System card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview",
+      "caption": "来源: Hacker News | https://openai.com/index/previewing-gpt-5-6-sol/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "body": "HN Score: 179",
+      "caption": "来源: Hacker News | https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "body": "HN Score: 341 | https:&#x2F;&#x2F;archive.md&#x2F;ArXuFhttps:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;us-government-gives-a...",
+      "caption": "来源: Hacker News | https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "AI in mathematics is forcing big questions",
+      "body": "HN Score: 94",
+      "caption": "来源: Hacker News | https://spectrum.ieee.org/ai-in-mathematics",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "body": "HN Score: 307",
+      "caption": "来源: Hacker News | https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "zanetanasta/Seed-Generator",
+      "body": "[Python] Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, an | ★125",
+      "caption": "来源: GitHub Trending | https://github.com/zanetanasta/Seed-Generator",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "MrSpideyNihal/lecture-video-maker",
+      "body": "[Python] AI-powered lecture video generator: Ollama + Edge-TTS + Pexels + FFmpeg. Web UI with live progress tracking. | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/MrSpideyNihal/lecture-video-maker",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "XBuilderLAB/cheat-on-skill",
+      "body": "[JavaScript] 帮你在 AI 时代找到一份高薪 × 你学得动 × 不会被 AI 吃掉的工作，并给出个性化学习陪跑计划。能力匹配 + 可学性闸门 + BOSS 直聘真实招聘数据 + 反诈。 | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/XBuilderLAB/cheat-on-skill",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "leifstout/dataServiceTyped",
+      "body": "[Luau] ★6",
+      "caption": "来源: GitHub Trending | https://github.com/leifstout/dataServiceTyped",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "dangnuoi2004/ransanmoiweb",
+      "body": "[HTML] ★5",
+      "caption": "来源: GitHub Trending | https://github.com/dangnuoi2004/ransanmoiweb",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
