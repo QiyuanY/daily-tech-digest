@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-28",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "body": "HN Score: 140",
+      "caption": "来源: Hacker News | https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "body": "HN Score: 97 | Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my ch",
+      "caption": "来源: Hacker News | https://decomp-academy.dev",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "body": "HN Score: 98",
+      "caption": "来源: Hacker News | https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "body": "HN Score: 759",
+      "caption": "来源: Hacker News | https://github.com/bikini/exploitarium",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenRA",
+      "body": "HN Score: 649",
+      "caption": "来源: Hacker News | https://www.openra.net/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "haskaomni/sankey-flow",
+      "body": "[JavaScript] A self-contained <sankey-flow> custom element powered by Mermaid Sankey layouts and rich overlay labels. | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/haskaomni/sankey-flow",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "feigaobox10/llm-from-scratch-reader",
+      "body": "[HTML] ★9",
+      "caption": "来源: GitHub Trending | https://github.com/feigaobox10/llm-from-scratch-reader",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "kelvinagyareyeboah/NFTMarket-GH",
+      "body": "[Solidity] A vibrant NFT minting and trading platform tailored for Ghanaian artists, powered by blockchain! 🇬🇭 | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/kelvinagyareyeboah/NFTMarket-GH",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "GanymedeNil/poxiaoxing-skills",
+      "body": "[Python] ★5",
+      "caption": "来源: GitHub Trending | https://github.com/GanymedeNil/poxiaoxing-skills",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "sudoHG/codex-reset-credits-skill",
+      "body": "[Python] Codex Skill and runbook for querying banked Codex reset credits. | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/sudoHG/codex-reset-credits-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
