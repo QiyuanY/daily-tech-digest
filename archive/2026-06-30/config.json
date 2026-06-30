@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-30",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "body": "HN Score: 795",
+      "caption": "来源: Hacker News | https://quesma.com/blog/qwen-36-is-awesome/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "body": "HN Score: 426",
+      "caption": "来源: Hacker News | https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Free the Icons",
+      "body": "HN Score: 364",
+      "caption": "来源: Hacker News | https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Memory Safe Context Switching",
+      "body": "HN Score: 88",
+      "caption": "来源: Hacker News | https://fil-c.org/context_switches",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "body": "HN Score: 86",
+      "caption": "来源: Hacker News | https://longcat.chat/blog/longcat-2.0/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "TianhangZhuzth/Fundamental-Ava",
+      "body": "[Python] Build digital human beings — autonomous, collaborative, and socially intelligent agents. | ★49",
+      "caption": "来源: GitHub Trending | https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Kenia1989/Flash-USDT-Sender",
+      "body": "[Python] Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas s | ★27",
+      "caption": "来源: GitHub Trending | https://github.com/Kenia1989/Flash-USDT-Sender",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "pickrui/oixcloud-external-proxy-program",
+      "body": "oixcloud external-proxy helper — distribution (docs + binaries via Releases) | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/pickrui/oixcloud-external-proxy-program",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "nguyentrieu210/labor-crm-gas",
+      "body": "[JavaScript] Thành công — Hệ thống quản lý điều hành: Labor CRM tuyển dụng/cung ứng lao động FDI trên Google Apps Script + Google She | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/nguyentrieu210/labor-crm-gas",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mistydew/tokenicode-deepseek-alpha",
+      "body": "[TypeScript] TOKENICODE DeepSeek Alpha: a DeepSeek/CC Switch focused TOKENICODE fork | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/mistydew/tokenicode-deepseek-alpha",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
