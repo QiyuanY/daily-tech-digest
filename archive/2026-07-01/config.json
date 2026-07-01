@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-01",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Claude Code is steganographically marking requests",
+      "body": "HN Score: 1721",
+      "caption": "来源: Hacker News | https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Sonnet 5",
+      "body": "HN Score: 1044",
+      "caption": "来源: Hacker News | https://www.anthropic.com/news/claude-sonnet-5",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Google copybara: moving code between repositories",
+      "body": "HN Score: 170",
+      "caption": "来源: Hacker News | https://github.com/google/copybara",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "body": "HN Score: 560",
+      "caption": "来源: Hacker News | https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Science",
+      "body": "HN Score: 451",
+      "caption": "来源: Hacker News | https://claude.com/product/claude-science",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "zhujingqi/Twitter_Engagement_Tool",
+      "body": "[Python] Auto-tweet, follow/unfollow, and like/retweet scheduler. Schedule tweets, gain followers, like tweets, and reply to ment | ★224",
+      "caption": "来源: GitHub Trending | https://github.com/zhujingqi/Twitter_Engagement_Tool",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Zeeshan2899/System_Backup___Restore",
+      "body": "[Python] Create system images, backup files, and restore when needed. Protect your data from crashes and malware. Full system bac | ★223",
+      "caption": "来源: GitHub Trending | https://github.com/Zeeshan2899/System_Backup___Restore",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SrSCK/Virtual_Machine_Manager",
+      "body": "[Python] Run and manage virtual machines with ease. Supports VMware, VirtualBox, and Hyper-V. Create, start, and stop VMs. | ★223",
+      "caption": "来源: GitHub Trending | https://github.com/SrSCK/Virtual_Machine_Manager",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AnonymousDev1494/System_Information_Viewer",
+      "body": "[Python] Show detailed hardware and software info. Show processor details, memory usage, graphics card info, and Windows version. | ★223",
+      "caption": "来源: GitHub Trending | https://github.com/AnonymousDev1494/System_Information_Viewer",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "StephanoEscobarLoayza/Spotify_Playlist_Booster",
+      "body": "[Python] Increase followers, playlist streams, and auto-like songs. Play songs on loop, get fake followers, like all songs, and c | ★223",
+      "caption": "来源: GitHub Trending | https://github.com/StephanoEscobarLoayza/Spotify_Playlist_Booster",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
