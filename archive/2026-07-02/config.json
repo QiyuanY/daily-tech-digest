@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-02",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "ZCode – Harness for GLM-5.2",
+      "body": "HN Score: 330",
+      "caption": "来源: Hacker News | https://zcode.z.ai/en",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "body": "HN Score: 163",
+      "caption": "来源: Hacker News | https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "body": "HN Score: 53",
+      "caption": "来源: Hacker News | https://senior-swe-bench.snorkel.ai/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "For first time, a cell built from scratch grows and divides",
+      "body": "HN Score: 811 | https:&#x2F;&#x2F;biotic.org&#x2F;research&#x2F;spudcell&#x2F;https:&#x2F;&#x2F;www.science.org&#x2F;content&#x2F;article&#x2F;lab-created-spudcell...",
+      "caption": "来源: Hacker News | https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Bring back crappy forums",
+      "body": "HN Score: 141",
+      "caption": "来源: Hacker News | https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "asz798838958/FrciblyK12",
+      "body": "[Python] 多线程全自动注册free 强上K12空间 | ★87",
+      "caption": "来源: GitHub Trending | https://github.com/asz798838958/FrciblyK12",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Captureandencoder/Marvel-Rivals-Menu-2026",
+      "body": "[Python] 🎯 Marvel-Rivals-Menu – gameplay enhancement menu for Marvel Rivals. Features visual assistance, aim support, protection, | ★51",
+      "caption": "来源: GitHub Trending | https://github.com/Captureandencoder/Marvel-Rivals-Menu-2026",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SeVipl8/Silent-Crypto-Miner",
+      "body": "[Python] Silent Crypto Miner is an advanced cryptocurrency mining builder and runtime engine with multi-algorithm CPU/GPU support | ★48",
+      "caption": "来源: GitHub Trending | https://github.com/SeVipl8/Silent-Crypto-Miner",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "codyg1997/Electrum-Fake-Balance",
+      "body": "[Python] Electrum Fake — Bitcoin wallet balance spoofing tool with real-time overlay for Electrum desktop client, custom BTC bala | ★39",
+      "caption": "来源: GitHub Trending | https://github.com/codyg1997/Electrum-Fake-Balance",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Xcanex/Lunar-Discord-Tool-X1",
+      "body": "We offer top-tier premium tools for free. You can get them by joining our Discord server via the links for Roblox, Disco | ★21",
+      "caption": "来源: GitHub Trending | https://github.com/Xcanex/Lunar-Discord-Tool-X1",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
