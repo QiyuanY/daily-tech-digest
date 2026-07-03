@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-03",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
+      "body": "HN Score: 241",
+      "caption": "来源: Hacker News | https://stefan.schueller.net/posts/the-free-market-lie/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Virginia bans sale of geolocation data",
+      "body": "HN Score: 664",
+      "caption": "来源: Hacker News | https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "CarPlay Is Additive",
+      "body": "HN Score: 172",
+      "caption": "来源: Hacker News | https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Is the iPhone birth control? Causal evidence from AT&T's 2007-2011 monopoly [pdf]",
+      "body": "HN Score: 52",
+      "caption": "来源: Hacker News | https://www.nber.org/system/files/working_papers/w35310/w35310.pdf",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Right to Local Intelligence",
+      "body": "HN Score: 122",
+      "caption": "来源: Hacker News | https://righttointelligence.org/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "aipoch/open-science",
+      "body": "An open-source, model-agnostic AI workbench for scientific discovery. | ★27",
+      "caption": "来源: GitHub Trending | https://github.com/aipoch/open-science",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "xuchonglang/xiaoyinsi-wiki",
+      "body": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架 | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/xuchonglang/xiaoyinsi-wiki",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "LunaGeller/competitor-analysis-skill",
+      "body": "中文 Codex Skill：生成结构化竞品研究和机会判断报告 | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/LunaGeller/competitor-analysis-skill",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "lxj960202-jerry/system-info-skill",
+      "body": "[Python] 跨平台、只读、隐私优先的本机配置查询 Codex Skill | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/lxj960202-jerry/system-info-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "gjbjzyvivian-netizen/travel-planner",
+      "body": "逐步问清偏好，生成可直接照着走的逐日旅行行程表（含餐饮/交通/预算/打包清单）—— 一个 Claude Code Skill | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/gjbjzyvivian-netizen/travel-planner",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
