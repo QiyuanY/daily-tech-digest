@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-04",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Giant trees have no trouble pumping water to top branches: new research",
+      "body": "HN Score: 158",
+      "caption": "来源: Hacker News | https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Performance per dollar is getting faster and cheaper",
+      "body": "HN Score: 182",
+      "caption": "来源: Hacker News | https://www.wafer.ai/blog/glm52-amd",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Leanstral 1.5: Proof abundance for all",
+      "body": "HN Score: 156",
+      "caption": "来源: Hacker News | https://mistral.ai/news/leanstral-1-5/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "body": "HN Score: 62",
+      "caption": "来源: Hacker News | https://mrbruh.com/msicenter/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
+      "body": "HN Score: 108",
+      "caption": "来源: Hacker News | https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "lxh77721/k12-reg",
+      "body": "[TypeScript] 多线程全自动注册free 强上K12空间 gmail版 | ★34",
+      "caption": "来源: GitHub Trending | https://github.com/lxh77721/k12-reg",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Anahitam1991/Exodus-Fake-Balance",
+      "body": "[Python] Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP an | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/Anahitam1991/Exodus-Fake-Balance",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "dtwotwo/hlmedia",
+      "body": "[C] HashLink native video playback library for Heaps | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/dtwotwo/hlmedia",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "duy00623-maker/gamehunghoaqua",
+      "body": "[HTML] ★4",
+      "caption": "来源: GitHub Trending | https://github.com/duy00623-maker/gamehunghoaqua",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "sarumithrasuresh/FinTrack-UI-UX-Design",
+      "body": "FinTrack - Personal Finance & Expense Tracking Mobile App UI/UX Design | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/sarumithrasuresh/FinTrack-UI-UX-Design",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
