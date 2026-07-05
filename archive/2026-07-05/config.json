@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-05",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "body": "HN Score: 480",
+      "caption": "来源: Hacker News | https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "If you're a button, you have one job",
+      "body": "HN Score: 102",
+      "caption": "来源: Hacker News | https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "body": "HN Score: 220",
+      "caption": "来源: Hacker News | https://github.com/openai/codex/issues/30364",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "body": "HN Score: 411",
+      "caption": "来源: Hacker News | https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "body": "HN Score: 84",
+      "caption": "来源: Hacker News | https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "polaris007/polaris007-repo",
+      "body": "★10",
+      "caption": "来源: GitHub Trending | https://github.com/polaris007/polaris007-repo",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "vorliq/vorliq-docs",
+      "body": "Official documentation, guides, roadmap, and project information for Vorliq. | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/vorliq/vorliq-docs",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "aijianai/NavoIM",
+      "body": "[TypeScript] Navo IM 是一款注重隐私与实时体验的即时通讯产品。支持端到端加密、频道与 AI 助手等功能。由 Navo 团队开发与维护。 | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/aijianai/NavoIM",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark",
+      "body": "[Shell] Recipe: GLM-5.2 (unpruned QuantTrio Int4-Int8Mix) at 200K ctx with MTP spec decode on a 4x NVIDIA DGX Spark (GB10) clust | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "andrihakim146/hermes-second-brain",
+      "body": "[Python] AI second brain for Obsidian, controlled from Telegram via Hermes Agent (MCP) | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/andrihakim146/hermes-second-brain",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
