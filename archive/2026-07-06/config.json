@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-06",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "body": "HN Score: 206 | https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575, https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;207369512422000",
+      "caption": "来源: Hacker News | https://twitter.com/thsottiaux/status/2073933490513752151",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenPrinter",
+      "body": "HN Score: 679",
+      "caption": "来源: Hacker News | https://www.opentools.studio/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Has_not_been_viewed_much",
+      "body": "HN Score: 203",
+      "caption": "来源: Hacker News | https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Organic Maps",
+      "body": "HN Score: 898",
+      "caption": "来源: Hacker News | https://organicmaps.app/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "body": "HN Score: 145 | I&#x27;m making a platform for simple open source games you can play anywhere.Games are all just JavaScript classes and you can read the source of eve",
+      "caption": "来源: Hacker News | https://homegames.io",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "starmiaoa/chatgpt-register-sub2api",
+      "body": "[Python] ChatGPT register to Sub2API exporter with workspace and alias support | ★52",
+      "caption": "来源: GitHub Trending | https://github.com/starmiaoa/chatgpt-register-sub2api",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "shaohua-pan/StarWAM",
+      "body": "[Python] A Generalizable Codebase for World-Action Models | ★38",
+      "caption": "来源: GitHub Trending | https://github.com/shaohua-pan/StarWAM",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "PKU-YuanGroup/OpenAI4S",
+      "body": "[Python] 9.9 元豆包API复刻 Claude Science | ★37",
+      "caption": "来源: GitHub Trending | https://github.com/PKU-YuanGroup/OpenAI4S",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "hackerxj007/godzilla-ai-mcp",
+      "body": "哥斯拉4.0.1,415版本都支持的mcp插件 | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/hackerxj007/godzilla-ai-mcp",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "MXH814/steam-platform-db-course-design",
+      "body": "[PLSQL] ★9",
+      "caption": "来源: GitHub Trending | https://github.com/MXH814/steam-platform-db-course-design",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
