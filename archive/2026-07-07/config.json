@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-07",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "body": "HN Score: 321",
+      "caption": "来源: Hacker News | https://github.com/MaximeRivest/Riddle",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenWrt One – Open Hardware Router",
+      "body": "HN Score: 524",
+      "caption": "来源: Hacker News | https://openwrt.org/toh/openwrt/one",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "body": "HN Score: 302",
+      "caption": "来源: Hacker News | https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "CoMaps – FOSS Offline Maps",
+      "body": "HN Score: 430",
+      "caption": "来源: Hacker News | https://www.comaps.app/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "body": "HN Score: 138",
+      "caption": "来源: Hacker News | https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "alchaincyf/global-workspace-paper-zh",
+      "body": "Anthropic「语言模型中的全局工作空间」论文中文全译 | Chinese translation of Anthropic's Global Workspace paper (2026) | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/alchaincyf/global-workspace-paper-zh",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tonyd2wild/Hy3-295B-NVFP4-MTP-2x-DGX-Spark",
+      "body": "[Shell] Tencent Hunyuan 3 (295B MoE) on 2x NVIDIA DGX Spark: NVFP4 W4A16 + native MTP speculative decoding. First published MTP- | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/tonyd2wild/Hy3-295B-NVFP4-MTP-2x-DGX-Spark",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "fgh23333/AI4Food",
+      "body": "★5",
+      "caption": "来源: GitHub Trending | https://github.com/fgh23333/AI4Food",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "chaodeng060-source/period-tracker",
+      "body": "[TypeScript] 极简自托管经期记录 · self-hosted period tracker: one JSON file, two APIs, one page | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/chaodeng060-source/period-tracker",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SilentFleetKK/riskguard",
+      "body": "[Python] 券商无关的开源交易风控层:仓位上限 · 回撤熔断 · 动态仓位(Kelly/波动率) · 防篡改审计 · 实时监控守护。补上量化五层积木唯一缺的一层,核心零依赖。 | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/SilentFleetKK/riskguard",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
