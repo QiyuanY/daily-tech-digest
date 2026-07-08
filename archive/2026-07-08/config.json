@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-08",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS",
+      "body": "HN Score: 66",
+      "caption": "来源: Hacker News | https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Is The Economist Always Wrong?",
+      "body": "HN Score: 95",
+      "caption": "来源: Hacker News | https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "body": "HN Score: 108",
+      "caption": "来源: Hacker News | https://kb.cert.org/vuls/id/213560",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "body": "HN Score: 167",
+      "caption": "来源: Hacker News | https://www.gao.gov/products/gao-26-108193",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "body": "HN Score: 99",
+      "caption": "来源: Hacker News | https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "tryaxon/tryaxon-sdk",
+      "body": "[TypeScript] Open-source TypeScript SDK for building a private-by-default Unity and Godot copilot with local project scanning, OpenAI | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/tryaxon/tryaxon-sdk",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ai-twinkle/rlhf-book-zh-tw",
+      "body": "[HTML] 《Reinforcement Learning from Human Feedback》繁體中文全譯本＋每章互動實驗 | Unofficial zh-TW community translation of the RLHF Book wit | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/ai-twinkle/rlhf-book-zh-tw",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "sean-hayes58/pet-simulator-99-v2-script",
+      "body": "[HTML] Valex: Roblox Lua executor & script hub for Pet Simulator 99 on Windows. Auto-updating, keyless automation for grinding, | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/sean-hayes58/pet-simulator-99-v2-script",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "bolivestilo/Homekit",
+      "body": "[TypeScript] Homekit gives any AI agent direct, physical control over Apple Home. Flip lights. Lock doors. Read sensors. Through a si | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/bolivestilo/Homekit",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ssrsec/webstrike",
+      "body": "[Python] WebStrike 是一套以 Chromium 系浏览器扩展（Manifest V3） 为受控端点的指挥与控制（C2）套件。与传统以进程/驱动为主的 C2 相比，其工作重心落在 浏览器安全域：在合规授权与攻防演练场景下，可显著降低与终端 E | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/ssrsec/webstrike",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
