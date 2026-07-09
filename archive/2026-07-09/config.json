@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-09",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "body": "HN Score: 611",
+      "caption": "来源: Hacker News | https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Chatto is now open source",
+      "body": "HN Score: 883",
+      "caption": "来源: Hacker News | https://www.hmans.dev/blog/chatto-is-open-source",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "body": "HN Score: 198",
+      "caption": "来源: Hacker News | https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Remote Attestation",
+      "body": "HN Score: 63",
+      "caption": "来源: Hacker News | https://www.liamcvw.com/p/remote-attestation",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Unicode's transliteration rules are Turing-complete",
+      "body": "HN Score: 76",
+      "caption": "来源: Hacker News | https://seriot.ch/computation/uts35/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+      "body": "Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint | ★102",
+      "caption": "来源: GitHub Trending | https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "DoorDreamShout/Neverlose-CS2",
+      "body": "[Python] 🔥 Neverlose-CS2 – premium internal cheat for CS2. Features rage aimbot, anti-aim, ESP, Lua scripting, skin changer, and  | ★101",
+      "caption": "来源: GitHub Trending | https://github.com/DoorDreamShout/Neverlose-CS2",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "PierIllusionist/MECCHA-CHAMELEON-CamoPhantom",
+      "body": "Complete Hack Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint | ★101",
+      "caption": "来源: GitHub Trending | https://github.com/PierIllusionist/MECCHA-CHAMELEON-CamoPhantom",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "TrapCourierFold/TBH-Mod-Menu",
+      "body": "[Python] ⚡ TBH-Mod-Menu – complete mod menu for TBH: Task Bar Hero. Features God Mode, unlimited money, EXP multiplier, instant k | ★73",
+      "caption": "来源: GitHub Trending | https://github.com/TrapCourierFold/TBH-Mod-Menu",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "DisplayLead68/TBH-Cheat",
+      "body": "[Python] ⚡ TBH-Cheat – complete cheat/trainer tool for TBH: Task Bar Hero. Features God Mode, unlimited money, EXP multiplier, in | ★72",
+      "caption": "来源: GitHub Trending | https://github.com/DisplayLead68/TBH-Cheat",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
