@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-10",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "body": "HN Score: 528 | A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are si",
+      "caption": "来源: Hacker News | https://github.com/JustVugg/colibri",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0",
+      "body": "HN Score: 1188",
+      "caption": "来源: Hacker News | https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: 18 Words",
+      "body": "HN Score: 917",
+      "caption": "来源: Hacker News | https://18words.com/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Train sim created by just one person is being called the best ever made",
+      "body": "HN Score: 430 | https:&#x2F;&#x2F;store.steampowered.com&#x2F;app&#x2F;4630570&#x2F;RUNNING_TRAIN&#x2F;",
+      "caption": "来源: Hacker News | https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GPT-5.6",
+      "body": "HN Score: 1177 | https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6&#x2F;gpt-5-6.pdfhttps:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;guides&#x2F",
+      "caption": "来源: Hacker News | https://openai.com/index/gpt-5-6/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "icccccccccy/china-semiconductor-ai-skill",
+      "body": "★8",
+      "caption": "来源: GitHub Trending | https://github.com/icccccccccy/china-semiconductor-ai-skill",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "JingyiXu404/Awesome-Guided-Image-Restoration",
+      "body": "A comprehensive collection of resources on Guided/Multi-modal Image Restoration (GISIR/MISR), covering papers, codes, an | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/JingyiXu404/Awesome-Guided-Image-Restoration",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "sweem240211/Sweem240211",
+      "body": "★6",
+      "caption": "来源: GitHub Trending | https://github.com/sweem240211/Sweem240211",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "77leviann/green-reward-mobile-starter",
+      "body": "[C++] ★5",
+      "caption": "来源: GitHub Trending | https://github.com/77leviann/green-reward-mobile-starter",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "weswhet/munki-perls",
+      "body": "[Perl] ★5",
+      "caption": "来源: GitHub Trending | https://github.com/weswhet/munki-perls",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
