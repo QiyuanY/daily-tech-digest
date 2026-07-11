@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-11",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "body": "HN Score: 168 | https:&#x2F;&#x2F;www.science.org&#x2F;doi&#x2F;10.1126&#x2F;science.aei1285",
+      "caption": "来源: Hacker News | https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "body": "HN Score: 510",
+      "caption": "来源: Hacker News | https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "body": "HN Score: 796 | https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;apple-sues-openai&#x2F;",
+      "caption": "来源: Hacker News | https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "An iroh powered smart fan",
+      "body": "HN Score: 57",
+      "caption": "来源: Hacker News | https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "An update on residential proxies and the scraper situation",
+      "body": "HN Score: 141",
+      "caption": "来源: Hacker News | https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "mrbear1024/ai-content-kb",
+      "body": "A review-first reference architecture for AI-assisted personal content knowledge systems | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/mrbear1024/ai-content-kb",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ZhangSir9901/BBRv3-Onekey",
+      "body": "[Shell] Debian 12/13 一键安装 XanMod BBRv3 智能优化脚本 | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/ZhangSir9901/BBRv3-Onekey",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SupremeRockTempo/STACK-2026",
+      "body": "stack takeoff full version download windows — STACK Takeoff for Windows 11 & 10. Direct download, install steps and setu | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/SupremeRockTempo/STACK-2026",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Jointropattern21/UKey-Spotify-2026",
+      "body": "ukey spotify downloader full version download windows — UKey Spotify Downloader for Windows 11 & 10. Direct download, in | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/Jointropattern21/UKey-Spotify-2026",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "WattAttorney13/AudFree-2026",
+      "body": "audfree spotify converter full version download windows — AudFree Spotify Converter for Windows 11 & 10. Direct download | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/WattAttorney13/AudFree-2026",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
