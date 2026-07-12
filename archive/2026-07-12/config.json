@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-12",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "body": "HN Score: 65",
+      "caption": "来源: Hacker News | https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "body": "HN Score: 174",
+      "caption": "来源: Hacker News | https://www.iroh.computer/blog/mesh-llm",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "body": "HN Score: 219 | Hello HN!I&#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager",
+      "caption": "来源: Hacker News | https://antjs.org",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "body": "HN Score: 97",
+      "caption": "来源: Hacker News | https://github.com/Wren6991/RISCBoy",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "body": "HN Score: 169",
+      "caption": "来源: Hacker News | https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "xsser/cliproxyapi-cloudflare-stack",
+      "body": "[Shell] 感谢马斯克 让我grok自由，免费注册grok 无数个号。然后cpa自由使用 | ★29",
+      "caption": "来源: GitHub Trending | https://github.com/xsser/cliproxyapi-cloudflare-stack",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "yigehaozi/relay-status-monitor",
+      "body": "[TypeScript] 自托管的 AI API 中转站状态监控面板，支持 SUB2API / New API、余额与延迟采集、模型测速、可用率统计及飞书告警。 | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/yigehaozi/relay-status-monitor",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "igorbarshteyn/jlens-gguf",
+      "body": "[Python] Interactive Jacobian-Lens visualizer and live steerer for GGUF models on llama.cpp | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/igorbarshteyn/jlens-gguf",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "jeallz/Consulta-obito-receita-federal",
+      "body": "[Python] Sistema básico em python para automatizar consulta de óbito através de CPF e data de nascimento no site da Receita Feder | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/jeallz/Consulta-obito-receita-federal",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "PangenomeAI/academic-skills-food-nutrition",
+      "body": "[Python] Open food & nutrition science research skill suite for Claude Code and Codex — multi-agent research/write/review/figure  | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/PangenomeAI/academic-skills-food-nutrition",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
