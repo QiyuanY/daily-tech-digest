@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-13",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "body": "HN Score: 182 | UAF = Use After Free (https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer)",
+      "caption": "来源: Hacker News | https://nebusec.ai/research/ionstack-part-2/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "body": "HN Score: 340 | Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article;",
+      "caption": "来源: Hacker News | https://news.ycombinator.com/item?id=48886741",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "body": "HN Score: 134",
+      "caption": "来源: Hacker News | https://shellzine.net/cyberpunk-comics/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tiny Emulators",
+      "body": "HN Score: 199",
+      "caption": "来源: Hacker News | https://floooh.github.io/tiny8bit-preview/index.html",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "So you want to learn physics (second edition, 2021)",
+      "body": "HN Score: 154",
+      "caption": "来源: Hacker News | https://www.susanrigetti.com/physics",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    }
+  ]
+}
