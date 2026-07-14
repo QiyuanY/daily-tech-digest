@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-14",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "body": "HN Score: 151",
+      "caption": "来源: Hacker News | https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "body": "HN Score: 83",
+      "caption": "来源: Hacker News | https://web.stanford.edu/~dntse/wireless_book.html",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Git history command deserves more attention",
+      "body": "HN Score: 149",
+      "caption": "来源: Hacker News | https://lalitm.com/post/git-history/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Building and shipping Mac and iOS apps without opening Xcode",
+      "body": "HN Score: 372",
+      "caption": "来源: Hacker News | https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Economics of Recursive Self-Improvement [pdf]",
+      "body": "HN Score: 51",
+      "caption": "来源: Hacker News | https://elasticity.institute/rsi-paper.pdf",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "0xNikoDev/robinhood-ai-dev-sniper",
+      "body": "[Go] 🏹 RobinHood — AI Dev Sniper: high-performance Go trading bot for Ethereum & EVM chains. Uniswap V2/V3 sniper with Flashb | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/0xNikoDev/robinhood-ai-dev-sniper",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "macong0420/topic-material-collector",
+      "body": "[Python] Open-source Codex skill for researching, timestamping, downloading, clipping, and cataloging video-first materials. | ★18",
+      "caption": "来源: GitHub Trending | https://github.com/macong0420/topic-material-collector",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "TobiasLee/Rebuttal-Skill",
+      "body": "★11",
+      "caption": "来源: GitHub Trending | https://github.com/TobiasLee/Rebuttal-Skill",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "1296018244/grok-manager",
+      "body": "[Go] CLIProxyAPI plugin: xAI/Grok live-check, cleanup, autoban (public build, no SSO convert) | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/1296018244/grok-manager",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "wowitsjack/ENCORE",
+      "body": "[Shell] Experimental loader for Ableton Live 12+ on Linux using Wine | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/wowitsjack/ENCORE",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
