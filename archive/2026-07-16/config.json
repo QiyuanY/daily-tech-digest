@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-16",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
+      "body": "HN Score: 116",
+      "caption": "来源: Hacker News | https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "body": "HN Score: 834",
+      "caption": "来源: Hacker News | https://thinkingmachines.ai/news/introducing-inkling/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "body": "HN Score: 177",
+      "caption": "来源: Hacker News | https://mort.coffee/home/sqlite-editions/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Grok Build is open source",
+      "body": "HN Score: 350",
+      "caption": "来源: Hacker News | https://github.com/xai-org/grok-build",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+      "body": "HN Score: 71",
+      "caption": "来源: Hacker News | https://davidobando.github.io/gsharp/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "alexafinode/claude-arbitrage-bot",
+      "body": "[Solidity] Arbitrage bot for Ethereum-compatible networks with built-in Python automation | ★81",
+      "caption": "来源: GitHub Trending | https://github.com/alexafinode/claude-arbitrage-bot",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "canonicalise/calleryana",
+      "body": "[OCaml] SSA backend that performs ABI lowering and emits native amd64 ELF binaries | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/canonicalise/calleryana",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "championenvoyinferno/ExitLag-Full-Booster-2026",
+      "body": "exitlag install windows — ExitLag Full Booster for Windows 11 & 10. Direct download, install steps and setup guide. | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/championenvoyinferno/ExitLag-Full-Booster-2026",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "MiddleApprentice/Ranorex-Pro-Studio-2026",
+      "body": "ranorex studio download windows — Ranorex Studio Pro for Windows 11 & 10. Direct download, install steps and setup guide | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/MiddleApprentice/Ranorex-Pro-Studio-2026",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HighCabbieStable32/Unlock2026-Pro-Tool-2026",
+      "body": "unlock tool 2026 download gsm — Unlock Tool 2026 Pro for Windows 11 & 10. Direct download, install steps and setup guide | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/HighCabbieStable32/Unlock2026-Pro-Tool-2026",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
