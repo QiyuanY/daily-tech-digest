@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-17",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "body": "HN Score: 1383 | https:&#x2F;&#x2F;www.kimi.com&#x2F;enKimi K3 Intelligence, Performance &amp; Price Analysis: https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F",
+      "caption": "来源: Hacker News | https://www.kimi.com/blog/kimi-k3",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "An Engineer's Guide to USB Typе-С (2024)",
+      "body": "HN Score: 66",
+      "caption": "来源: Hacker News | https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Microsoft Comic Chat is now open source",
+      "body": "HN Score: 605",
+      "caption": "来源: Hacker News | https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Human-in-the-Loop Is Tired",
+      "body": "HN Score: 110",
+      "caption": "来源: Hacker News | https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Decoy Font",
+      "body": "HN Score: 473",
+      "caption": "来源: Hacker News | https://www.mixfont.com/experiments/decoy-font",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "canonicalise/up",
+      "body": "[OCaml] Typed DMA buffers for OCaml userspace VFIO drivers | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/canonicalise/up",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SilversmithReveal/Marvel-Rivals-Optimization",
+      "body": "marvel rivals optimization pc — Marvel Rivals Optimization for Windows 11 & 10. Direct download for PC gamers. Boost FPS | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/SilversmithReveal/Marvel-Rivals-Optimization",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "DegreeWaspShackle/Ninja-Gaiden-4-Optimization",
+      "body": "ninja gaiden 4 optimization pc — Ninja Gaiden 4 Optimization for Windows 11 & 10. Direct download for PC gamers. Boost F | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/DegreeWaspShackle/Ninja-Gaiden-4-Optimization",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "CaveWalkerPanel/Rust-FPS-Boost-Fix",
+      "body": "rust fps tweak — Rust FPS Tweak for Windows 11 & 10. Direct download for PC gamers. Boost FPS, reduce stutter, optimize  | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/CaveWalkerPanel/Rust-FPS-Boost-Fix",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "pulverizedeersense49/Quick-GPU-Gaming-2026",
+      "body": "quick gpu download gaming scheduler tweak windows — Download Quick GPU Gaming for Windows 11 & 10. PC gaming performance | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/pulverizedeersense49/Quick-GPU-Gaming-2026",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
