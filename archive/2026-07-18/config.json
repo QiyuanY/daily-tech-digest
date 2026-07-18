@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-18",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "body": "HN Score: 392",
+      "caption": "来源: Hacker News | https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "body": "HN Score: 1101 | URL already posted: https:&#x2F;&#x2F;health.aws.amazon.com&#x2F;health&#x2F;statusI&#x27;ve got an estimated bill for $1.7 BILLION over this month. N",
+      "caption": "来源: Hacker News | https://news.ycombinator.com/item?id=48945241",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "body": "HN Score: 452 | Tomorrow is the 15th anniversary of the first day of the Recurse Center (https:&#x2F;&#x2F;www.recurse.com&#x2F;)My cofounders and I did YC all the wa",
+      "caption": "来源: Hacker News | https://news.ycombinator.com/item?id=48949551",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Zilog Z80 has turned 50",
+      "body": "HN Score: 189",
+      "caption": "来源: Hacker News | https://goliath32.com/blog/z80.html",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "body": "HN Score: 403",
+      "caption": "来源: Hacker News | https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "sxnnywu/loopy",
+      "body": "[Python] QA for continuous agents :)  | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/sxnnywu/loopy",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Blueturboguy07/WhimprFlow",
+      "body": "[Rust] Local-first cross-platform voice dictation (proof of concept). macOS built & working; Windows built but untested. | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/Blueturboguy07/WhimprFlow",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Xuanphu108/ecg_ssl",
+      "body": "[Python] ★6",
+      "caption": "来源: GitHub Trending | https://github.com/Xuanphu108/ecg_ssl",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "FiveM-Script-Dev/G-T-A-5-Core",
+      "body": "[Lua] third‑party tool | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/FiveM-Script-Dev/G-T-A-5-Core",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "uefi2333/m365-native",
+      "body": "[Go] M365 ChatHub OpenAI-compatible gateway | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/uefi2333/m365-native",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
