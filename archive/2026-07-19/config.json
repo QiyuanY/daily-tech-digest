@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-19",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Transcribe.cpp",
+      "body": "HN Score: 284",
+      "caption": "来源: Hacker News | https://workshop.cjpais.com/projects/transcribe-cpp",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "body": "HN Score: 369",
+      "caption": "来源: Hacker News | https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Better and Cheaper Than IPTV",
+      "body": "HN Score: 96",
+      "caption": "来源: Hacker News | https://github.com/stupside/castor",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Classic Amiga titles, free to download",
+      "body": "HN Score: 85",
+      "caption": "来源: Hacker News | https://amigafreeware.downer.tech/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "If You Build It, They Will Come",
+      "body": "HN Score: 336",
+      "caption": "来源: Hacker News | https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "PostmanReminisce/Wisp-VPN",
+      "body": "[C#] Wisp VPN - бесплатный и открытый VPN-клиент для Windows на основе WireGuard. Без логов, без ограничений по трафику, полн | ★124",
+      "caption": "来源: GitHub Trending | https://github.com/PostmanReminisce/Wisp-VPN",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AmunM9/glyf",
+      "body": "[TypeScript] Tu letra a mano convertida en fuente .ttf/.otf — 100% en el navegador, sin subir archivos a la nube. | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/AmunM9/glyf",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "BBoi34/Obtainium-Recomp-Decomp",
+      "body": "An obtainium pack for native android decompilations and recompilations of classic video games. All games are tested and  | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/BBoi34/Obtainium-Recomp-Decomp",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "MisterBooo/llm-interview-questions",
+      "body": "100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。 | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/MisterBooo/llm-interview-questions",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "oi88boi/hanime-viewer1.0.0",
+      "body": "一个hanime1的第三方app | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/oi88boi/hanime-viewer1.0.0",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
