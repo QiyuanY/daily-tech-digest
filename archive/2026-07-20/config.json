@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-20",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "body": "HN Score: 1935 | I might be the only SRE on Earth with his own bowling center. It&#x27;s a more in-depth gig than you&#x27;d think.My family and I bought an abandoned",
+      "caption": "来源: Hacker News | https://news.ycombinator.com/item?id=48968606",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "body": "HN Score: 66",
+      "caption": "来源: Hacker News | https://github.com/hgaiser/moonshine",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "body": "HN Score: 455",
+      "caption": "来源: Hacker News | https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "body": "HN Score: 203",
+      "caption": "来源: Hacker News | https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Orion Browser by Kagi",
+      "body": "HN Score: 131",
+      "caption": "来源: Hacker News | https://orionbrowser.com/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "liangdabiao/stem-illustration-skill",
+      "body": "[Python] 面向 STEM（科学、技术、工程、数学）领域的 AI 图像生成 Skill。  生成科研示意图、教学插图、技术架构图等概念性图像，覆盖生物医学、化学、物理、工程、数学 6 大学科。  功能特性 24 个场景模板：信号通路、实验流程、细胞结构 | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/liangdabiao/stem-illustration-skill",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "frank890417/open-dictate",
+      "body": "[Swift] Local-first Traditional Chinese dictation for macOS | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/frank890417/open-dictate",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "GaleInspection/zapret-discord-yt",
+      "body": "[Batchfile] Новая версия с поддержкой работы Discord в текущих условиях. Быстрее, стабильнее, надежнее. | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/GaleInspection/zapret-discord-yt",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "GaleInspection/zapret-voice-discord",
+      "body": "[Batchfile] Новая версия с поддержкой работы Discord в текущих условиях. Быстрее, стабильнее, надежнее. | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/GaleInspection/zapret-voice-discord",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "GaleInspection/yt-discord-zapret",
+      "body": "[Batchfile] Новая версия с поддержкой работы Discord в текущих условиях. Быстрее, стабильнее, надежнее. | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/GaleInspection/yt-discord-zapret",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
