@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-21",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Jane Street: Incremental",
+      "body": "HN Score: 58",
+      "caption": "来源: Hacker News | https://github.com/janestreet/incremental",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Who's afraid of Chinese models?",
+      "body": "HN Score: 466",
+      "caption": "来源: Hacker News | https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "body": "HN Score: 88",
+      "caption": "来源: Hacker News | https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Kimi Work",
+      "body": "HN Score: 469",
+      "caption": "来源: Hacker News | https://www.kimi.com/products/kimi-work",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "body": "HN Score: 412",
+      "caption": "来源: Hacker News | https://jelly-ui.com/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "sudsudop/kiddionmenu-modest",
+      "body": "Kiddion's ModMenu is one of the most renowned external mod menus for *Grand Theft Auto V*. | ★30",
+      "caption": "来源: GitHub Trending | https://github.com/sudsudop/kiddionmenu-modest",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "c9nny/mirror",
+      "body": "[OCaml] lexical structure inference for incomplete programs | ★29",
+      "caption": "来源: GitHub Trending | https://github.com/c9nny/mirror",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "c9nny/linnaea",
+      "body": "[OCaml] workbench for inspecting a typed fragment of C through parser output | ★27",
+      "caption": "来源: GitHub Trending | https://github.com/c9nny/linnaea",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "c9nny/up",
+      "body": "[OCaml] library for userspace drivers that need DMA buffers mapped through VFIO | ★25",
+      "caption": "来源: GitHub Trending | https://github.com/c9nny/up",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "c9nny/ariel",
+      "body": "[C] aarch64 EL2 hypervisor for QEMU virt that boots at EL2  | ★22",
+      "caption": "来源: GitHub Trending | https://github.com/c9nny/ariel",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
