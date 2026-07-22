@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-22",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "body": "HN Score: 901 | https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;openai-says-hugging-face-br...See also Security incident disclosure – July 2026 - https",
+      "caption": "来源: Hacker News | https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "body": "HN Score: 443",
+      "caption": "来源: Hacker News | https://fireworks.ai/blog/kimik3-fable",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "LG to ban residential proxies from smart TV apps",
+      "body": "HN Score: 137",
+      "caption": "来源: Hacker News | https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Advertise in ChatGPT",
+      "body": "HN Score: 546",
+      "caption": "来源: Hacker News | https://ads.openai.com/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "body": "HN Score: 473",
+      "caption": "来源: Hacker News | https://freeink.org/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "tanishq-dubey/macos-laguna-s2.1",
+      "body": "[Python] Community benchmarks and scripts for running Poolside Laguna S 2.1 | ★49",
+      "caption": "来源: GitHub Trending | https://github.com/tanishq-dubey/macos-laguna-s2.1",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "PhotonCrabDescribe/xbox-game-pass-setup",
+      "body": "Xbox Game Pass — Xbox Game Pass Windows setup — gaming landing repository with install notes, workflow checklists, and s | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/PhotonCrabDescribe/xbox-game-pass-setup",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "grasplightmask/waves-complete-setup",
+      "body": "Waves Complete — Waves Complete Windows setup — VST plugin landing repository with install notes, workflow checklists, a | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/grasplightmask/waves-complete-setup",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Shatterdirenew/wifi-repair-tool",
+      "body": "WiFi Repair Tool — WiFi Repair Tool Windows setup — system repair landing repository with install notes, workflow checkl | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/Shatterdirenew/wifi-repair-tool",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ScrewSalamanderSing/topaz-photo-ai",
+      "body": "Topaz Photo AI — Topaz Photo AI Windows setup — software landing repository with install notes, workflow checklists, and | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/ScrewSalamanderSing/topaz-photo-ai",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
