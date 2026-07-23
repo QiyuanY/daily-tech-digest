@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-23",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "git's –end-of-options Flag",
+      "body": "HN Score: 57",
+      "caption": "来源: Hacker News | https://nesbitt.io/2026/07/21/end-of-options.html",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "body": "HN Score: 730 | A digestion of the Jacobian conjecture counterexample - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362 - July 2026 (133 comments)Claude",
+      "caption": "来源: Hacker News | https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "body": "HN Score: 256 | https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;",
+      "caption": "来源: Hacker News | https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "body": "HN Score: 425",
+      "caption": "来源: Hacker News | https://github.com/marcelroed/gigatoken/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "body": "HN Score: 733 | Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code,",
+      "caption": "来源: Hacker News | https://bento.page/slides/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "dboudreau00/Delpheed-Delphi-Call-Hijacker",
+      "body": "[Pascal] A Delphi-aware reverse-engineering toolkit — recover the class model from any Delphi PE, and unpack packed ones to get t | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/dboudreau00/Delpheed-Delphi-Call-Hijacker",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "0xShe/FUCK-CDN",
+      "body": "一键绕过CDN获取真实IP | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/0xShe/FUCK-CDN",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "LuoLeiLei1992/OpenGame-Forge",
+      "body": "[TypeScript] We've further encapsulated and optimized OpenGame, and deployed it to a web UI for more intuitive, convenient, and pract | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/LuoLeiLei1992/OpenGame-Forge",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "sjshb57/TwitterArchiverApp",
+      "body": "基于 Wayback Machine 的推特账号存档 Android 客户端 | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/sjshb57/TwitterArchiverApp",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "loganayaki84891-prog/Audio-classification-using-hugging-face-",
+      "body": "★6",
+      "caption": "来源: GitHub Trending | https://github.com/loganayaki84891-prog/Audio-classification-using-hugging-face-",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
