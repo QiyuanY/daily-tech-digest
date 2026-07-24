@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-24",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Writing by hand is good for your brain",
+      "body": "HN Score: 1132",
+      "caption": "来源: Hacker News | https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "body": "HN Score: 299 | I’ve been building Echo (https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;), an experiment in making one AI system out of a pool of open-weight models rather t",
+      "caption": "来源: Hacker News | https://news.ycombinator.com/item?id=49026810",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Beam Engine",
+      "body": "HN Score: 241",
+      "caption": "来源: Hacker News | https://glinscott.github.io/beam-engine/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "body": "HN Score: 817 | https:&#x2F;&#x2F;littletech.org&#x2F;https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...",
+      "caption": "来源: Hacker News | https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "What happened to TheNumbers.com",
+      "body": "HN Score: 330",
+      "caption": "来源: Hacker News | https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "kingenbomb/Nodes",
+      "body": "[Python] 节点注册机 | ★25",
+      "caption": "来源: GitHub Trending | https://github.com/kingenbomb/Nodes",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "dudscode/criando-roadmap",
+      "body": "[HTML] ★16",
+      "caption": "来源: GitHub Trending | https://github.com/dudscode/criando-roadmap",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Nicolas-zn/lowcode3d",
+      "body": "[TypeScript] ★13",
+      "caption": "来源: GitHub Trending | https://github.com/Nicolas-zn/lowcode3d",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ZhuHongji626/ClaudeCodeSaveToken",
+      "body": "This is a set of strategies for saving tokens. | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/ZhuHongji626/ClaudeCodeSaveToken",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "youben917/CUDA-MOEA",
+      "body": "[Jupyter Notebook] A full CUDA-Stack Infrastructure for Multiple/Many Objective Evolutionary ALgorithm | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/youben917/CUDA-MOEA",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
