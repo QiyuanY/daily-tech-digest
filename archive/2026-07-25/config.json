@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-25",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Claude Opus 5",
+      "body": "HN Score: 1411 | https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card",
+      "caption": "来源: Hacker News | https://www.anthropic.com/news/claude-opus-5",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "body": "HN Score: 251",
+      "caption": "来源: Hacker News | https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "body": "HN Score: 210",
+      "caption": "来源: Hacker News | https://artificialanalysis.ai/models",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "body": "HN Score: 553",
+      "caption": "来源: Hacker News | https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+      "body": "HN Score: 132",
+      "caption": "来源: Hacker News | https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "mrd-bdsmetro/FiinTrade-Methodology",
+      "body": "★14",
+      "caption": "来源: GitHub Trending | https://github.com/mrd-bdsmetro/FiinTrade-Methodology",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "DearLicy/cursor-studio",
+      "body": "Cursor Studio 是一款 Windows 桌面工具，用于集中管理个人 Cursor 使用体验。你可以在一个界面中管理模型供应商、用量、会话、提示词、MCP、Skills、外观和 Cursor 资料。 | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/DearLicy/cursor-studio",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HeFeicc/monopoly-go-community-hub",
+      "body": "Documentation, feature planning, architecture notes, and public resources for a Monopoly Go player community platform. | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/HeFeicc/monopoly-go-community-hub",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tao3443811871/Fifax-News",
+      "body": "★5",
+      "caption": "来源: GitHub Trending | https://github.com/tao3443811871/Fifax-News",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "qdbgrc-hkz/cfb27-nation",
+      "body": "Independent companion site for EA Sports College Football 27 — Dynasty tools, Playbook Finder, Team Ratings, UT Lineup B | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/qdbgrc-hkz/cfb27-nation",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
