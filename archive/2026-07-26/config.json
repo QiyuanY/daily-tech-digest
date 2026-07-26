@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-26",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "JetZero",
+      "body": "HN Score: 121",
+      "caption": "来源: Hacker News | https://www.jetzero.aero",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: I mapped every US golf course",
+      "body": "HN Score: 88 | I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built",
+      "caption": "来源: Hacker News | https://golfcoursebrowser.com/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "An ESP32 based plane radar for my desk",
+      "body": "HN Score: 58",
+      "caption": "来源: Hacker News | https://blog.ktz.me/esp32-plane-radar/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "body": "HN Score: 246",
+      "caption": "来源: Hacker News | https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "body": "HN Score: 66",
+      "caption": "来源: Hacker News | https://huggingface.co/owensong/Inflect-Micro-v2",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "fuadmefleh/Shared-Claude-Chats",
+      "body": "[Python] ★17",
+      "caption": "来源: GitHub Trending | https://github.com/fuadmefleh/Shared-Claude-Chats",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "yaoleifly/ai-stock-pool",
+      "body": "[JavaScript] AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment. | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/yaoleifly/ai-stock-pool",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "kerogenesis/InputRedirect",
+      "body": "[Rust] Redirect keyboard, touchpad and mouse input through a real signed driver | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/kerogenesis/InputRedirect",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "casioreview20-glitch/forge-os",
+      "body": "[JavaScript] The open-source control plane for AI agents — skill routing, context governance, trustworthy execution, evidence, securi | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/casioreview20-glitch/forge-os",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "kunal12203/swafra",
+      "body": "[Python] ★7",
+      "caption": "来源: GitHub Trending | https://github.com/kunal12203/swafra",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
