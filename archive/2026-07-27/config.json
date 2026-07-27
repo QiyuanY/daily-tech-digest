@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-27",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "body": "HN Score: 355",
+      "caption": "来源: Hacker News | https://nikolays.github.io/PGSimCity/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "body": "HN Score: 183 | We have a black hole at home — with actual relativistic physics, live in your browser.I&#x27;m Sasha (Alexander) Plavin, an astrophysicist at Harvard&",
+      "caption": "来源: Hacker News | https://blackhole.plav.in",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "body": "HN Score: 275",
+      "caption": "来源: Hacker News | https://beyondloom.com/decker/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "body": "HN Score: 268",
+      "caption": "来源: Hacker News | https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "body": "HN Score: 89",
+      "caption": "来源: Hacker News | https://github.com/vercel-labs/scriptc",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "chokcoco/teach-yourself-skill",
+      "body": "[JavaScript] 快速创建一门自学课程 | ★66",
+      "caption": "来源: GitHub Trending | https://github.com/chokcoco/teach-yourself-skill",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mufengyuan666/Hearth",
+      "body": "[JavaScript] ★30",
+      "caption": "来源: GitHub Trending | https://github.com/mufengyuan666/Hearth",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mufengyuan666/Breaker",
+      "body": "[Python] ★30",
+      "caption": "来源: GitHub Trending | https://github.com/mufengyuan666/Breaker",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mufengyuan666/Gazette",
+      "body": "[Python] ★29",
+      "caption": "来源: GitHub Trending | https://github.com/mufengyuan666/Gazette",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Kathir1310/AI-RAG",
+      "body": "[Python] ★17",
+      "caption": "来源: GitHub Trending | https://github.com/Kathir1310/AI-RAG",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
