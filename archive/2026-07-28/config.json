@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-28",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Our position on open-weights models",
+      "body": "HN Score: 660",
+      "caption": "来源: Hacker News | https://www.anthropic.com/news/position-open-weights-models",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Using an open model feels surprisingly good",
+      "body": "HN Score: 142",
+      "caption": "来源: Hacker News | https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "body": "HN Score: 86",
+      "caption": "来源: Hacker News | https://fermisense.com/when-machines-take-the-wheel/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "body": "HN Score: 206",
+      "caption": "来源: Hacker News | https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "RTX 2080 Ti Memory Upgrade to 22 GB",
+      "body": "HN Score: 69",
+      "caption": "来源: Hacker News | https://gpusolutions.net/rbservices/graphics-card-upgrade/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "harinishrisaravanan/Polllu-Sence",
+      "body": "[Jupyter Notebook] PolluSense is an AI-powered environmental monitoring system designed to identify pollution sources and forecast Air Qual | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/harinishrisaravanan/Polllu-Sence",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "gavamedia/deltafin",
+      "body": "[Python] Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand ove | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/gavamedia/deltafin",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "liujuntao123/get-zlib-link",
+      "body": "[JavaScript] Fetch Z-Library official links from Wikipedia and display them. Deployable to Vercel or Cloudflare Pages. | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/liujuntao123/get-zlib-link",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mamonet/wiimote-motion-display",
+      "body": "[C#] ★5",
+      "caption": "来源: GitHub Trending | https://github.com/mamonet/wiimote-motion-display",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mamonet/take-rate-controller",
+      "body": "[Go] Deterministic PI control loop that sets per-transaction marketplace commission to converge on an aggregate take-rate tar | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/mamonet/take-rate-controller",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
