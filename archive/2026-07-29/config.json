@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-29",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Codex Security",
+      "body": "HN Score: 431",
+      "caption": "来源: Hacker News | https://github.com/openai/codex-security",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "body": "HN Score: 108",
+      "caption": "来源: Hacker News | https://learnvector.ai/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "body": "HN Score: 205 | HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always openi",
+      "caption": "来源: Hacker News | https://github.com/twalichiewicz/HNewhere",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Substack writers, you need a website",
+      "body": "HN Score: 476",
+      "caption": "来源: Hacker News | https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Half-Life ported to Mac OS 9",
+      "body": "HN Score: 197",
+      "caption": "来源: Hacker News | https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "YaponsRH/yapons",
+      "body": "[Solidity] yap to earn $YAP on Robinhood Chain | ★34",
+      "caption": "来源: GitHub Trending | https://github.com/YaponsRH/yapons",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "eveacla11/fingertips",
+      "body": "[Python] Let your AI feel the hesitation in your typing. Rhythm only, never content. | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/eveacla11/fingertips",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "harinishri2204-cpu/Pollu-Sence",
+      "body": "[Jupyter Notebook] PolluSense is an AI-driven pollution monitoring and forecasting system designed to identify pollution sources and predic | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/harinishri2204-cpu/Pollu-Sence",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "LotusDecoder/zhixin-companion",
+      "body": "面向个人自我记录、复盘和认知梳理的伙伴型-提示词及agent配置文件：从具体线索出发，区分事实、感受和解释，在共情的同时保留现实检验。 | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/LotusDecoder/zhixin-companion",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "filipj9/Hermes-Control-Deck",
+      "body": "[CSS] Hermes Control is a CLI-first, mobile PWA control deck for Hermes WebUI and local Codex CLI. It unifies prompts, streami | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/filipj9/Hermes-Control-Deck",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
