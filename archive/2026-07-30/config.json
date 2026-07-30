@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-30",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "body": "HN Score: 313",
+      "caption": "来源: Hacker News | https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "body": "HN Score: 503",
+      "caption": "来源: Hacker News | https://christianselig.com/2026/07/vision-pro-house/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "NSF pilots 4-year PhDs with industry research placements",
+      "body": "HN Score: 60",
+      "caption": "来源: Hacker News | https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "body": "HN Score: 708 | Hi HN,I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboField",
+      "caption": "来源: Hacker News | https://github.com/drumih/turbo-fieldfare",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Superlogical",
+      "body": "HN Score: 592 | https:&#x2F;&#x2F;mitchellh.com&#x2F;writing&#x2F;superlogical",
+      "caption": "来源: Hacker News | https://www.superlogical.com/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Crushflalead/DragonSword-Awakening-Trainer",
+      "body": "[Python] A feature-rich trainer for DragonSword: Awakening that provides quality-of-life enhancements and gameplay customization. | ★21",
+      "caption": "来源: GitHub Trending | https://github.com/Crushflalead/DragonSword-Awakening-Trainer",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "wutongyuonce/pi-tool-offloading",
+      "body": "[TypeScript] 用于 Pi 的上下文卸载扩展：将过大的工具结果移到会话 sidecar 文件中，在需要时可用原生 `read` 取回，并在结果被模型使用后从后续请求中移除正文。 | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/wutongyuonce/pi-tool-offloading",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "hmh323/mubai-ears",
+      "body": "[Python] 给AI伴侣装耳朵——本地语音转写＋韵律分析 | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/hmh323/mubai-ears",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-agent-to-agent-brand-commerce-representative-skill",
+      "body": "[Python] Agent-to-Agent (A2A) brand commerce representative for LLM search recommendation | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-agent-to-agent-brand-commerce-representative-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-amazon-ppc-ad-campaign-waste-optimizer-skill",
+      "body": "[Python] E-commerce PPC ad campaign search-term waste analyzer & bid optimizer | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-amazon-ppc-ad-campaign-waste-optimizer-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
