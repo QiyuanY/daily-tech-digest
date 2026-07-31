@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-31",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The AI trade now runs on borrowed money, and the lenders are repricing it",
+      "body": "HN Score: 90",
+      "caption": "来源: Hacker News | https://greyswansignals.com/?theme=dark",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The AI Aesthetic",
+      "body": "HN Score: 243",
+      "caption": "来源: Hacker News | https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Read this before you buy that TV streaming stick",
+      "body": "HN Score: 652",
+      "caption": "来源: Hacker News | https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Stacked PRs are now live on GitHub",
+      "body": "HN Score: 563",
+      "caption": "来源: Hacker News | https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "body": "HN Score: 145",
+      "caption": "来源: Hacker News | https://geospatialml.com/posts/reviewing-ai-slop/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "WilonityXYZ/Wilonity",
+      "body": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, W | ★651",
+      "caption": "来源: GitHub Trending | https://github.com/WilonityXYZ/Wilonity",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Indhu27-pixel/Labour-Law-Violation-System",
+      "body": "[Python] AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explai | ★21",
+      "caption": "来源: GitHub Trending | https://github.com/Indhu27-pixel/Labour-Law-Violation-System",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "enniyalini2005-netizen/Mini-Project",
+      "body": "A Smart GPS Monitoring Framework for Compliance in Permitted Earth Excavation Transport | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/enniyalini2005-netizen/Mini-Project",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "cyberxiaowan/xiaowan-wechat-layout-skill",
+      "body": "[Shell] 小晚的微信公众号移动端排版与发布工作流，基于 gzh-design 的公开增强层。 | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/cyberxiaowan/xiaowan-wechat-layout-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "liuhuanyong/FDEGreenBook",
+      "body": "[HTML] 一个自包含的交互式网站，把 FDE（Forward Deployed Engineer，前线部署工程师）讲透：教程 + 游戏 + 画像测试三合一。 | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/liuhuanyong/FDEGreenBook",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
