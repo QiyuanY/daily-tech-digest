@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-01",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Elevators",
+      "body": "HN Score: 1087",
+      "caption": "来源: Hacker News | https://john.fun/elevators",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How to Exist",
+      "body": "HN Score: 99",
+      "caption": "来源: Hacker News | https://www.raptitude.com/2026/07/how-to-exist/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "qm – Multiplayer agent harness for work",
+      "body": "HN Score: 521",
+      "caption": "来源: Hacker News | https://github.com/yc-software/qm",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Software for One",
+      "body": "HN Score: 67",
+      "caption": "来源: Hacker News | https://www.ajwaxman.com/writing/software-for-one",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "BMW Spider-Man in-car advertising",
+      "body": "HN Score: 136",
+      "caption": "来源: Hacker News | https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "gabefishercb508/abay-bot-workflow-tools",
+      "body": "[HTML] Telegram automation project for coordinating workflow tasks in the currently available 2026 build, with a compact HTML-o | ★52",
+      "caption": "来源: GitHub Trending | https://github.com/gabefishercb508/abay-bot-workflow-tools",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "danielmillersr2593/3d-print-tools-editor",
+      "body": "[HTML] Client-side browser toolkit for viewing, editing, inspecting, and preparing common 3D-printing files, with support gener | ★51",
+      "caption": "来源: GitHub Trending | https://github.com/danielmillersr2593/3d-print-tools-editor",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ryanphqross9118/seliware-executor-script-update",
+      "body": "[HTML] Free Windows utility for running Lua scripts in Roblox with one-click injection, a 500+ script hub, saved execution queu | ★47",
+      "caption": "来源: GitHub Trending | https://github.com/ryanphqross9118/seliware-executor-script-update",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "noah-scottqkh6962/addon-ez-bedrock-loader",
+      "body": "[HTML] Browser-based utility for discovering, preparing, and installing Bedrock sandbox-game add-ons through a simple web workf | ★44",
+      "caption": "来源: GitHub Trending | https://github.com/noah-scottqkh6962/addon-ez-bedrock-loader",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "cooperchrispeo7238/delta-windows-script-executor",
+      "body": "[HTML] Windows 10/11 desktop tool for running Lua scripts in Roblox, browsing a 500+ script hub, and using a compact interface. | ★40",
+      "caption": "来源: GitHub Trending | https://github.com/cooperchrispeo7238/delta-windows-script-executor",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
