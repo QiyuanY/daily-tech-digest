@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-02",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Go 1.27 Interactive Tour",
+      "body": "HN Score: 110",
+      "caption": "来源: Hacker News | https://victoriametrics.com/blog/go-1-27/index.html",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Seedance 2.5",
+      "body": "HN Score: 246",
+      "caption": "来源: Hacker News | https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Diátaxis",
+      "body": "HN Score: 261",
+      "caption": "来源: Hacker News | https://diataxis.fr/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "body": "HN Score: 70",
+      "caption": "来源: Hacker News | https://github.com/tom-ilan/cycloidal_gearbox",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Plug-in solar is coming. Plug-in batteries should follow",
+      "body": "HN Score: 78",
+      "caption": "来源: Hacker News | https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    }
+  ]
+}
