@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-04",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "LLMs reward expertise",
+      "body": "HN Score: 670",
+      "caption": "来源: Hacker News | https://www.seangoedecke.com/llms-reward-expertise/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "body": "HN Score: 93",
+      "caption": "来源: Hacker News | https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "body": "HN Score: 63",
+      "caption": "来源: Hacker News | https://github.com/leonickson1/Swiftlet",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "body": "HN Score: 501",
+      "caption": "来源: Hacker News | https://openai.com/index/ten-advances-in-mathematics/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Devtools must be open source",
+      "body": "HN Score: 548",
+      "caption": "来源: Hacker News | https://blog.exe.dev/devtools-must-be-open-source",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "simon-weber51/betterfly-windows-pet-app",
+      "body": "[HTML] BetterFly is a lightweight Windows desktop virtual pet that lives in an interactive overlay, provides commentary, change | ★49",
+      "caption": "来源: GitHub Trending | https://github.com/simon-weber51/betterfly-windows-pet-app",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "adriantaylor234/apkpremium-app-store-bot",
+      "body": "[HTML] APKPremium Store is a Telegram bot project for organizing and displaying APK and premium application listings through a  | ★48",
+      "caption": "来源: GitHub Trending | https://github.com/adriantaylor234/apkpremium-app-store-bot",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "livid/exe",
+      "body": "[Go] A personal VM cloud for macOS: Virtualization.framework VMs, Ollama vibecoding agent, Cloudflare Tunnel publishing — one | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/livid/exe",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Sectionnajinx/Beast-Of-Reincarnation-Mod",
+      "body": "[C++] Beast of Reincarnation trainer and mod menu for PC — god mode, infinite stamina, infinite FP, one-hit kill, noclip, free | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/Sectionnajinx/Beast-Of-Reincarnation-Mod",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "vmfail/shiny-patcher",
+      "body": "[OCaml] Patch that adds a toggleable shiny RNG scanner to FR/LG | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/vmfail/shiny-patcher",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
