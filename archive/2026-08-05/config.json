@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-05",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Stateless MCP has recaptured my interest",
+      "body": "HN Score: 52",
+      "caption": "来源: Hacker News | https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "body": "HN Score: 153",
+      "caption": "来源: Hacker News | https://queue.acm.org/detail.cfm?id=3807963",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Pi's Minimalism Is Its Advantage",
+      "body": "HN Score: 227",
+      "caption": "来源: Hacker News | https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "body": "HN Score: 360",
+      "caption": "来源: Hacker News | https://mistral.ai/news/shieldstral/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "body": "HN Score: 75",
+      "caption": "来源: Hacker News | https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "KKKKhazix/human-writing",
+      "body": "[Python] 活人感写作 1.0.0｜通用中文创作与改稿 Skill | ★497",
+      "caption": "来源: GitHub Trending | https://github.com/KKKKhazix/human-writing",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Sparkfetch/sparkfetch",
+      "body": "[TypeScript] 🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API. | ★35",
+      "caption": "来源: GitHub Trending | https://github.com/Sparkfetch/sparkfetch",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Zirakin/airport-recommendation",
+      "body": "2026年最新高性价比机场推荐 | 科学上网 | 梯子推荐 | VPN推荐 | 支持 Clash | V2Ray | Sing-box | Shadowrocket 节点，附带详细的配置教程，包你满意 | ★30",
+      "caption": "来源: GitHub Trending | https://github.com/Zirakin/airport-recommendation",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mika50000/gpt-link",
+      "body": "[Python] Standalone ChatGPT Session/accessToken link extractor | ★30",
+      "caption": "来源: GitHub Trending | https://github.com/mika50000/gpt-link",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Daemonclechisel/face-liveness-detection-explained",
+      "body": "Developer-focused guide to face liveness detection, including active and passive checks, presentation attacks, injection | ★28",
+      "caption": "来源: GitHub Trending | https://github.com/Daemonclechisel/face-liveness-detection-explained",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
