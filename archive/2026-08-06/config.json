@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-06",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "body": "HN Score: 154",
+      "caption": "来源: Hacker News | https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Discovery Loop",
+      "body": "HN Score: 665",
+      "caption": "来源: Hacker News | https://www.discoveryloop.com/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "body": "HN Score: 565 | https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;goog",
+      "caption": "来源: Hacker News | https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Zed DeltaDB",
+      "body": "HN Score: 351",
+      "caption": "来源: Hacker News | https://zed.dev/deltadb",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The title cards in Blade Runner are amazing",
+      "body": "HN Score: 201",
+      "caption": "来源: Hacker News | https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MonetaryCurse/Wilonity-External-Loader-ful",
+      "body": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, W | ★101",
+      "caption": "来源: GitHub Trending | https://github.com/MonetaryCurse/Wilonity-External-Loader-ful",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "renatogroffe/dockercompose-grafana-prometheus-alloy-loki-tempo-rabbitmq",
+      "body": "Scripts do Docker Compose para subida de ambiente baseado na stack Grafana (dashboards + Prometheus + Allow/OpenTelemetr | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/renatogroffe/dockercompose-grafana-prometheus-alloy-loki-tempo-rabbitmq",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-contextual-long-term-episodic-memory-store-skill",
+      "body": "[Python] Persistent vector + graph episodic memory retrieval & context compressor | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-contextual-long-term-episodic-memory-store-skill",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-multi-modal-dataset-synthetic-augmentation-engine-skill",
+      "body": "[Python] Multi-modal dataset generator & synthetic image-text augmentation engine | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-multi-modal-dataset-synthetic-augmentation-engine-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-code-repository-security-ast-taint-analyzer-skill",
+      "body": "[Python] Static AST code analysis, taint propagation & zero-day vulnerability detector | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-code-repository-security-ast-taint-analyzer-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
