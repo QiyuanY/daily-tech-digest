@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-07",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "body": "HN Score: 471 | https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...https:&#x2F;&#x2F;chatjimmy.ai&#x2F;",
+      "caption": "来源: Hacker News | https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Mario Meets Pareto",
+      "body": "HN Score: 934",
+      "caption": "来源: Hacker News | https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "body": "HN Score: 176 | https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c36d4376nd2o, https:&#x2F;&#x2F;archive.is&#x2F;YDn6S",
+      "caption": "来源: Hacker News | https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Taste Is All That's Left",
+      "body": "HN Score: 269",
+      "caption": "来源: Hacker News | https://notashelf.dev/posts/taste-is-all-thats-left",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "body": "HN Score: 113",
+      "caption": "来源: Hacker News | https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "jnchen/code_dejavu",
+      "body": "[Rust] Code Déjà Vu 是一个基于 Tauri、SvelteKit 与 Rust 的本地桌面工具，用于统一浏览和管理 Claude Code、Codex CLI 与 OpenCode 留在本机的会话、指令和配置资料。 | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/jnchen/code_dejavu",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "WoodpeckerEmpty/beast-of-reincarnation-mod-menu",
+      "body": "[C++] Beast of Reincarnation Mod Menu featuring gameplay hacks, such as god mode, movement speed changes, one-hit kill (huge d | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/WoodpeckerEmpty/beast-of-reincarnation-mod-menu",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "roman-moore-1990w7/trading-bot-2026-free",
+      "body": "[Python] ★6",
+      "caption": "来源: GitHub Trending | https://github.com/roman-moore-1990w7/trading-bot-2026-free",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "wjx0808/pet-companionship-be",
+      "body": "pet-companionship | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/wjx0808/pet-companionship-be",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "lukeali-x2095x5/ai-trading-bot-2026",
+      "body": "[Python] ★6",
+      "caption": "来源: GitHub Trending | https://github.com/lukeali-x2095x5/ai-trading-bot-2026",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
