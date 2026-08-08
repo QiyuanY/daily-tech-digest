@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-08",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "body": "HN Score: 150",
+      "caption": "来源: Hacker News | https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "body": "HN Score: 64",
+      "caption": "来源: Hacker News | https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "body": "HN Score: 503",
+      "caption": "来源: Hacker News | https://arcprize.org/results/deepseek-v4-flash-0731",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "body": "HN Score: 137",
+      "caption": "来源: Hacker News | https://genesisopenmodels.anl.gov/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "body": "HN Score: 273",
+      "caption": "来源: Hacker News | https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DuckWithKnife404/FunPayPlus",
+      "body": "[Python] ★10",
+      "caption": "来源: GitHub Trending | https://github.com/DuckWithKnife404/FunPayPlus",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-declarative-workflow-dag-code-generator-skill",
+      "body": "[Python] Visual flow node-graph to executable Python DAG workflow generator | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-declarative-workflow-dag-code-generator-skill",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-realtime-voice-cloning-emotion-expressive-tts-skill",
+      "body": "[Python] Real-time zero-shot voice cloning & emotional neural TTS generator | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-realtime-voice-cloning-emotion-expressive-tts-skill",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-multimodal-document-ocr-structure-extractor-skill",
+      "body": "[Python] Complex PDF/Image OCR, table layout parser & structured JSON extractor | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-multimodal-document-ocr-structure-extractor-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-ai-video-multimodal-motion-brush-animator-skill",
+      "body": "[Python] Multimodal image-to-video motion control & camera trajectory animator | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-ai-video-multimodal-motion-brush-animator-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
