@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-09",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "My server is a phone now",
+      "body": "HN Score: 160",
+      "caption": "来源: Hacker News | https://seg6.space/posts/phone-server/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "body": "HN Score: 79",
+      "caption": "来源: Hacker News | https://os8088.com/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Improving Heuristics for A* Pathfinding",
+      "body": "HN Score: 111",
+      "caption": "来源: Hacker News | https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "body": "HN Score: 82",
+      "caption": "来源: Hacker News | https://shopify.engineering/scaling-inventory-reservations",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Fastmail offers EU data region",
+      "body": "HN Score: 336",
+      "caption": "来源: Hacker News | https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "teknium1/hermes-starter-profile",
+      "body": "[Python] A focused Hermes profile for learning the agent without tool overload | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/teknium1/hermes-starter-profile",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "LunkiBR/ship-it",
+      "body": "[Python] A Claude Code skill that catches commonly-forgotten UX/product details before you ship a screen or feature. | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/LunkiBR/ship-it",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "biyan113/Portless",
+      "body": "[Dart] Local dev service manager: ports → processes → projects → open → stop. | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/biyan113/Portless",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "dfenya/agentic-rag-kbqa",
+      "body": "[Python] ★3",
+      "caption": "来源: GitHub Trending | https://github.com/dfenya/agentic-rag-kbqa",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "drowzeys/keys-DGX-Sparkticus-Utimate-Power-Pack-Unleashed-Dual-DGX-Sparks-Needed",
+      "body": "[Python] keys-DGX-Sparkticus Utimate Power Pack Unleashed (Dual DGX-Sparks Needed) | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/drowzeys/keys-DGX-Sparkticus-Utimate-Power-Pack-Unleashed-Dual-DGX-Sparks-Needed",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
