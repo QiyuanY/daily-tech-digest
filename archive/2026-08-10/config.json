@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-10",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "What Happened to HackerOne?",
+      "body": "HN Score: 76",
+      "caption": "来源: Hacker News | https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "body": "HN Score: 490",
+      "caption": "来源: Hacker News | https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "body": "HN Score: 199 | What are you working on?  What have you been curious about lately?",
+      "caption": "来源: Hacker News | https://news.ycombinator.com/item?id=49233423",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "body": "HN Score: 215",
+      "caption": "来源: Hacker News | https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "body": "HN Score: 92",
+      "caption": "来源: Hacker News | https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "johnclark-lab2093p9/Adopt-Me-Script-2026---Auto-Farm---Pets---Free-Roblox--GUI",
+      "body": "★10",
+      "caption": "来源: GitHub Trending | https://github.com/johnclark-lab2093p9/Adopt-Me-Script-2026---Auto-Farm---Pets---Free-Roblox--GUI",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "johnclark-lab2093p9/fortnite-macro-2026",
+      "body": "[C#] ★10",
+      "caption": "来源: GitHub Trending | https://github.com/johnclark-lab2093p9/fortnite-macro-2026",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "liangdabiao/reddit-business-idea-validator",
+      "body": "[Python]  Reddit 商业创意验证器（reddit-business-idea-validator）  > 给 Claude Code 用的 Skill。你说一个创业想法，它自动去 Reddit 抓帖子 + 评论，让 AI 分析痛点、现有方案、市 | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/liangdabiao/reddit-business-idea-validator",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-agentic-web-scraping-anti-bot-bypasser-skill",
+      "body": "[Python] Agentic web crawler with headless browser orchestration & anti-bot bypass | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-agentic-web-scraping-anti-bot-bypasser-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-code-refactoring-architectural-debt-analyzer-skill",
+      "body": "[Python] Automated codebase architectural debt analyzer & refactoring planner | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-code-refactoring-architectural-debt-analyzer-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
