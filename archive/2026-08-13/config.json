@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-13",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "body": "HN Score: 807",
+      "caption": "来源: Hacker News | https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Delta",
+      "body": "HN Score: 455",
+      "caption": "来源: Hacker News | https://zed.dev/blog/introducing-delta",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "body": "HN Score: 875",
+      "caption": "来源: Hacker News | https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Qwen3.8-2.4T",
+      "body": "HN Score: 534 | https:&#x2F;&#x2F;huggingface.co&#x2F;Qwen&#x2F;Qwen3.8-2.4T-A95B-FP8",
+      "caption": "来源: Hacker News | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Principia Mathematica is modern and insightful",
+      "body": "HN Score: 84",
+      "caption": "来源: Hacker News | https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "thangnqdev/codex-oss-agent-kit",
+      "body": "[TypeScript] ★44",
+      "caption": "来源: GitHub Trending | https://github.com/thangnqdev/codex-oss-agent-kit",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "duy90utc528/repo-publication-audit",
+      "body": "[Python] Dependency-free preflight checks for repositories before making them public | ★40",
+      "caption": "来源: GitHub Trending | https://github.com/duy90utc528/repo-publication-audit",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "vuphongle/oss-pr-reviewer",
+      "body": "[TypeScript] AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing te | ★39",
+      "caption": "来源: GitHub Trending | https://github.com/vuphongle/oss-pr-reviewer",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "dukz2003/lum_codex",
+      "body": "[Python] ★38",
+      "caption": "来源: GitHub Trending | https://github.com/dukz2003/lum_codex",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "hhh0710/autopentest",
+      "body": "[TypeScript] ★32",
+      "caption": "来源: GitHub Trending | https://github.com/hhh0710/autopentest",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
