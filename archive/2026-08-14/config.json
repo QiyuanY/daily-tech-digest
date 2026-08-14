@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-14",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Gemini 3.7 Flash",
+      "body": "HN Score: 677 | https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flas...",
+      "caption": "来源: Hacker News | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "body": "HN Score: 480",
+      "caption": "来源: Hacker News | https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Bluesky Protocol Services",
+      "body": "HN Score: 101",
+      "caption": "来源: Hacker News | https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DeepSeek Harness developer preview",
+      "body": "HN Score: 591 | https:&#x2F;&#x2F;github.com&#x2F;deepseek-ai&#x2F;deepseek-harnesshttps:&#x2F;&#x2F;deepseek-harness.github.io&#x2F;deepseek-harness&#x2F;en&#x2F;gui",
+      "caption": "来源: Hacker News | https://deepseek.com/harness/en/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Hello, me. It's been a while",
+      "body": "HN Score: 62",
+      "caption": "来源: Hacker News | https://themech.net/2026/08/hello-me-its-been-a-while/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "alchaincyf/deepseek-harness-orange-book",
+      "body": "[HTML] DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载 | ★88",
+      "caption": "来源: GitHub Trending | https://github.com/alchaincyf/deepseek-harness-orange-book",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "flickzoz/mcp-guard",
+      "body": "[Python] ★81",
+      "caption": "来源: GitHub Trending | https://github.com/flickzoz/mcp-guard",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "emailhayday10-coder/agent-doctor",
+      "body": "[TypeScript] ★79",
+      "caption": "来源: GitHub Trending | https://github.com/emailhayday10-coder/agent-doctor",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "marcus-deng98z7/adopt-me-script-2026",
+      "body": "★13",
+      "caption": "来源: GitHub Trending | https://github.com/marcus-deng98z7/adopt-me-script-2026",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "oscar-soncode2092y0/adopt-me-free-script-2026",
+      "body": "★13",
+      "caption": "来源: GitHub Trending | https://github.com/oscar-soncode2092y0/adopt-me-free-script-2026",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
