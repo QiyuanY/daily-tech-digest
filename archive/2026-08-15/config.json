@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-15",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
+      "body": "HN Score: 78",
+      "caption": "来源: Hacker News | https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Qwen 3.8 27B",
+      "body": "HN Score: 941",
+      "caption": "来源: Hacker News | https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "body": "HN Score: 230",
+      "caption": "来源: Hacker News | https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "body": "HN Score: 299",
+      "caption": "来源: Hacker News | https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "body": "HN Score: 233",
+      "caption": "来源: Hacker News | https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "liceses/dsh-gitbash-preset",
+      "body": "[JavaScript] DeepSeek Harness 插件：一键安装「极简模式 (Git Bash)」agent preset —— 把 DSH 自带极简模式中的 bash 调用映射到 Git for Windows 的 bash（MSYS），让 Window | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/liceses/dsh-gitbash-preset",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "KyroGeorge2/FIFA-13-Local-FUT",
+      "body": "[PowerShell] Local FUT 13 Revival | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/KyroGeorge2/FIFA-13-Local-FUT",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ZacharyZcR/annoying-customer",
+      "body": "[Python] Let vision-capable AI act as demanding customers and catch product problems before launch. | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/ZacharyZcR/annoying-customer",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Francis-Xavier-code/dsh-balance-plugin",
+      "body": "[JavaScript] deepSeek 余额监控与用量统计（DSH 动态 Cordis 插件）：余额监控 · 官方充值入口 · 用量统计 · 三方插件管理 | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/Francis-Xavier-code/dsh-balance-plugin",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "klemminvu7-cpu/onelineshield-architecture",
+      "body": "[TypeScript] How OneLineShield puts a website behind Cloudflare without moving nameservers: architecture, security model, monitoring  | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/klemminvu7-cpu/onelineshield-architecture",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
