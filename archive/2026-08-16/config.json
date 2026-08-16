@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-16",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Asus Bike Booster",
+      "body": "HN Score: 131",
+      "caption": "来源: Hacker News | https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "body": "HN Score: 363",
+      "caption": "来源: Hacker News | https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "body": "HN Score: 97",
+      "caption": "来源: Hacker News | https://www.henrikkarlsson.xyz/p/good-ideas",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "body": "HN Score: 105 | https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2",
+      "caption": "来源: Hacker News | https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "body": "HN Score: 220",
+      "caption": "来源: Hacker News | https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Amey-Thakur/ACCIDENT-CVPR-2026",
+      "body": "[Jupyter Notebook] Zero-shot pipeline for traffic accident detection, localization and classification in CCTV video. Frame-difference peak  | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/Amey-Thakur/ACCIDENT-CVPR-2026",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "rsamwilson2323-cloud/NEON-SPACE-DEFENDER-3D",
+      "body": "[HTML] 🚀 NEON SPACE DEFENDER 3D is a futuristic browser-based 3D space survival shooter built with HTML, CSS, JavaScript, and T | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/rsamwilson2323-cloud/NEON-SPACE-DEFENDER-3D",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "CharlesHoskinson/anthropies",
+      "body": "[Python] Restore clean title in work you already own. Strip vendor marks from Outputs Anthropic assigned to you. | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/CharlesHoskinson/anthropies",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "lilwhich/my_better-dsh",
+      "body": "[PowerShell] for better dsh | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/lilwhich/my_better-dsh",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "rsamwilson2323-cloud/BLOCK-SNAKE-3D",
+      "body": "[JavaScript] 🐍 BLOCK SNAKE 3D is a retro-inspired 3D voxel snake game built with HTML, CSS, JavaScript, and Three.js. Explore a neon  | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/rsamwilson2323-cloud/BLOCK-SNAKE-3D",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
