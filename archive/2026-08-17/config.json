@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-17",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "body": "HN Score: 107",
+      "caption": "来源: Hacker News | https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Life and Death of Direct File [pdf]",
+      "body": "HN Score: 100",
+      "caption": "来源: Hacker News | https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "body": "HN Score: 398",
+      "caption": "来源: Hacker News | https://rvembedded.com/blog_post/12/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude: System Prompts",
+      "body": "HN Score: 563",
+      "caption": "来源: Hacker News | https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Low-Tech Ceramic Water Filter",
+      "body": "HN Score: 106",
+      "caption": "来源: Hacker News | https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "noaa-apt/kiwi-reload",
+      "body": "[HTML] Kiwi-Reload is a closed-source application. Kiwi-Reload was built for the purpose of streaming UVB-76, Where it moves re | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/noaa-apt/kiwi-reload",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "qiwanqingyise/xuan-assistant",
+      "body": "[TypeScript] 轩助手 - 个人 AI 助手：NestJS 后端 + Vue3 前端 + Electron 浏览器自动化 | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/qiwanqingyise/xuan-assistant",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "weidutech/pi-recon",
+      "body": "[Python] Automated reconnaissance and result validation for authorized security challenge environments. | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/weidutech/pi-recon",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "balcoz/dsh-ocr-local",
+      "body": "[JavaScript] ★3",
+      "caption": "来源: GitHub Trending | https://github.com/balcoz/dsh-ocr-local",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "hartmamt/awesome-ai-certifications",
+      "body": "A curated list of AI and machine learning certifications — cost, validity, eligibility, and retake policy, verified agai | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/hartmamt/awesome-ai-certifications",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
