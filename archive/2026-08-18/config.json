@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-18",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "body": "HN Score: 273",
+      "caption": "来源: Hacker News | https://timmarinin.net/2026/bluesky-screenshots/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "body": "HN Score: 179",
+      "caption": "来源: Hacker News | https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "body": "HN Score: 178",
+      "caption": "来源: Hacker News | https://openrouter.ai/openai/gpt-5.6-sol",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A Preview of DuckDB v2.0",
+      "body": "HN Score: 560",
+      "caption": "来源: Hacker News | https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "body": "HN Score: 93",
+      "caption": "来源: Hacker News | https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "alphaparkinc/genpark-terminal-first-developer-agent-workspace-navigator-skill",
+      "body": "[Python] Interactive terminal-first developer agent (Claude Code style) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-terminal-first-developer-agent-workspace-navigator-skill",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-no-code-spatial-xr-3d-scene-simulator-skill",
+      "body": "[Python] No-code interactive 3D and XR spatial scene generator (Ctruh style) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-no-code-spatial-xr-3d-scene-simulator-skill",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-full-duplex-streaming-voice-agent-pipeline-skill",
+      "body": "[Python] Full-duplex streaming voice agent pipeline (Dograh style) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-full-duplex-streaming-voice-agent-pipeline-skill",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-agent-runtime-circuit-breaker-state-rollback-skill",
+      "body": "[Python] Autonomous LLM agent failure circuit-breaker & state rollback orchestrator | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-agent-runtime-circuit-breaker-state-rollback-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-user-research-interview-thematic-insight-synthesizer-skill",
+      "body": "[Python] Conversational user research transcript analyzer & thematic insight clusterer | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-user-research-interview-thematic-insight-synthesizer-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
