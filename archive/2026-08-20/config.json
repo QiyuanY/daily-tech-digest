@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-20",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "OpenRouter is joining Stripe",
+      "body": "HN Score: 678 | Previously: Stripe will reportedly acquire OpenRouter for $7B+ https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49323381",
+      "caption": "来源: Hacker News | https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Go 1.27",
+      "body": "HN Score: 481",
+      "caption": "来源: Hacker News | https://go.dev/blog/go1.27",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "body": "HN Score: 326",
+      "caption": "来源: Hacker News | https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Manabu Kosaka's Handmade Paper Sculptures",
+      "body": "HN Score: 53",
+      "caption": "来源: Hacker News | https://coca11272000.wixsite.com/manabukosaka",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "body": "HN Score: 150",
+      "caption": "来源: Hacker News | https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "ssq123123/wx-basic-bridge",
+      "body": "[Python] 微信 PC 4.1.9.23 最小文本收发、消息归档与 DLL 注入桥接工程 | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/ssq123123/wx-basic-bridge",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "endjynn/frame-pacer",
+      "body": "[C] ★3",
+      "caption": "来源: GitHub Trending | https://github.com/endjynn/frame-pacer",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "JWarren55/Sugar_Watch",
+      "body": "Using Data Science to solve Diabetes | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/JWarren55/Sugar_Watch",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Sketles/DEIS-Cognos-Scraper",
+      "body": "[Python] Deis Cognos Scraper Data | ★2",
+      "caption": "来源: GitHub Trending | https://github.com/Sketles/DEIS-Cognos-Scraper",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "jolt-lang/glimmer-uikit",
+      "body": "[Clojure] UIKit bindings for glimmer | ★2",
+      "caption": "来源: GitHub Trending | https://github.com/jolt-lang/glimmer-uikit",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
