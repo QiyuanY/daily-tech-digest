@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-21",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The August 17 outage",
+      "body": "HN Score: 360",
+      "caption": "来源: Hacker News | https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I like 'em thick: an apology to my English teachers",
+      "body": "HN Score: 595",
+      "caption": "来源: Hacker News | https://www.experimental-history.com/p/i-like-em-thick",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "HTML Can Do That",
+      "body": "HN Score: 608",
+      "caption": "来源: Hacker News | https://chrisburnell.com/html-can-do-that/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "body": "HN Score: 411 | https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on...https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-d",
+      "caption": "来源: Hacker News | https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I should have loved biology (2020)",
+      "body": "HN Score: 204",
+      "caption": "来源: Hacker News | https://jsomers.net/i-should-have-loved-biology/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Leutenegger/vanity-eth",
+      "body": "[Python] Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports  | ★801",
+      "caption": "来源: GitHub Trending | https://github.com/Leutenegger/vanity-eth",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Ph03n1xRt/dsh-codeaudit",
+      "body": "[TypeScript] DeepSeek Harness 代码审计插件 | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/Ph03n1xRt/dsh-codeaudit",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "rc-shi/jane-doe-desktop-pet",
+      "body": "简杜pet | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/rc-shi/jane-doe-desktop-pet",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "allen-hsu/gpc",
+      "body": "[Go] Google Play Console CLI — asc for Google Play. Agent-friendly wrapper over the Android Publisher API v3. | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/allen-hsu/gpc",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "docentedev/DESARROLLO-DE-APLICACIONES-MOVILES",
+      "body": "[Kotlin] Gracias Mario! | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/docentedev/DESARROLLO-DE-APLICACIONES-MOVILES",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
