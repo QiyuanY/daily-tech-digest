@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-22",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Felony Bench",
+      "body": "HN Score: 561",
+      "caption": "来源: Hacker News | https://www.felonybench.com/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "There's no reason for software to be slow anymore",
+      "body": "HN Score: 84",
+      "caption": "来源: Hacker News | https://danluu.com/perf-opt/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Kobo can run apps now",
+      "body": "HN Score: 451",
+      "caption": "来源: Hacker News | https://bandarlabs.github.io/Cobalt/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "body": "HN Score: 52 | https:&#x2F;&#x2F;matklad.github.io&#x2F;2026&#x2F;08&#x2F;21&#x2F;rust-glancer.html",
+      "caption": "来源: Hacker News | https://rust-glancer.github.io/blog/hello-world/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Three important steps in my maturation process",
+      "body": "HN Score: 74",
+      "caption": "来源: Hacker News | https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DefuzeX-AI/KUMA-DefuzeX",
+      "body": "[Python] Python SDK for DefuzeX agent behavior testing. | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/DefuzeX-AI/KUMA-DefuzeX",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SrsebastianAV/Reliability-risk",
+      "body": "[Jupyter Notebook] ★3",
+      "caption": "来源: GitHub Trending | https://github.com/SrsebastianAV/Reliability-risk",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "miguelconfuso/pathpulse",
+      "body": "[TypeScript] A real time pathfinding laboratory for the terminal | ★2",
+      "caption": "来源: GitHub Trending | https://github.com/miguelconfuso/pathpulse",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "wysjwxm/interview-review",
+      "body": "[Python] ★2",
+      "caption": "来源: GitHub Trending | https://github.com/wysjwxm/interview-review",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "vinnytherobot/crimson-gui",
+      "body": "[Rust] ★2",
+      "caption": "来源: GitHub Trending | https://github.com/vinnytherobot/crimson-gui",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
