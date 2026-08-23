@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-23",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
+      "body": "HN Score: 66",
+      "caption": "来源: Hacker News | https://marcua.net/minitools/figmimic/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Scrap (2006)",
+      "body": "HN Score: 326 | https:&#x2F;&#x2F;xcancel.com&#x2F;moxie&#x2F;status&#x2F;2091218652133732491",
+      "caption": "来源: Hacker News | https://twitter.com/moxie/status/2091218652133732491",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "body": "HN Score: 56",
+      "caption": "来源: Hacker News | https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "body": "HN Score: 202",
+      "caption": "来源: Hacker News | https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "body": "HN Score: 331",
+      "caption": "来源: Hacker News | https://quantumi.sh/public/labs.html",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "kelvinagyareyeboah/Driftnote",
+      "body": "[TypeScript] Offline-first React Native note app built with Expo SDK 54, SQLite persistence, background sync engine, and Expo Router. | ★5",
+      "caption": "来源: GitHub Trending | https://github.com/kelvinagyareyeboah/Driftnote",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "nicodapta/fleet_widget",
+      "body": "[Swift] ★4",
+      "caption": "来源: GitHub Trending | https://github.com/nicodapta/fleet_widget",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "brobean13/weather-app",
+      "body": "[Python] ★4",
+      "caption": "来源: GitHub Trending | https://github.com/brobean13/weather-app",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "shi3z/telehack",
+      "body": "[HTML] ★3",
+      "caption": "来源: GitHub Trending | https://github.com/shi3z/telehack",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "addition-official/ecobee-local",
+      "body": "[Python] Local Ecobee control in Python via HomeKit. No cloud, no ecobee API key, no Home Assistant. Pair once, then read/control | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/addition-official/ecobee-local",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
