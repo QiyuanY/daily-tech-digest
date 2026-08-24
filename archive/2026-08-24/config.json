@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-24",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Everything I own, owned",
+      "body": "HN Score: 357 | https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260823225933&#x2F;https:&#x2F;&#x2F;schlarp.c...",
+      "caption": "来源: Hacker News | https://schlarp.com/posts/everything-i-own-owned/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How I find problems to solve as a staff engineer",
+      "body": "HN Score: 300",
+      "caption": "来源: Hacker News | https://lalitm.com/post/find-problems-staff-engineer/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "body": "HN Score: 274",
+      "caption": "来源: Hacker News | https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "body": "HN Score: 196",
+      "caption": "来源: Hacker News | https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "body": "HN Score: 189",
+      "caption": "来源: Hacker News | https://fabiensanglard.net/agent.md/index.html",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "bryllim/workout-guide",
+      "body": "[Astro] 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/bryllim/workout-guide",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Vcxtan/BikePilot",
+      "body": "[Kotlin] Open-source Android cycling app: real-time GPS speed + compass heading. Kotlin, Jetpack Compose, no GMS, works in China. | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/Vcxtan/BikePilot",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "FrizzleFur/glm-quota-hud",
+      "body": "[Python] GLM Coding Plan quota monitor for Claude Code status bar (claude-hud extra) — dual-account 5h window / weekly pool bars  | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/FrizzleFur/glm-quota-hud",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mhelxd/TEST-19",
+      "body": "[HTML] ★3",
+      "caption": "来源: GitHub Trending | https://github.com/mhelxd/TEST-19",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Lilstanie/AI_TRIP_PLANNER",
+      "body": "★3",
+      "caption": "来源: GitHub Trending | https://github.com/Lilstanie/AI_TRIP_PLANNER",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
