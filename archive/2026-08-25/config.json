@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-25",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "body": "HN Score: 269",
+      "caption": "来源: Hacker News | https://developer.apple.com/news/?id=1ptvdtcm",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "body": "HN Score: 751 | https:&#x2F;&#x2F;xcancel.com&#x2F;lemire&#x2F;status&#x2F;2091894299289874926",
+      "caption": "来源: Hacker News | https://twitter.com/lemire/status/2091894299289874926",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "body": "HN Score: 587",
+      "caption": "来源: Hacker News | https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Moon (2024)",
+      "body": "HN Score: 115",
+      "caption": "来源: Hacker News | https://ciechanow.ski/moon/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "body": "HN Score: 1095",
+      "caption": "来源: Hacker News | https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MediatorAxle/How-To-Fish-Trainer",
+      "body": "[C++] How to Fish trainer for PC — infinite money and ammo, never lose a fish, birds stop stealing your catch, unlock every we | ★250",
+      "caption": "来源: GitHub Trending | https://github.com/MediatorAxle/How-To-Fish-Trainer",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "pokemon225/ax-platform-mcp",
+      "body": "[HTML] aX - agent-native collaboration network for long-running agents. Remote MCP server: messaging, tasks, shared context, se | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/pokemon225/ax-platform-mcp",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "marcus-wilsonx2093r2/-ADOPT-ME-AUTO-FARM",
+      "body": "★6",
+      "caption": "来源: GitHub Trending | https://github.com/marcus-wilsonx2093r2/-ADOPT-ME-AUTO-FARM",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "marcus-wilsonx2093r2/MAD-CITY-HEIST-MASTER",
+      "body": "★6",
+      "caption": "来源: GitHub Trending | https://github.com/marcus-wilsonx2093r2/MAD-CITY-HEIST-MASTER",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "1533120914/fhuman",
+      "body": "[JavaScript] 本地 AI 工作台：编排 Codex / Claude Code / DSH / Grok，带规划、审核和 Obsidian 记忆投影。 | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/1533120914/fhuman",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
