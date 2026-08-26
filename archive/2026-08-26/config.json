@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-26",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Apple introduces M6 and M5 Ultra",
+      "body": "HN Score: 992 | https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;apple-debuts-its-most-powe...https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;08&#x2F;25&#",
+      "caption": "来源: Hacker News | https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "body": "HN Score: 306",
+      "caption": "来源: Hacker News | https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "body": "HN Score: 358 | https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl..., https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr",
+      "caption": "来源: Hacker News | https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "body": "HN Score: 715",
+      "caption": "来源: Hacker News | https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Black hole singularity is a surface not a point",
+      "body": "HN Score: 208",
+      "caption": "来源: Hacker News | https://arxiv.org/abs/2608.21590",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "bansheepatronmake/AI-Helper-Menu",
+      "body": "[JavaScript] The most advanced, undetected Blooket menu for 2026. Auto-answer, unlimited coins, all blooks unlock, speed hack, token  | ★60",
+      "caption": "来源: GitHub Trending | https://github.com/bansheepatronmake/AI-Helper-Menu",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "byRyo/Brawl-Movement",
+      "body": "[JavaScript] Undetected movement for v68.279. | ★6",
+      "caption": "来源: GitHub Trending | https://github.com/byRyo/Brawl-Movement",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "UrsuleJeanmaire/OI-Contest-Submitter",
+      "body": "[C#] ★4",
+      "caption": "来源: GitHub Trending | https://github.com/UrsuleJeanmaire/OI-Contest-Submitter",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "liangdabiao/ecom-video-seedance-prompt",
+      "body": "[HTML] 这是一个基于deepseek-v4-flash-vision 视觉deepseek大模型的复刻带货爆款视频Skill, 会生成复刻效果的seedance提示词！  > 你刷到一条带货爆款视频，想让 AI 照着再来一条——本 skill 就是 | ★4",
+      "caption": "来源: GitHub Trending | https://github.com/liangdabiao/ecom-video-seedance-prompt",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "zhanglove2003/gpt-register-clean",
+      "body": "[JavaScript] GPT register desktop console - local browser automation for OpenAI account registration (AGPL-3.0) | ★3",
+      "caption": "来源: GitHub Trending | https://github.com/zhanglove2003/gpt-register-clean",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
