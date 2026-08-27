@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-27",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "body": "HN Score: 1343 | https:&#x2F;&#x2F;www.theinformation.com&#x2F;articles&#x2F;nvidia-agrees-buy-op... (paywalled)https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;08&#x2F",
+      "caption": "来源: Hacker News | https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Pollen Robotics (Hugging Face) Microduck",
+      "body": "HN Score: 79",
+      "caption": "来源: Hacker News | https://pollen-robotics.com/microduck/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Mechanical Turk shutting down September 30",
+      "body": "HN Score: 417",
+      "caption": "来源: Hacker News | https://www.mturk.com/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GLM-5.3-Flash",
+      "body": "HN Score: 1067 | https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49450353",
+      "caption": "来源: Hacker News | https://z.ai/blog/glm-5.3-flash",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tell HN: PayPal Blocks GrapheneOS",
+      "body": "HN Score: 149 | It seems like the PayPal app now refuses to run on GrapheneOS. I don&#x27;t know if it&#x27;s only because I have enabled the PayPal card for contacle",
+      "caption": "来源: Hacker News | https://news.ycombinator.com/item?id=49462253",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cleverfuxaqo1668/Polymarket-Telegram-Bot",
+      "body": "[JavaScript] ★87",
+      "caption": "来源: GitHub Trending | https://github.com/Cleverfuxaqo1668/Polymarket-Telegram-Bot",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "body": "[TeX] ★57",
+      "caption": "来源: GitHub Trending | https://github.com/HEJustinSun/my-girlfriend-jingtian-latex",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Blackwindow6/linuxdo-wecom-ui",
+      "body": "[JavaScript] Linux DO 企业微信 5.x IM 外观油猴脚本 | ★38",
+      "caption": "来源: GitHub Trending | https://github.com/Blackwindow6/linuxdo-wecom-ui",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Autobricks-AI/Arlo-AI-Desktop",
+      "body": "[TypeScript] Self-hosted AI customer service. Your documents, your database, your data - answered with citations across every channel | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/Autobricks-AI/Arlo-AI-Desktop",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "devlument147/canary-key-test",
+      "body": "DEEPSEEK_API_KEY test canary repo | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/devlument147/canary-key-test",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
