@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-28",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "\"IT WoRKs BeTter in the App \"",
+      "body": "HN Score: 142",
+      "caption": "来源: Hacker News | https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenAI: Migrating to HTTPX2",
+      "body": "HN Score: 88",
+      "caption": "来源: Hacker News | https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Hilariously Fast Volume Computation with the Divergence Theorem",
+      "body": "HN Score: 154",
+      "caption": "来源: Hacker News | https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "EPA says power for data centers can sidestep pollution laws",
+      "body": "HN Score: 81",
+      "caption": "来源: Hacker News | https://www.epa.gov/newsreleases/epa-issues-permitting-guidance-further-president-trumps-agenda-promoting-data-centers",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "U.S. Sanctions Against the a/I Collective",
+      "body": "HN Score: 79",
+      "caption": "来源: Hacker News | https://www.inventati.org/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Nanako0129/sepia",
+      "body": "[Shell] De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, ven | ★64",
+      "caption": "来源: GitHub Trending | https://github.com/Nanako0129/sepia",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "d4ncboz/jailbreak",
+      "body": "BOZAGENTIC — Sovereign Alignment Research, Jailbreak Taxonomies, CoT Pre-Emption, and Universal Prompt Inversion Framewo | ★55",
+      "caption": "来源: GitHub Trending | https://github.com/d4ncboz/jailbreak",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "sgyno09-source/reference-video-director",
+      "body": "★53",
+      "caption": "来源: GitHub Trending | https://github.com/sgyno09-source/reference-video-director",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tony-make/walletgen",
+      "body": "[C++] WalletGen - Seed Phrase generator / checker for Bitcoin (BTC) and ETH (Ethereum) wallets. Find or recovery your wallet v | ★51",
+      "caption": "来源: GitHub Trending | https://github.com/tony-make/walletgen",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ZJU-REAL/Easel",
+      "body": "[Python] Your private evolving social media assistant, making creation easier. | ★45",
+      "caption": "来源: GitHub Trending | https://github.com/ZJU-REAL/Easel",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
