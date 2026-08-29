@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-29",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "body": "HN Score: 57",
+      "caption": "来源: Hacker News | https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GUIs should be fully keyboard-driven",
+      "body": "HN Score: 780",
+      "caption": "来源: Hacker News | https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "body": "HN Score: 250",
+      "caption": "来源: Hacker News | https://github.com/Lakr233/vphone-cli",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "body": "HN Score: 92",
+      "caption": "来源: Hacker News | https://github.com/kingroryg/turbokv",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Htmx 4.0",
+      "body": "HN Score: 641",
+      "caption": "来源: Hacker News | https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "felixmelanson/crono-vision",
+      "body": "[Python] ★14",
+      "caption": "来源: GitHub Trending | https://github.com/felixmelanson/crono-vision",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-grammar-constrained-token-logits-decoder-skill",
+      "body": "[Python] Grammar-constrained token logits decoder & regex enforcer (Outlines style) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-grammar-constrained-token-logits-decoder-skill",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-payload-filtered-hnsw-vector-similarity-engine-skill",
+      "body": "[Python] Payload filtered HNSW vector similarity engine with quantization (Qdrant style) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-payload-filtered-hnsw-vector-similarity-engine-skill",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-universal-llm-proxy-load-balancer-routing-skill",
+      "body": "[Python] Universal LLM proxy load balancer with failover & rate limits (LiteLLM style) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-universal-llm-proxy-load-balancer-routing-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-schema-enforced-structured-llm-extraction-validator-skill",
+      "body": "[Python] Schema-enforced structured LLM extraction engine with validation retries (Instructor style) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-schema-enforced-structured-llm-extraction-validator-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
