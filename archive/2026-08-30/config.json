@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-30",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Bug Blindness",
+      "body": "HN Score: 223",
+      "caption": "来源: Hacker News | https://danluu.com/bug-blind/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "RISC-V is now officially supported by CPython",
+      "body": "HN Score: 126",
+      "caption": "来源: Hacker News | https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Hy4 preview",
+      "body": "HN Score: 273",
+      "caption": "来源: Hacker News | https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "body": "HN Score: 214",
+      "caption": "来源: Hacker News | https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "body": "HN Score: 83",
+      "caption": "来源: Hacker News | https://freecore.org/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "kushvanthchowdarynagabhyru-byte/agentic-ai-data-pipeline-framework",
+      "body": "[Python] agentic-ai-data-pipeline-framework | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/kushvanthchowdarynagabhyru-byte/agentic-ai-data-pipeline-framework",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "kushvanthchowdarynagabhyru-byte/iot-enabled-digital-twin---smart-sensor-network",
+      "body": "[Python] iot-enabled-digital-twin-&-smart-sensor-network | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/kushvanthchowdarynagabhyru-byte/iot-enabled-digital-twin---smart-sensor-network",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-photorealistic-prompt-expansion-aesthetics-director-skill",
+      "body": "[Python] Photorealistic prompt expansion director & volumetric lighting enricher (Midjourney style) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-photorealistic-prompt-expansion-aesthetics-director-skill",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-browser-native-wasm-microcontainer-node-runtime-skill",
+      "body": "[Python] Browser-native WebAssembly microcontainer node runtime (Bolt.new WebContainers style) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-browser-native-wasm-microcontainer-node-runtime-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-multi-tenant-gitlab-webhook-event-router-skill",
+      "body": "[Python] Multi-tenant GitLab webhook event router & CI/CD trigger (GitLab Webhook style) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-multi-tenant-gitlab-webhook-event-router-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
