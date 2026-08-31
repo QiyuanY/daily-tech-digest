@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-31",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "“I just chose words carefully”",
+      "body": "HN Score: 715",
+      "caption": "来源: Hacker News | https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "body": "HN Score: 96",
+      "caption": "来源: Hacker News | https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Creepy Crawlies",
+      "body": "HN Score: 1114",
+      "caption": "来源: Hacker News | https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "My hobby of building miniatures and taking pretty pictures",
+      "body": "HN Score: 100",
+      "caption": "来源: Hacker News | https://sandyuraz.com/blogs/tiny-cafe/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Transfer files over an Ethernet patch cable",
+      "body": "HN Score: 72",
+      "caption": "来源: Hacker News | https://maurycyz.com/misc/etherfiles/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GangTailorUpgrade/CoomeRtool",
+      "body": "[Python] Coomer Tool | ★223",
+      "caption": "来源: GitHub Trending | https://github.com/GangTailorUpgrade/CoomeRtool",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "siknet/FreePEP",
+      "body": "[Python] 人教社电子教材下载器 | ★61",
+      "caption": "来源: GitHub Trending | https://github.com/siknet/FreePEP",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AMAP-ML/LoopArena",
+      "body": "[Python] Benchmarking models as runtime Controllers for Loop Engineering | ★57",
+      "caption": "来源: GitHub Trending | https://github.com/AMAP-ML/LoopArena",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "expotera/facebook-reporting-bot",
+      "body": "Bots are automated tool designed to streamline the process of submitting reports on FaceBook accounts that may violate t | ★31",
+      "caption": "来源: GitHub Trending | https://github.com/expotera/facebook-reporting-bot",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tianyupaipai-cmd/pai-voice",
+      "body": "[JavaScript] A self-hostable, model-agnostic realtime voice layer for personal PWA and terminal agents. | ★21",
+      "caption": "来源: GitHub Trending | https://github.com/tianyupaipai-cmd/pai-voice",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
