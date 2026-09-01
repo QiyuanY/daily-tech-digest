@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-01",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "GPU World",
+      "body": "HN Score: 143",
+      "caption": "来源: Hacker News | https://www.gpuworld.org/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Fastpotify",
+      "body": "HN Score: 278",
+      "caption": "来源: Hacker News | https://fastpotify.rocks/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Restroom Archive",
+      "body": "HN Score: 93",
+      "caption": "来源: Hacker News | https://restroomarchive.com",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "body": "HN Score: 466",
+      "caption": "来源: Hacker News | https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Playa Phone",
+      "body": "HN Score: 597",
+      "caption": "来源: Hacker News | https://playaphone.com/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "AMAP-ML/DreamX-Creator",
+      "body": "Democratizing Native Audio-Video Generation at 2K Resolution | ★62",
+      "caption": "来源: GitHub Trending | https://github.com/AMAP-ML/DreamX-Creator",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tsouth89/omakade",
+      "body": "[C++] A beautiful, local-first game library built for Omarchy. | ★42",
+      "caption": "来源: GitHub Trending | https://github.com/tsouth89/omakade",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Archiveuibarn/github-workflow-automation",
+      "body": "CI/CD orchestration script and automated pull request reviewer utilizing custom GitHub API actions. | ★23",
+      "caption": "来源: GitHub Trending | https://github.com/Archiveuibarn/github-workflow-automation",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HiveBoatwright/solana-sniper-bot",
+      "body": "Automated high-speed token sniper and liquidity pool monitor for decentralized exchanges on the Solana network. | ★23",
+      "caption": "来源: GitHub Trending | https://github.com/HiveBoatwright/solana-sniper-bot",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "FractionDefender2/crypto-arbitrage-scanner",
+      "body": "Real-time cryptocurrency arbitrage scanner and DEX liquidity monitor tracking profitable trading routes across exchanges | ★23",
+      "caption": "来源: GitHub Trending | https://github.com/FractionDefender2/crypto-arbitrage-scanner",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
