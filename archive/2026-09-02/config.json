@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-02",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "body": "HN Score: 1138 | What&#x27;s new in Claude Fable 5.1\n – https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...System Card:",
+      "caption": "来源: Hacker News | https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "body": "HN Score: 64",
+      "caption": "来源: Hacker News | https://arxiv.org/abs/2608.29530",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "body": "HN Score: 620",
+      "caption": "来源: Hacker News | https://danluu.com/zitron/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "True Rate of Unemployment",
+      "body": "HN Score: 163",
+      "caption": "来源: Hacker News | https://www.lisep.org/tru",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "body": "HN Score: 150",
+      "caption": "来源: Hacker News | https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "kalai2005bse-del/Smart-Bus",
+      "body": "[Java] SmartBus is a web-based Bus Tracking and Management System developed to simplify public transportation management. The a | ★72",
+      "caption": "来源: GitHub Trending | https://github.com/kalai2005bse-del/Smart-Bus",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Mr-Karan3376/code-unnati-3rd-Year",
+      "body": "This Repository will act like the codebase for the Pallavi College of Engineering 3rd Year Code Unnati Students  | ★40",
+      "caption": "来源: GitHub Trending | https://github.com/Mr-Karan3376/code-unnati-3rd-Year",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "4n5rud/focus-one-feature-backend",
+      "body": "기능 단위 승인 게이트 워크플로우 하네스 (백엔드 전용, core/adapter 구조) | ★25",
+      "caption": "来源: GitHub Trending | https://github.com/4n5rud/focus-one-feature-backend",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "zeroa234/ryza-ai-revive",
+      "body": "[JavaScript] Offline fan-made Ryza AI companion. Bring your own LLM/TTS. 离线同人莱莎 AI 陪伴，自填大模型与语音。 | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/zeroa234/ryza-ai-revive",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Leoruiz197/1TIAPR-2026",
+      "body": "conteudo das aulas da turma 1TIAPR 2026 | ★18",
+      "caption": "来源: GitHub Trending | https://github.com/Leoruiz197/1TIAPR-2026",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
