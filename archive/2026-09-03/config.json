@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-03",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Muse Spark 1.3",
+      "body": "HN Score: 522 | https:&#x2F;&#x2F;research.meta.ai&#x2F;blog&#x2F;introducing-muse-spark-1-3",
+      "caption": "来源: Hacker News | https://developer.meta.com/ai/models/muse-spark/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "body": "HN Score: 963 | https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-8-flash&#x2F;",
+      "caption": "来源: Hacker News | https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Google avoids a breakup of its ad tech business",
+      "body": "HN Score: 353 | https:&#x2F;&#x2F;archive.ph&#x2F;rlAbYhttps:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;litigation&#x2F;google-defeats-us-b...",
+      "caption": "来源: Hacker News | https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Holden's Lightning Flight",
+      "body": "HN Score: 131",
+      "caption": "来源: Hacker News | https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "body": "HN Score: 375",
+      "caption": "来源: Hacker News | https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MSNightmare/FalconFlank",
+      "body": "[C] Crowdstrike Falcon 0day Privilege Escalation Vulnerability | ★129",
+      "caption": "来源: GitHub Trending | https://github.com/MSNightmare/FalconFlank",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "blendi-remade/unreel",
+      "body": "[TypeScript] your personal AI video streaming service | ★35",
+      "caption": "来源: GitHub Trending | https://github.com/blendi-remade/unreel",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "adenaufal/nafkah",
+      "body": "[TypeScript] Peta interaktif kecukupan UMK/UMP terhadap biaya hidup di 514 kabupaten/kota Indonesia. Static Next.js, data CC BY 4.0. | ★30",
+      "caption": "来源: GitHub Trending | https://github.com/adenaufal/nafkah",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "R44VC0RP/superlocal",
+      "body": "[TypeScript] An email client & provider gateway so you can build your best email experience.  | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/R44VC0RP/superlocal",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Zhangeson/cesium_river",
+      "body": "[JavaScript] Cesium 高质量河道流向水面，觉得有用的话点个 Star ⭐ 支持一下。 | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/Zhangeson/cesium_river",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
