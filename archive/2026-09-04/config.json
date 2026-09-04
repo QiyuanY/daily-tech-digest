@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-04",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "GPT-6 Astra",
+      "body": "HN Score: 1653 | System Card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astraRelated ongoing threads:OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3 - https:&#x2",
+      "caption": "来源: Hacker News | https://openai.com/index/gpt-6-astra/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": ".name Termination",
+      "body": "HN Score: 1662",
+      "caption": "来源: Hacker News | https://neil.fraser.name/news/2026/09/03/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "body": "HN Score: 522",
+      "caption": "来源: Hacker News | https://inference-docs.cerebras.ai/models/overview",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The largest electric aircraft just flew [video]",
+      "body": "HN Score: 276 | https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-e...",
+      "caption": "来源: Hacker News | https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Project Xanadu: Even More Hindsight (2025)",
+      "body": "HN Score: 68",
+      "caption": "来源: Hacker News | https://gwern.net/xanadu",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "alphaparkinc/genpark-commercial-catchment-area-profiler-skill",
+      "body": "[Python] Retail commercial catchment area & foot-traffic profiler (Carto / Atlas) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-commercial-catchment-area-profiler-skill",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Alpha-Park/genpark-telephony-silence-latency-vad-calibrator-skill",
+      "body": "[Python] Voice activity detection silence threshold calibrator (ElevenLabs / Deepgram) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/Alpha-Park/genpark-telephony-silence-latency-vad-calibrator-skill",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Alpha-Park/genpark-voice-telephony-bargein-interruption-coordinator-skill",
+      "body": "[Python] Full-duplex telephony voice interruption coordinator (Bland AI / Retell) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/Alpha-Park/genpark-voice-telephony-bargein-interruption-coordinator-skill",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Alpha-Park/genpark-multi-stop-vehicle-route-tsp-optimizer-skill",
+      "body": "[Python] Multi-stop vehicle delivery route optimizer & TSP solver (Route4Me / OSRM) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/Alpha-Park/genpark-multi-stop-vehicle-route-tsp-optimizer-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Alpha-Park/genpark-multi-step-web-form-fill-orchestrator-skill",
+      "body": "[Python] Multi-step web form fill orchestrator with validation (Playwright / Puppeteer) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/Alpha-Park/genpark-multi-step-web-form-fill-orchestrator-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
