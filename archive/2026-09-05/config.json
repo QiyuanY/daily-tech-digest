@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-05",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "body": "HN Score: 423",
+      "caption": "来源: Hacker News | https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Why are European countries moving their gold out of North America?",
+      "body": "HN Score: 81",
+      "caption": "来源: Hacker News | https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "body": "HN Score: 1623 | https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...",
+      "caption": "来源: Hacker News | https://collusion.wiki/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "body": "HN Score: 576 | https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h...",
+      "caption": "来源: Hacker News | https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Statichost.eu – European static site hosting",
+      "body": "HN Score: 233",
+      "caption": "来源: Hacker News | https://www.statichost.eu/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "PowderVendor/discord-zapret",
+      "body": "[Batchfile] zapret-discord-youtube 1.10.2a| Как Обойти Блокировку Дискорда В России ?! Фикс ДС Фикс ! 05.09 | ★50",
+      "caption": "来源: GitHub Trending | https://github.com/PowderVendor/discord-zapret",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Ayi1337/gpt6-astra-one-shot-games",
+      "body": "[HTML] GPT-6 Astra 的 One Shot 游戏测试，包含原始 Prompt 与可直接运行的单文件 HTML。 | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/Ayi1337/gpt6-astra-one-shot-games",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "li-shutong/A-Label-Efficient-Model-for-Automatically-Extracting-Electron-Density-Profile-from-Ionograms",
+      "body": "[Python] A Label-Efficient Model for Automatically Extracting Electron Density Profile from Ionograms | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/li-shutong/A-Label-Efficient-Model-for-Automatically-Extracting-Electron-Density-Profile-from-Ionograms",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Alpha-Park/genpark-actuator-thermal-torque-throttle-sentinel-skill",
+      "body": "[Python] Robotic joint actuator thermal and torque load monitor triggering preventative throttling (DJI / Robomaster) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/Alpha-Park/genpark-actuator-thermal-torque-throttle-sentinel-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Alpha-Park/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill",
+      "body": "[Python] Edge LiDAR/depth point cloud voxel slicer computing 2.5D occupancy grids (Isaac Sim / Livox) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/Alpha-Park/genpark-spatial-obstacle-pointcloud-voxel-slicer-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
