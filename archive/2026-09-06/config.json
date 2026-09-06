@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-06",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "body": "HN Score: 326",
+      "caption": "来源: Hacker News | https://cloudinabottle.org/blog/launch-post",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The revolt of the reader",
+      "body": "HN Score: 285",
+      "caption": "来源: Hacker News | https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Music Theory for Programmers",
+      "body": "HN Score: 54",
+      "caption": "来源: Hacker News | https://runjs.app/blog/music-theory-for-programmers",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Chrome again exempts Google from user site data settings",
+      "body": "HN Score: 301",
+      "caption": "来源: Hacker News | https://lapcatsoftware.com/articles/2026/9/1.html",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GPT-6 Astra on robot arms",
+      "body": "HN Score: 148",
+      "caption": "来源: Hacker News | https://openai.robocurve.org/gpt-6-astra/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "pcm469768-droid/llm-api-speedtest",
+      "body": "[Go] Benchmark LLM APIs, OpenAI-compatible gateways, and API proxies by token speed, TTFB, latency, and success rate. Compare | ★31",
+      "caption": "来源: GitHub Trending | https://github.com/pcm469768-droid/llm-api-speedtest",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "trypsynth/evvdroid",
+      "body": "[Kotlin] Eloquence text-to-speech engine for Android and Wear OS, built on openevv | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/trypsynth/evvdroid",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "nevertoday/xxd-panel-116",
+      "body": "[Python] XXD Panel 116 — independent image design Skill with multilingual prompts and eight sample artworks | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/nevertoday/xxd-panel-116",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-dead-code-unreachable-ast-pruner-skill",
+      "body": "[Python] Whole-program callgraph reachability pruner locating dead functions & stale flags (Knip / Tsukuyomi) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-dead-code-unreachable-ast-pruner-skill",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Alpha-Park/genpark-pull-request-breaking-api-change-sentinel-skill",
+      "body": "[Python] Git PR diff semantic analyzer detecting breaking REST/GraphQL API schema mutations (Optic / Buf) | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/Alpha-Park/genpark-pull-request-breaking-api-change-sentinel-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
