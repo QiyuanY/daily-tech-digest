@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-07",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Keep Our Servers Running",
+      "body": "HN Score: 278",
+      "caption": "来源: Hacker News | https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "body": "HN Score: 191",
+      "caption": "来源: Hacker News | https://austinhenley.com/blog/python1024.html",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I'm a seeing-eye dog for a computer",
+      "body": "HN Score: 58",
+      "caption": "来源: Hacker News | https://claytonwramsey.com/blog/seeing-eye/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "body": "HN Score: 238",
+      "caption": "来源: Hacker News | https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Ask HN: Fable hacked my piano, can I release the results?",
+      "body": "HN Score: 106 | I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various moder",
+      "caption": "来源: Hacker News | https://news.ycombinator.com/item?id=49577129",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "EverettFish/holo-card-studio",
+      "body": "[Python] Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js pag | ★361",
+      "caption": "来源: GitHub Trending | https://github.com/EverettFish/holo-card-studio",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "aizhimou/javranking-extension",
+      "body": "[TypeScript] Show all JAV cover and ranking in one click. | ★63",
+      "caption": "来源: GitHub Trending | https://github.com/aizhimou/javranking-extension",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "yappologistic/Spun",
+      "body": "[C++] A CD-shaped music player for Linux, with local playback and Cider integration. | ★24",
+      "caption": "来源: GitHub Trending | https://github.com/yappologistic/Spun",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "VII-Cae/hyalite--liquid-glass",
+      "body": "[JavaScript] Real refraction liquid glass for the web: SDF lens maps + SVG displacement + backdrop-filter. One file, no WebGL. | ★18",
+      "caption": "来源: GitHub Trending | https://github.com/VII-Cae/hyalite--liquid-glass",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "KasumiYuku/Aurorix",
+      "body": "[Go] 基于Go的轻量的QQ官方机器人框架，此为基于原版Polarix的自用定制版本 | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/KasumiYuku/Aurorix",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
