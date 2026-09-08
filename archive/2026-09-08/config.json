@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-08",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "body": "HN Score: 189",
+      "caption": "来源: Hacker News | https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "We have a year to fix security everywhere",
+      "body": "HN Score: 133",
+      "caption": "来源: Hacker News | https://jyn.dev/a-year-to-fix-security/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "body": "HN Score: 101",
+      "caption": "来源: Hacker News | https://cims.nyu.edu/~tristanb/statement.pdf",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "body": "HN Score: 256",
+      "caption": "来源: Hacker News | https://mcpherrin.ca/2026/09/07/rsa.html",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "My Feed, My Way",
+      "body": "HN Score: 61",
+      "caption": "来源: Hacker News | https://www.pm.gov.au/media/my-feed-my-way",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "andrewroxby/claude-style-patch",
+      "body": "A drop-in CLAUDE.md style section that changes how Claude writes prose. | ★26",
+      "caption": "来源: GitHub Trending | https://github.com/andrewroxby/claude-style-patch",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tristanbuckmaster/fluid_lean",
+      "body": "[Lean] ★24",
+      "caption": "来源: GitHub Trending | https://github.com/tristanbuckmaster/fluid_lean",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "liamtech74/facebook-report-bot",
+      "body": "Automated tools that assist users in submitting reports for Facebook content that may violate the platform’s Community G | ★22",
+      "caption": "来源: GitHub Trending | https://github.com/liamtech74/facebook-report-bot",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "JkingYu/DiffExplorer",
+      "body": "[Python] ★12",
+      "caption": "来源: GitHub Trending | https://github.com/JkingYu/DiffExplorer",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "masihsultani/whiteboard-animator",
+      "body": "[Python] Turn a whiteboard-style image into a hand-drawn reveal video. The render engine behind Kinoslide. | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/masihsultani/whiteboard-animator",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
