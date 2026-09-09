@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-09",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Copyright does more harm than good and should be abolished",
+      "body": "HN Score: 69",
+      "caption": "来源: Hacker News | https://grapheneos.social/@GrapheneOS/117231186011306184",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Navier–Stokes Millennium Prize Problem",
+      "body": "HN Score: 122",
+      "caption": "来源: Hacker News | https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Muse – Meta’s personal AI agent",
+      "body": "HN Score: 469",
+      "caption": "来源: Hacker News | https://ai.meta.com/muse/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "body": "HN Score: 99",
+      "caption": "来源: Hacker News | https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "body": "HN Score: 1562",
+      "caption": "来源: Hacker News | https://cims.nyu.edu/~tristanb/statement.pdf",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "supabase-multitenant/supabase-multitenant",
+      "body": "[TypeScript] supabase-multitenant lets you self-host Supabase as your own Supabase.com-style cloud, running anywhere you choose—VPS,  | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/supabase-multitenant/supabase-multitenant",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AndrewMCkennyes/Fake_Sender",
+      "body": "[Python] Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP an | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/AndrewMCkennyes/Fake_Sender",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "skuramatata/novel-agent-studio",
+      "body": "[JavaScript] 面向中文小说创作的本地桌面 AI 工作台：故事规划、分章写作、证据审稿、局部修订与故事记忆。 | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/skuramatata/novel-agent-studio",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "paulops3/social-reporting-tool",
+      "body": "Open-source social media reporting bot & compliance auditor. Supports facebook report bot, bot report tiktok, and instag | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/paulops3/social-reporting-tool",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tangsj-hub/Storm-Dock",
+      "body": "[Rust] ★13",
+      "caption": "来源: GitHub Trending | https://github.com/tangsj-hub/Storm-Dock",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
