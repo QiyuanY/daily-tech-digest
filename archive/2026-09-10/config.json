@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-10",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "iPhone Duo",
+      "body": "HN Score: 1140",
+      "caption": "来源: Hacker News | https://www.apple.com/iphone-duo/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "body": "HN Score: 235 | I&#x27;ve always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects",
+      "caption": "来源: Hacker News | https://rivendell.dmitrybrant.com/relativity/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "All grown-ups were once children… but only few of them remember it",
+      "body": "HN Score: 69",
+      "caption": "来源: Hacker News | https://mathstodon.xyz/@tao/117244102901892965",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
+      "body": "HN Score: 77",
+      "caption": "来源: Hacker News | https://geo-tp.github.io/ESP32-Bit-Pirate/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "body": "HN Score: 997",
+      "caption": "来源: Hacker News | https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "yudaprasetya007/routeVSCODE",
+      "body": "[JavaScript] ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router | ★326",
+      "caption": "来源: GitHub Trending | https://github.com/yudaprasetya007/routeVSCODE",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tue09/awesome-reasoning-generalization",
+      "body": "[Python] ★94",
+      "caption": "来源: GitHub Trending | https://github.com/tue09/awesome-reasoning-generalization",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "viettranx/3dviz-pro-max",
+      "body": "[JavaScript] Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Cod | ★75",
+      "caption": "来源: GitHub Trending | https://github.com/viettranx/3dviz-pro-max",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "yi1108/printfilm",
+      "body": "[Python] PRINTFILM：AI 科普视频与漫剧创作平台 | ★74",
+      "caption": "来源: GitHub Trending | https://github.com/yi1108/printfilm",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "kevinzakka/mjbatch",
+      "body": "[Python] ★66",
+      "caption": "来源: GitHub Trending | https://github.com/kevinzakka/mjbatch",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
