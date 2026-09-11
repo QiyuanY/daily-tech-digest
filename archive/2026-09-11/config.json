@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-11",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "body": "HN Score: 119",
+      "caption": "来源: Hacker News | https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "body": "HN Score: 987",
+      "caption": "来源: Hacker News | https://shopify.engineering/back-to-native",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Don't let anyone take away your big box of cables",
+      "body": "HN Score: 457",
+      "caption": "来源: Hacker News | https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Nine coding harnesses vs. your laptop",
+      "body": "HN Score: 60",
+      "caption": "来源: Hacker News | https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "body": "HN Score: 226",
+      "caption": "来源: Hacker News | https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Faizpi/bank-sampah",
+      "body": "[PHP] ★918",
+      "caption": "来源: GitHub Trending | https://github.com/Faizpi/bank-sampah",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Smart-Paocai/VioletToolBox",
+      "body": "[C#] 一款面向安卓开发的多功能玩机工具箱 | ★49",
+      "caption": "来源: GitHub Trending | https://github.com/Smart-Paocai/VioletToolBox",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "hnamku/2026Fall",
+      "body": "★44",
+      "caption": "来源: GitHub Trending | https://github.com/hnamku/2026Fall",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "nuyoah-ai-works/nuyoah-portrait-character-designer",
+      "body": "[Python] 南鸢·人像角色设定师：把人物气质转成脸部结构、妆容与完整中文提示词 | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/nuyoah-ai-works/nuyoah-portrait-character-designer",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "qwq77777764/catalogflow",
+      "body": "[Python] Safety-first, human-approved product catalog pipeline for WooCommerce | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/qwq77777764/catalogflow",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
