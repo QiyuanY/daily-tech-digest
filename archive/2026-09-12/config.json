@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-12",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "google.com/goto: Google's anti-scraping update",
+      "body": "HN Score: 318",
+      "caption": "来源: Hacker News | https://www.autom.dev/blog/google-search-goto-links",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Navier-Stokes Announcement",
+      "body": "HN Score: 85",
+      "caption": "来源: Hacker News | https://www.claymath.org/news/navier-stokes-announcement/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "body": "HN Score: 833 | https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm...https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-tech",
+      "caption": "来源: Hacker News | https://mathandai.org/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "body": "HN Score: 454",
+      "caption": "来源: Hacker News | https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "body": "HN Score: 239",
+      "caption": "来源: Hacker News | https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "tropicalpackerroad/Fortnite-ESP-Soft-Aim-2026-SlowLow-Team-Visual-Assist-Tool",
+      "body": "[C++] Fortnite ESP & SoftAim tool 2026 for Windows 10/11 PC. Features: player ESP, box ESP, loot ESP, soft aim assist, aim smo | ★76",
+      "caption": "来源: GitHub Trending | https://github.com/tropicalpackerroad/Fortnite-ESP-Soft-Aim-2026-SlowLow-Team-Visual-Assist-Tool",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "JoaoFranco03/DuoHinge",
+      "body": "[Swift] A native macOS menu bar app that turns your MacBook’s lid movement into a live desktop folding illusion, powered by Scre | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/JoaoFranco03/DuoHinge",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "lg-uid575655/about-my-ban-in-luogu",
+      "body": "[C++] ★7",
+      "caption": "来源: GitHub Trending | https://github.com/lg-uid575655/about-my-ban-in-luogu",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "shi3z/DeepSeekv4.1-DGX-Spark",
+      "body": "[Python] ★6",
+      "caption": "来源: GitHub Trending | https://github.com/shi3z/DeepSeekv4.1-DGX-Spark",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AlexxxLiu/AV-Data-Engine",
+      "body": "[C++] ★6",
+      "caption": "来源: GitHub Trending | https://github.com/AlexxxLiu/AV-Data-Engine",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
