@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-13",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The Interim Computer Museum",
+      "body": "HN Score: 91",
+      "caption": "来源: Hacker News | https://icm.museum/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "body": "HN Score: 115",
+      "caption": "来源: Hacker News | https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "body": "HN Score: 426",
+      "caption": "来源: Hacker News | https://high5apps.github.io/josm-plugin-website-wizard/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "body": "HN Score: 219",
+      "caption": "来源: Hacker News | https://withspecific.com/benchmarks/real-swe",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Apple iPod Engraver (2019)",
+      "body": "HN Score: 192",
+      "caption": "来源: Hacker News | https://dunstanorchard.com/apple-ipod-engraver/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "kevincox2/facebook-reporting",
+      "body": "Bots are automated tools designed to streamline the process of submitting reports on FaceBook accounts that may violate  | ★26",
+      "caption": "来源: GitHub Trending | https://github.com/kevincox2/facebook-reporting",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "zorrobyte/asset-studio",
+      "body": "[Python] Fully local, agent-callable text-to-3D game asset pipeline: Qwen-Image-2512 -> Pixal3D (TRELLIS.2) -> Blender/meshoptimi | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/zorrobyte/asset-studio",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Monkkim/agent2-new",
+      "body": "★11",
+      "caption": "来源: GitHub Trending | https://github.com/Monkkim/agent2-new",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ncxcy/A15-SECUREROM-VULNS",
+      "body": "A15 SecureROM Vulnerabilities | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/ncxcy/A15-SECUREROM-VULNS",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mowglixx/linux-parental-controls",
+      "body": "[Shell] Just a simple systemd unit to log off the kids at 22:00 until 06:30 | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/mowglixx/linux-parental-controls",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
