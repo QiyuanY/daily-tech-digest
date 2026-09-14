@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-14",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "body": "HN Score: 813",
+      "caption": "来源: Hacker News | https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Spaceships (Reverse Asteroid)",
+      "body": "HN Score: 189",
+      "caption": "来源: Hacker News | https://spaceships.treybastian.com/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "body": "HN Score: 220",
+      "caption": "来源: Hacker News | https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The case against JPEG XL",
+      "body": "HN Score: 122",
+      "caption": "来源: Hacker News | https://giannirosato.com/blog/post/case-against-jxl/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Apple's Dimensional Drawings",
+      "body": "HN Score: 152",
+      "caption": "来源: Hacker News | https://developer.apple.com/accessories/dimensional-drawings/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "ai-sucks-butt/ai-sucks-butt",
+      "body": "If you think AI sucks, star the repo. | ★61",
+      "caption": "来源: GitHub Trending | https://github.com/ai-sucks-butt/ai-sucks-butt",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mapmoverexcite/Nexora",
+      "body": "Nexora v2.5 | Multi game utility with FPS Boost, performance optimization and customization for Fortnite, Roblox, Valora | ★61",
+      "caption": "来源: GitHub Trending | https://github.com/mapmoverexcite/Nexora",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Shellishack/infinite-pokemon",
+      "body": "[TypeScript] A Pokémon-style adventure built with Codex, featuring AI-generated maps, NPCs, branching saves, and multiplayer. The adv | ★21",
+      "caption": "来源: GitHub Trending | https://github.com/Shellishack/infinite-pokemon",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "yifanzhang-pro/FlashREINFORCE",
+      "body": "[HTML] FlashREINFORCE:  Critic-Free, Single-Rollout, Asynchronous RL for Agentic Language Models | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/yifanzhang-pro/FlashREINFORCE",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ABHIJEETRAI-AV/patram",
+      "body": "★15",
+      "caption": "来源: GitHub Trending | https://github.com/ABHIJEETRAI-AV/patram",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
