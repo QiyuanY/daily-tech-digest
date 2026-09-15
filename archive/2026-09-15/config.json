@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-15",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "body": "HN Score: 554",
+      "caption": "来源: Hacker News | https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Linux from Scratch",
+      "body": "HN Score: 108",
+      "caption": "来源: Hacker News | https://www.linuxfromscratch.org/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "body": "HN Score: 51",
+      "caption": "来源: Hacker News | https://github.com/enactic/OpenArm",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "body": "HN Score: 112",
+      "caption": "来源: Hacker News | https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "body": "HN Score: 378",
+      "caption": "来源: Hacker News | https://andonlabs.com/blog/why-we-built-pion",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "FLModel/flm",
+      "body": "Train and chat with a frozen language model coupled to the full retained MaleCNS fly connectome. | ★68",
+      "caption": "来源: GitHub Trending | https://github.com/FLModel/flm",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "FSECDEV/Threat-Intelligence-Hackers-Forums",
+      "body": "A directory of hacker forums | ★44",
+      "caption": "来源: GitHub Trending | https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "jsyzlbw/PhD-Yang",
+      "body": "The details about Wuhan University University Yang Jingyuan Incident | ★43",
+      "caption": "来源: GitHub Trending | https://github.com/jsyzlbw/PhD-Yang",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AlayaLab/KaiNinja",
+      "body": "KaiNinja: Extending Native 3D Generators to the Part Level | ★18",
+      "caption": "来源: GitHub Trending | https://github.com/AlayaLab/KaiNinja",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "decapupajinx/youTUbe-FIx",
+      "body": "[Batchfile] Актуальная версия с поддержкой работы YouTube в текущих условиях. Стабильнее, быстрее, надежнее | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/decapupajinx/youTUbe-FIx",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
