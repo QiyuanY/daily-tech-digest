@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-16",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Introducing System One Models and Jev",
+      "body": "HN Score: 1225",
+      "caption": "来源: Hacker News | https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "body": "HN Score: 189",
+      "caption": "来源: Hacker News | https://security.apple.com/blog/apple-reference-image/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "body": "HN Score: 1560 | See also: Avian Visitors - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48343424 - May 2026 (20 comments)",
+      "caption": "来源: Hacker News | https://github.com/arnegiacomo/fugleramme",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "body": "HN Score: 133 | Buckle your seatbelt, secure your tray table, and open your window shade. Now you can simulate flying anywhere in the world as a commercial passenger,",
+      "caption": "来源: Hacker News | https://inflightsimulator.com",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "body": "HN Score: 71",
+      "caption": "来源: Hacker News | https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "loujc/eda-paper-writing",
+      "body": "★20",
+      "caption": "来源: GitHub Trending | https://github.com/loujc/eda-paper-writing",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "zhdmm35/obsidian-mobile-companion",
+      "body": "[Kotlin] Android companion for Markdown vaults stored on GitHub, with Obsidian rendering, offline reading, conflict-safe editing, | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/zhdmm35/obsidian-mobile-companion",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Gigaflicover26/DiscordObhodDPI",
+      "body": "[Batchfile] Актуальная версия с поддержкой работы Discord в текущих условиях. Стабильнее, надежнее, быстрее | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/Gigaflicover26/DiscordObhodDPI",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Gigaflicover26/oBHOdyouTUBE",
+      "body": "[Batchfile] Новая версия с поддержкой работы YouTube в текущих условиях. Быстрее, стабильнее, надежнее | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/Gigaflicover26/oBHOdyouTUBE",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SummonerHope/ObhodYoutube",
+      "body": "[Batchfile] Новая версия с поддержкой работы YouTube в текущих условиях. Стабильнее, надежнее, быстрее | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/SummonerHope/ObhodYoutube",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
