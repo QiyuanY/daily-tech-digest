@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-18",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Hacking OpenAI",
+      "body": "HN Score: 279",
+      "caption": "来源: Hacker News | https://www.hacktron.ai/blog/hacking-openai",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The scourge of x86 emulation",
+      "body": "HN Score: 61",
+      "caption": "来源: Hacker News | https://fex-emu.com/Scourge-of-emulation/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Astra for Law",
+      "body": "HN Score: 448",
+      "caption": "来源: Hacker News | https://openai.com/index/astra-for-law/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "body": "HN Score: 384",
+      "caption": "来源: Hacker News | https://prismml.com/news/bonsai-2-27b",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "body": "HN Score: 419",
+      "caption": "来源: Hacker News | https://bend-lang.com/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "imbbbbb/BarBar-support",
+      "body": "BarBar —— macOS 菜单栏整理工具。下载安装包与反馈问题。 | ★26",
+      "caption": "来源: GitHub Trending | https://github.com/imbbbbb/BarBar-support",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "VDERR/echocat-skill-panel-3.0",
+      "body": "[JavaScript] DSH 技能调用审计 + 应用内 skill 管理器 | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/VDERR/echocat-skill-panel-3.0",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "YunyiFlux/ScrapeClaw",
+      "body": "[Python] ★10",
+      "caption": "来源: GitHub Trending | https://github.com/YunyiFlux/ScrapeClaw",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "a0yark/zcode-prompt",
+      "body": "[Python] ZCode Dual-use / safety-boundary disk prompt editor | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/a0yark/zcode-prompt",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "dashscope-sdk/dashcope-sdk-python",
+      "body": "[Python] python sdk for dashscope [model studio](https://www.alibabacloud.com/en/product/modelstudio?_p_lc=1) | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/dashscope-sdk/dashcope-sdk-python",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
