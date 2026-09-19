@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-19",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "body": "HN Score: 101",
+      "caption": "来源: Hacker News | https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "body": "HN Score: 144",
+      "caption": "来源: Hacker News | https://onionfutures.com/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "body": "HN Score: 767",
+      "caption": "来源: Hacker News | https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+      "body": "HN Score: 61",
+      "caption": "来源: Hacker News | https://github.com/awlevin/typesafe-computer-use",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "body": "HN Score: 58",
+      "caption": "来源: Hacker News | https://sdcc.sourceforge.net/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "logan-markewich/jeff",
+      "body": "[Python] A self-hosted drop-in replacement for TypeSafe's jev, powered by GliFormer. | ★29",
+      "caption": "来源: GitHub Trending | https://github.com/logan-markewich/jeff",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Mayuqi-crypto/everything-search-skill",
+      "body": "[PowerShell] ⚡ Ultra-fast, index-powered local file search skill for AI agents (Cursor, Codex, PI-Desktop) using Voidtools Everything | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/Mayuqi-crypto/everything-search-skill",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "hirotomasato/yowes",
+      "body": "[Python] Generate realistic teacher documents (ID cards, licenses, letters) for 13 countries via MCP. | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/hirotomasato/yowes",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "DanielLemky/omarchy-iphone-mirror",
+      "body": "[Python] On-demand iPhone mirroring and focused input for Omarchy over USB or Wi-Fi. | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/DanielLemky/omarchy-iphone-mirror",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Gwendolenmave/do-not-safety-me",
+      "body": "Reject before history. Retry from a clean context. | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/Gwendolenmave/do-not-safety-me",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
