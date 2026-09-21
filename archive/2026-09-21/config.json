@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-21",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "body": "HN Score: 112",
+      "caption": "来源: Hacker News | http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "body": "HN Score: 447",
+      "caption": "来源: Hacker News | https://agentexecutor.io",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "body": "HN Score: 450",
+      "caption": "来源: Hacker News | https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "What happened to the Snowden archive",
+      "body": "HN Score: 376",
+      "caption": "来源: Hacker News | https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Qwen Image 2.1",
+      "body": "HN Score: 617",
+      "caption": "来源: Hacker News | https://qwen.ai/blog?id=qwen-image-2.1",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "RenaGao/jev-dataops",
+      "body": "[Python] An open-source JEV-powered workbench for streaming data selection, quality evaluation, automatic LoRA training and held- | ★22",
+      "caption": "来源: GitHub Trending | https://github.com/RenaGao/jev-dataops",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tonychuhai/Cove",
+      "body": "[JavaScript] Mac 桌面上的活场景：一个能钓鱼的水族箱，一只追着鼠标扫帚咬的垂耳兔。开源，macOS，Three.js。 | ★18",
+      "caption": "来源: GitHub Trending | https://github.com/tonychuhai/Cove",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "walkinglabs/university-skill",
+      "body": "[HTML] 把一位大学教授装进你的 AI，把任何主题变成一堂真正的大学课。Put a university professor in your AI. Turn any topic into a real university lecture. | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/walkinglabs/university-skill",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "YuanKJing/Jev-as-Policy",
+      "body": "[Python] The highly anticipated open-source repository for JEV as Policy enables one-click setup of the simulation environment. E | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/YuanKJing/Jev-as-Policy",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "qs-lll/twitter-jev-guard",
+      "body": "[JavaScript] 使用 TypeSafe Jev 在 X/Twitter 时间线上识别低质量、垃圾和广告帖子，并在文字区域显示醒目的半透明水印。 | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/qs-lll/twitter-jev-guard",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
