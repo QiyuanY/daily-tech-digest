@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-22",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "MiMo v2.6",
+      "body": "HN Score: 820",
+      "caption": "来源: Hacker News | https://mimo.xiaomi.com/mimo-v2-6",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Spymarks, Not Watermarks",
+      "body": "HN Score: 369",
+      "caption": "来源: Hacker News | https://brand.io/article/spymarks/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "body": "HN Score: 356",
+      "caption": "来源: Hacker News | https://poloclub.github.io/transformer-explainer/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Attention is all you have",
+      "body": "HN Score: 746",
+      "caption": "来源: Hacker News | https://alicegg.tech/2026/09/21/attention",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "What Sun got wrong",
+      "body": "HN Score: 568",
+      "caption": "来源: Hacker News | https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "wt-develo-per/MARVEL-RIVALS-CH3A7",
+      "body": "★56",
+      "caption": "来源: GitHub Trending | https://github.com/wt-develo-per/MARVEL-RIVALS-CH3A7",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "lordsinstitute/star-projects",
+      "body": "[Dart] A showcase of exceptional student projects from Lords Institute of Engineering and Technology | ★40",
+      "caption": "来源: GitHub Trending | https://github.com/lordsinstitute/star-projects",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "lhlGitHub/threejs-architecture-effects",
+      "body": "[TypeScript] ★34",
+      "caption": "来源: GitHub Trending | https://github.com/lhlGitHub/threejs-architecture-effects",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ZJL-Git7/RUST-CH3A7",
+      "body": "★22",
+      "caption": "来源: GitHub Trending | https://github.com/ZJL-Git7/RUST-CH3A7",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "tonyd2wild/MiMo-V2.6-Flash-2x-DGX-Spark",
+      "body": "[Python] MiMo-V2.6-Flash-RL on 2x NVIDIA DGX Spark (GB10): vLLM TP2 + DFlash + vision/audio, fp8 KV 300K, four fixes for the stoc | ★18",
+      "caption": "来源: GitHub Trending | https://github.com/tonyd2wild/MiMo-V2.6-Flash-2x-DGX-Spark",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
