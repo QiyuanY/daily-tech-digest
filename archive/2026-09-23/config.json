@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-23",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "GPT-6 Sol and Luna",
+      "body": "HN Score: 1459",
+      "caption": "来源: Hacker News | https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "body": "HN Score: 1470",
+      "caption": "来源: Hacker News | https://www.anthropic.com/claude-opus-5-5",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Transit rewards",
+      "body": "HN Score: 114",
+      "caption": "来源: Hacker News | https://waymo.com/blog/2026/09/transit-rewards/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "body": "HN Score: 645",
+      "caption": "来源: Hacker News | https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "body": "HN Score: 294 | Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is ho",
+      "caption": "来源: Hacker News | https://foxscript.org/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "joinboatwrightcheer/graveyard-keeper-2-modkit",
+      "body": "39-module cheat/trainer for Graveyard Keeper 2 — crafting and resources, zombie automation, combat tools, town progressi | ★44",
+      "caption": "来源: GitHub Trending | https://github.com/joinboatwrightcheer/graveyard-keeper-2-modkit",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "riba2534/claude-opus-5-5-demo",
+      "body": "[JavaScript] claude-opus-5-5-demo | ★32",
+      "caption": "来源: GitHub Trending | https://github.com/riba2534/claude-opus-5-5-demo",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "852wa/JIZURA",
+      "body": "[JavaScript] 歌詞から文字PVを自動で組み立てるブラウザアプリ | ★29",
+      "caption": "来源: GitHub Trending | https://github.com/852wa/JIZURA",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "yb1320057104/tilian",
+      "body": "[Python] ★21",
+      "caption": "来源: GitHub Trending | https://github.com/yb1320057104/tilian",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "bladedevoff/stuntd",
+      "body": "[Python] Local proxy that learns your app's typed LLM decisions and answers them with a Laya head. Jev and OpenAI compatible. | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/bladedevoff/stuntd",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
