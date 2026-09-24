@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-24",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "body": "HN Score: 350",
+      "caption": "来源: Hacker News | https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "body": "HN Score: 618",
+      "caption": "来源: Hacker News | https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "body": "HN Score: 151",
+      "caption": "来源: Hacker News | https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "body": "HN Score: 204",
+      "caption": "来源: Hacker News | https://fly.io/blog/vscode-ssh-wtf/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Meta VR Glasses",
+      "body": "HN Score: 370",
+      "caption": "来源: Hacker News | https://www.meta.com/vr-glasses/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Doorfloexpose/facebook-reporting-bot",
+      "body": "Automated reporting assistants are programmed software mechanisms designed to streamline and aggregate the submission of | ★21",
+      "caption": "来源: GitHub Trending | https://github.com/Doorfloexpose/facebook-reporting-bot",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AgibotTech/sonic_for_a3",
+      "body": "[C++] SONIC adpation for new full size humanoid agibot A3！ | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/AgibotTech/sonic_for_a3",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "hanfeny7/world-pose-fall-intelligence",
+      "body": "[Python] SentinelFlow - multimodal world-model and fall-detection intelligence showcase | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/hanfeny7/world-pose-fall-intelligence",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "swoonqx/TypingPet",
+      "body": "승우의 타이핑 펫 | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/swoonqx/TypingPet",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "MIT-CDFG/Survey-AI-for-3D-modeling-Robotics",
+      "body": "[HTML] On the Opportunities and Risks of Frontier Models for 3D Modeling, Computational Design and Robotics (MIT CSAIL CDFG) | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/MIT-CDFG/Survey-AI-for-3D-modeling-Robotics",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
