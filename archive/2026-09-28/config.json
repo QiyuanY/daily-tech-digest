@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-28",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Owed a billion dollars in Nvidia stock",
+      "body": "HN Score: 625",
+      "caption": "来源: Hacker News | https://colo.to/nvidia-stock-narrative.html",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "body": "HN Score: 84",
+      "caption": "来源: Hacker News | https://arxiv.org/abs/2110.01834",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Ember-1",
+      "body": "HN Score: 446",
+      "caption": "来源: Hacker News | https://fireworks.ai/blog/ember-1",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "When did Google get so weird?",
+      "body": "HN Score: 1219",
+      "caption": "来源: Hacker News | https://sancho.bearblog.dev/google-weird/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "body": "HN Score: 70",
+      "caption": "来源: Hacker News | https://www.inkandswitch.com/essay/malleable-software/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
+      "body": "[Shell] Play Mobile Legends: Bang Bang (MLBB) on Linux via Waydroid — and stream it to your Android phone as cloud gaming (Sunsh | ★201",
+      "caption": "来源: GitHub Trending | https://github.com/BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "kathoc/nesterm",
+      "body": "[JavaScript] Play NES games as ASCII art in your terminal | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/kathoc/nesterm",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AnctyEnly453/abstract-algebra-promo",
+      "body": "[HTML] 抽象代数：结构之美 | Canvas/WebGL animation and procedural soundtrack | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/AnctyEnly453/abstract-algebra-promo",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Luciferbobo/KiT",
+      "body": "KiT: A Foundation Model for Financial Time-Series Forecasting using Diffusion Transformers | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/Luciferbobo/KiT",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alphaparkinc/genpark-wal-write-ahead-log-recovery-skill",
+      "body": "[Python] Write-Ahead Logging (WAL) crash recovery engine implementing ARIES redo and undo passes. | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/alphaparkinc/genpark-wal-write-ahead-log-recovery-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
