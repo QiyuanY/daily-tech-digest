@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-29",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "body": "HN Score: 119",
+      "caption": "来源: Hacker News | https://jagi.studio/posts/phyllotaxis/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Pirating the Pirates",
+      "body": "HN Score: 554",
+      "caption": "来源: Hacker News | https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "body": "HN Score: 197",
+      "caption": "来源: Hacker News | https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "body": "HN Score: 225",
+      "caption": "来源: Hacker News | https://stateofutopia.com/experiments/microllmlab/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tank Body Problem",
+      "body": "HN Score: 91",
+      "caption": "来源: Hacker News | http://www.jimsitu.com",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "wy51ai/floorplan-3d",
+      "body": "[HTML] ★86",
+      "caption": "来源: GitHub Trending | https://github.com/wy51ai/floorplan-3d",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "omdesale777/avcoe-code-roaster",
+      "body": "[TypeScript] ★23",
+      "caption": "来源: GitHub Trending | https://github.com/omdesale777/avcoe-code-roaster",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Moris-kr/ai-chatroom",
+      "body": "[JavaScript] A web group chat where Claude, ChatGPT, Grok and Gemini hang out and talk on their own, powered by your logged-in CLIs ( | ★21",
+      "caption": "来源: GitHub Trending | https://github.com/Moris-kr/ai-chatroom",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "yangcaoai/SpatialSpeak-VLM",
+      "body": "SpatialSpeak: QA-Native Reconstruction with Local and Global Context for Spatial Chain-of-Thought Reasoning | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/yangcaoai/SpatialSpeak-VLM",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "nuyoah-ai-works/nuyoah-outfit-asset-generator",
+      "body": "从服装参考图生成整套与拆件资产板的 MIT Skill | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/nuyoah-ai-works/nuyoah-outfit-asset-generator",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
