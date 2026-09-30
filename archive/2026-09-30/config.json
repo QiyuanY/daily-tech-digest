@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-30",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "body": "HN Score: 559",
+      "caption": "来源: Hacker News | https://github.com/ninjahawk/livenerf",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Dots: Always-on agents",
+      "body": "HN Score: 579",
+      "caption": "来源: Hacker News | https://openai.com/index/introducing-dots/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+      "body": "HN Score: 219",
+      "caption": "来源: Hacker News | https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Vermont replacing power plants with home batteries",
+      "body": "HN Score: 178 | See also https:&#x2F;&#x2F;electrek.co&#x2F;2026&#x2F;07&#x2F;28&#x2F;vermonts-largest-energy-sourc...",
+      "caption": "来源: Hacker News | https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "RSS Feeds for Last.fm",
+      "body": "HN Score: 57",
+      "caption": "来源: Hacker News | https://lfm.xiffy.nl/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpSafari/hypoarena",
+      "body": "[Python] Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal | ★544",
+      "caption": "来源: GitHub Trending | https://github.com/OpSafari/hypoarena",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "deepseek-ai/DeepEP-Ascend",
+      "body": "[C++] A high-performance communication library for machine learning training and inference on Huawei Ascend NPUs. | ★135",
+      "caption": "来源: GitHub Trending | https://github.com/deepseek-ai/DeepEP-Ascend",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "OpSafari/laborix",
+      "body": "[Python] Autonomous experiment-pipeline orchestrator: versioned research-plan DSL with dependency DAGs, deterministic checkpoint/ | ★87",
+      "caption": "来源: GitHub Trending | https://github.com/OpSafari/laborix",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "blendi-remade/dioramas",
+      "body": "[JavaScript] A free, open-source framework for cinematic, interactive 3D websites with AI-generated assets (Nano Banana 2 + Meshy 7.1 | ★80",
+      "caption": "来源: GitHub Trending | https://github.com/blendi-remade/dioramas",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ZacharyZhang-NY/Ely-GPUI-Components",
+      "body": "[Rust] A component library for GPUI, in light and dark. Every component runs live in the browser. | ★79",
+      "caption": "来源: GitHub Trending | https://github.com/ZacharyZhang-NY/Ely-GPUI-Components",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
