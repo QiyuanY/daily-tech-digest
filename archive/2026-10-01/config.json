@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-01",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Gemini 4 Argon",
+      "body": "HN Score: 1353 | See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236",
+      "caption": "来源: Hacker News | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "body": "HN Score: 211",
+      "caption": "来源: Hacker News | https://www.thespacereview.com/article/4951/1",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Why the Bronze Age Collapsed",
+      "body": "HN Score: 215",
+      "caption": "来源: Hacker News | https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "body": "HN Score: 179",
+      "caption": "来源: Hacker News | https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "body": "HN Score: 157 | Hey HN, Anders and Tom here. We&#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your ha",
+      "caption": "来源: Hacker News | https://github.com/magnitudedev/magnitude",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "ChameleonBoil6/tf3-modkit",
+      "body": "40-module trainer/cheat for Transport Fever 3 — economy, towns, industries, vehicles and world tools | ★34",
+      "caption": "来源: GitHub Trending | https://github.com/ChameleonBoil6/tf3-modkit",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "sam-mhq1995q2/Medusa-LoL-Universal-Software",
+      "body": "Medusa League Of Legends Universal Software - This is an awesome program that allows you to use a large number of privat | ★32",
+      "caption": "来源: GitHub Trending | https://github.com/sam-mhq1995q2/Medusa-LoL-Universal-Software",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Minh141120/awesome-homelab",
+      "body": "★27",
+      "caption": "来源: GitHub Trending | https://github.com/Minh141120/awesome-homelab",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "jaturapornchai/jarvisdemo001",
+      "body": "[Python] ★14",
+      "caption": "来源: GitHub Trending | https://github.com/jaturapornchai/jarvisdemo001",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ClaspTransmuter/minecraft-dungeons-2-skin-manager",
+      "body": "[C++] The ultimate skin manager for Minecraft Dungeons II. Convert Java skins, preview in 3D, organize your library, and insta | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/ClaspTransmuter/minecraft-dungeons-2-skin-manager",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
