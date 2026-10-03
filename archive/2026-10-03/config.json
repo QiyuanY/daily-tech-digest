@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-03",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Extra Big Ass Intelligence",
+      "body": "HN Score: 202",
+      "caption": "来源: Hacker News | https://www.extrabigassintelligence.com/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "body": "HN Score: 177",
+      "caption": "来源: Hacker News | https://www.newgrounds.com/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "body": "HN Score: 607",
+      "caption": "来源: Hacker News | https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "body": "HN Score: 195",
+      "caption": "来源: Hacker News | https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "body": "HN Score: 424 | https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yShttps:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQghttps:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F",
+      "caption": "来源: Hacker News | https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "adityajha2005/yc-outreach",
+      "body": "[Python] Pick a YC batch, get founders and likely emails, write personalised cold emails from one template. Free, stdlib Python + | ★32",
+      "caption": "来源: GitHub Trending | https://github.com/adityajha2005/yc-outreach",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "blendi-remade/agentcraft",
+      "body": "[Java] ★24",
+      "caption": "来源: GitHub Trending | https://github.com/blendi-remade/agentcraft",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "thaw-app/Floe",
+      "body": "[Swift] The open source launcher for macOS | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/thaw-app/Floe",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "perkel666/MegaCapybara",
+      "body": "The fastest inference engine for Qwen3.8-27B on the NVIDIA RTX 5090: up to 500 tokens/s for one agent and up to 2,000 to | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/perkel666/MegaCapybara",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "sawyer100/medieval-shit-and-violence-script",
+      "body": "[TypeScript] lets get violent pls | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/sawyer100/medieval-shit-and-violence-script",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
