@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-07",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Sharing AI progress in mathematics",
+      "body": "HN Score: 859 | https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;mathhttps:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints",
+      "caption": "来源: Hacker News | https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "body": "HN Score: 159",
+      "caption": "来源: Hacker News | https://strandsagents.com/blog/introducing-strands-decider/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Decisions API is in public beta",
+      "body": "HN Score: 270",
+      "caption": "来源: Hacker News | https://developers.openai.com/api/docs/guides/decisions",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Mistral Large 4",
+      "body": "HN Score: 1773 | https:&#x2F;&#x2F;docs.mistral.ai&#x2F;models&#x2F;mistral-large-4-0",
+      "caption": "来源: Hacker News | https://mistral.ai/news/mistral-large-4/\\",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "body": "HN Score: 307",
+      "caption": "来源: Hacker News | https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "sisyphuslabs/omo-dori-mode-experimental",
+      "body": "[TypeScript] Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI | ★46",
+      "caption": "来源: GitHub Trending | https://github.com/sisyphuslabs/omo-dori-mode-experimental",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HestSI/docs",
+      "body": "Documentation for Hest, perpetuals with Super Intelligence. Published at docs.hest.si | ★22",
+      "caption": "来源: GitHub Trending | https://github.com/HestSI/docs",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "storytold/deckcraft",
+      "body": "[Rust] Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/storytold/deckcraft",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "TekRantGaming/earthworm-jim-hd-recompiled",
+      "body": "[C++] Native PC port of Earthworm Jim HD (Xbox Live Arcade) via static recompilation, with the TRG launcher | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/TekRantGaming/earthworm-jim-hd-recompiled",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "KeJunMao/x-gift-link",
+      "body": "[JavaScript] 在浏览器中为 X Premium 礼品生成付款链接。 | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/KeJunMao/x-gift-link",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
