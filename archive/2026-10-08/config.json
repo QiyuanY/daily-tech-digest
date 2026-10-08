@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-08",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "“Math 2.0” will need to value mathematical progress more holistically",
+      "body": "HN Score: 249",
+      "caption": "来源: Hacker News | https://mathstodon.xyz/@tao/117395269325940185",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "body": "HN Score: 861",
+      "caption": "来源: Hacker News | https://www.anthropic.com/claude-haiku-5-5",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Living off-grid: Hundred Rabbits",
+      "body": "HN Score: 191",
+      "caption": "来源: Hacker News | https://100r.ca/site/home.html",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The 15-year search for a band that charted once and vanished",
+      "body": "HN Score: 81",
+      "caption": "来源: Hacker News | https://shahidhussain.com/writing/search-for-salvage/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Margaret Hamilton has died",
+      "body": "HN Score: 1427",
+      "caption": "来源: Hacker News | https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Itz-Anya/Haimiya-Mio",
+      "body": "[TypeScript] My Portfolio v2 version  | ★77",
+      "caption": "来源: GitHub Trending | https://github.com/Itz-Anya/Haimiya-Mio",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "moonsklk/whatever",
+      "body": "zahra, 19, hkbk, cse, 1st yr, strawberry cheesecake | ★28",
+      "caption": "来源: GitHub Trending | https://github.com/moonsklk/whatever",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "MirroS-Lab/AgentGarten",
+      "body": "[Python] AgentGarten: Code Worlds for Evolving Agents | ★26",
+      "caption": "来源: GitHub Trending | https://github.com/MirroS-Lab/AgentGarten",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "maow318/simhubforum",
+      "body": "simhub全家桶下载 | ★22",
+      "caption": "来源: GitHub Trending | https://github.com/maow318/simhubforum",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "just-be-dev/effect-cloudflare-foldkit-template",
+      "body": "[TypeScript] Reusable organization, tooling, and guardrails for Effect 4, Foldkit, Bun/mise, and Alchemy 2 on Cloudflare | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/just-be-dev/effect-cloudflare-foldkit-template",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
