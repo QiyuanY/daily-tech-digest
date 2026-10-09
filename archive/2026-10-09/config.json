@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-09",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "body": "HN Score: 709",
+      "caption": "来源: Hacker News | https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "body": "HN Score: 746",
+      "caption": "来源: Hacker News | https://cactuscompute.com/blog/whistle",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Keyboard differences between Windows and Macs",
+      "body": "HN Score: 125",
+      "caption": "来源: Hacker News | https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "body": "HN Score: 666 | https:&#x2F;&#x2F;x.com&#x2F;NomadsGalaxy&#x2F;status&#x2F;2107284088247689290",
+      "caption": "来源: Hacker News | https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Theranos.world",
+      "body": "HN Score: 431",
+      "caption": "来源: Hacker News | https://www.theranos.world/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "RuoJi6/ARTEX",
+      "body": "[Go] Autumn-27/ARTEX 二开 | ★34",
+      "caption": "来源: GitHub Trending | https://github.com/RuoJi6/ARTEX",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ZacharyZhang-NY/ElyOffice",
+      "body": "[Rust] Offline-first desktop office suite in Rust and GPUI: documents, spreadsheets, presentations, PDF, Git, Markdown | ★31",
+      "caption": "来源: GitHub Trending | https://github.com/ZacharyZhang-NY/ElyOffice",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "therahulexe/rahulfirstrepo",
+      "body": "[TypeScript] my first repo | ★24",
+      "caption": "来源: GitHub Trending | https://github.com/therahulexe/rahulfirstrepo",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "WouterApts/openik-unity",
+      "body": "[C#] Inverse kinematics solvers and joint constraints for Unity. | ★24",
+      "caption": "来源: GitHub Trending | https://github.com/WouterApts/openik-unity",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "VanquisherFoyer/cs2",
+      "body": "[HTML] 🔥 CS2-Skin-Changer-2026 | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/VanquisherFoyer/cs2",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
