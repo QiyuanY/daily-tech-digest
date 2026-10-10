@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-10",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "REA Reverse – Engineer Anything",
+      "body": "HN Score: 359",
+      "caption": "来源: Hacker News | https://rea.tools/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "body": "HN Score: 121",
+      "caption": "来源: Hacker News | https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cloudflare acquires Deno",
+      "body": "HN Score: 1195",
+      "caption": "来源: Hacker News | https://deno.com/blog/cloudflare",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Triple-A Minesweeper",
+      "body": "HN Score: 921",
+      "caption": "来源: Hacker News | https://minesweeper.mikelacher.com/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Eye of Sauron: Long-Range Hidden Spy Camera Detection",
+      "body": "HN Score: 123",
+      "caption": "来源: Hacker News | https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "updatesanninconduit/WUWA-Menu-Undetected",
+      "body": "Wuthering Waves Multihack | ★61",
+      "caption": "来源: GitHub Trending | https://github.com/updatesanninconduit/WUWA-Menu-Undetected",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Shapefiupgrade/PUBG-Scripts-External-2026-UD",
+      "body": "A powerful private PUBG cheat featuring an advanced aimbot, full ESP for players and loot, and real-time radar. Enhance  | ★61",
+      "caption": "来源: GitHub Trending | https://github.com/Shapefiupgrade/PUBG-Scripts-External-2026-UD",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "joeseesun/qiaomu-cover-fonts",
+      "body": "乔木封面设计的默认开源字库：中文与英文 OFL 字体，子集化并附授权 · Default open-licence font library for Qiaomu Cover Design | ★46",
+      "caption": "来源: GitHub Trending | https://github.com/joeseesun/qiaomu-cover-fonts",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "itsAayush2004/Arthis-Land-website-project",
+      "body": "★25",
+      "caption": "来源: GitHub Trending | https://github.com/itsAayush2004/Arthis-Land-website-project",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "itsAayush2004/Claude-Portfolio",
+      "body": "★25",
+      "caption": "来源: GitHub Trending | https://github.com/itsAayush2004/Claude-Portfolio",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
