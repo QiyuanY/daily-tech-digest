@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-11",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "body": "HN Score: 89",
+      "caption": "来源: Hacker News | https://status.yandex.cloud/en/incidents/2136",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Build your own decision model",
+      "body": "HN Score: 276",
+      "caption": "来源: Hacker News | https://nishtahir.com/build-your-own-decision-model/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "2D Vehicles",
+      "body": "HN Score: 451",
+      "caption": "来源: Hacker News | https://patkerr.co.uk/2d-vehicles/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A city-building game in which the city would prefer you didn't",
+      "body": "HN Score: 329",
+      "caption": "来源: Hacker News | https://housing.over.pizza/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "body": "HN Score: 79",
+      "caption": "来源: Hacker News | https://github.com/othermod/PSPi-Version-6",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "body": "[Python] ★44",
+      "caption": "来源: GitHub Trending | https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Blacktramagnify/rvc",
+      "body": "[HTML] 🎯 ARC-Raiders-Cheats 🎯  | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/Blacktramagnify/rvc",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "csadigital/ai-writer",
+      "body": "[JavaScript] ✨ Multilingual AI product copy from images. Responsive writing studio, translation, accounts, credits and automatic setu | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/csadigital/ai-writer",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "final-bench/quantum-bench-harness",
+      "body": "[Python] Open Quantum Challenge (OQC) - open evaluation harness + frozen problems for the FINAL-Bench Quantum leaderboard | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/final-bench/quantum-bench-harness",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "dhirpajr666/RxWeather",
+      "body": "Personal pet project aimed to get familiar with the following android specific frameworks/libraries/tools: AndroidRx, Rx | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/dhirpajr666/RxWeather",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
