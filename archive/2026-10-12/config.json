@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-12",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Zod 4.6.6 compromised by malware?",
+      "body": "HN Score: 103",
+      "caption": "来源: Hacker News | https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Postgres isn't slow, your storage is",
+      "body": "HN Score: 57",
+      "caption": "来源: Hacker News | https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Type-safe HTML templating in Zig",
+      "body": "HN Score: 105",
+      "caption": "来源: Hacker News | https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "body": "HN Score: 353",
+      "caption": "来源: Hacker News | https://royfish.dev/fingerprints-are-the-new-cookies",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "body": "HN Score: 495",
+      "caption": "来源: Hacker News | https://nanolathe.gg",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "zhuyansen/new-term-radar",
+      "body": "[Python] Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps be | ★140",
+      "caption": "来源: GitHub Trending | https://github.com/zhuyansen/new-term-radar",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "LumiaGG/GestureEVO",
+      "body": "[Kotlin] ★52",
+      "caption": "来源: GitHub Trending | https://github.com/LumiaGG/GestureEVO",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "BasinShaperKiln/rtd",
+      "body": "[HTML] 🔥 pubg-cheats-hacks 🔥 | ★50",
+      "caption": "来源: GitHub Trending | https://github.com/BasinShaperKiln/rtd",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "RimArchitect/rdd",
+      "body": "[HTML] 🔥 pubg-cheats-mod-menu 🔥 | ★50",
+      "caption": "来源: GitHub Trending | https://github.com/RimArchitect/rdd",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "DXSDXS-PNG/chengtai_ctpro.syylb.com",
+      "body": "[PHP] 承台应用管理平台 - 统一管理平台（插件底座后端，ThinkPHP 8）个人版 | ★49",
+      "caption": "来源: GitHub Trending | https://github.com/DXSDXS-PNG/chengtai_ctpro.syylb.com",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
