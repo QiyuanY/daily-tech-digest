@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-13",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The baffling intelligence of a single cell (2024)",
+      "body": "HN Score: 270",
+      "caption": "来源: Hacker News | https://jsomers.net/e-coli-chemotaxis/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GLM-Legal",
+      "body": "HN Score: 555",
+      "caption": "来源: Hacker News | https://z.ai/blog/glm-legal",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "body": "HN Score: 684 | https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supe..., https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;c",
+      "caption": "来源: Hacker News | https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "body": "HN Score: 197",
+      "caption": "来源: Hacker News | https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A Modern Web App in C",
+      "body": "HN Score: 552",
+      "caption": "来源: Hacker News | https://prophitt.me/writing/a-modern-web-app-in-c",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Arekejoker/qwen21-nsfw-pose-skill",
+      "body": "[Python] Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw | ★305",
+      "caption": "来源: GitHub Trending | https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "keyu-tian-sabotage/keyu-tian-sabotage.github.io",
+      "body": "[HTML] ★78",
+      "caption": "来源: GitHub Trending | https://github.com/keyu-tian-sabotage/keyu-tian-sabotage.github.io",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ivandilelio/kybes",
+      "body": "[Python] Know Your Backend is a Plugin that help your AI to generate a structured Model/View/Controller application, witouth surp | ★78",
+      "caption": "来源: GitHub Trending | https://github.com/ivandilelio/kybes",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ns2250225/guangzhou",
+      "body": "[JavaScript] 广州旅游观光小游戏 | ★77",
+      "caption": "来源: GitHub Trending | https://github.com/ns2250225/guangzhou",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "jumpersun/meal-puzzle",
+      "body": "[JavaScript] 套餐拼图 · 把每个人想吃的拼成一桌：真实麦当劳菜单、心愿组合、官方核价与按人分餐。 | ★73",
+      "caption": "来源: GitHub Trending | https://github.com/jumpersun/meal-puzzle",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
