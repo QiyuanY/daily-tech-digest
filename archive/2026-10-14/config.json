@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-14",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "body": "HN Score: 108",
+      "caption": "来源: Hacker News | https://github.com/android/ndk/issues/2260",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "body": "HN Score: 1220 | See also: Gemini 4 Argon for Robotics - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869",
+      "caption": "来源: Hacker News | https://deepmind.google/models/gemini/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "body": "HN Score: 86",
+      "caption": "来源: Hacker News | https://ciechanow.ski/sound/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Felix Rieseberg Homepage",
+      "body": "HN Score: 154",
+      "caption": "来源: Hacker News | https://felixrieseberg.com/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "body": "HN Score: 631 | https:&#x2F;&#x2F;www.heise.de&#x2F;en&#x2F;news&#x2F;Crypto-thieves-sell-hardware-wa...https:&#x2F;&#x2F;crypto.news&#x2F;ledger-confirms-hidden-chip",
+      "caption": "来源: Hacker News | https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "deeeeone/gitdrive",
+      "body": "[Swift] Turn GitHub into an iCloud-style drive for macOS. Native Finder integration, files on demand, real git history, Git LFS, | ★45",
+      "caption": "来源: GitHub Trending | https://github.com/deeeeone/gitdrive",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "clasidvegatea5241/pashadrekarixun-07",
+      "body": "[Shell] MSR Runner Pipeline Slot 7 Template | ★30",
+      "caption": "来源: GitHub Trending | https://github.com/clasidvegatea5241/pashadrekarixun-07",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "JeffLi1993/open-growth-skills",
+      "body": "[Python] All in one AI Agent Skills for Growth | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/JeffLi1993/open-growth-skills",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "yxhpy/qwen3.8-flash-next-local-deploy",
+      "body": "Qwen3.8-Flash-Next (125B MoE) 单卡 16G 本地部署实测：Strata + GSQ-RCO IQ3_XXS，Ubuntu 24.04 | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/yxhpy/qwen3.8-flash-next-local-deploy",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "MyLuxy/overdrive",
+      "body": "[C++] Overdrive, a PS5 homebrew game store with 1,800+ games. | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/MyLuxy/overdrive",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
