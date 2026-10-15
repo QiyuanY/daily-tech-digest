@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-15",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Things to know when you get cancer",
+      "body": "HN Score: 1198",
+      "caption": "来源: Hacker News | https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenCode 2.0",
+      "body": "HN Score: 532",
+      "caption": "来源: Hacker News | https://anoma.ly/notes/opencode-2-0/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tiny Little Office",
+      "body": "HN Score: 339",
+      "caption": "来源: Hacker News | https://tinylittleoffice.com/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "body": "HN Score: 171",
+      "caption": "来源: Hacker News | https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Do dentists know what they're doing?",
+      "body": "HN Score: 625",
+      "caption": "来源: Hacker News | https://mapwriting.substack.com/p/dentists",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "chenglou/handwired",
+      "body": "[TypeScript] Turn your regular JavaScript code into a neural net. | ★126",
+      "caption": "来源: GitHub Trending | https://github.com/chenglou/handwired",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "GhostParakeet/deadlock-tool",
+      "body": "Bypassing deadlocks without vacating threads in concurrent systems | ★79",
+      "caption": "来源: GitHub Trending | https://github.com/GhostParakeet/deadlock-tool",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Supermedo/uncharted_pc",
+      "body": "[C++] Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo | ★72",
+      "caption": "来源: GitHub Trending | https://github.com/Supermedo/uncharted_pc",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Binaryify/MonitorBar",
+      "body": "[Go] macOS 菜单栏 / Windows 托盘的显示器管理工具：不依赖 DDC/CI，通过澎湃 OS 局域网接口切换输入源、调节音量 | ★43",
+      "caption": "来源: GitHub Trending | https://github.com/Binaryify/MonitorBar",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "crsolver/claude-pxl",
+      "body": "[TypeScript] ★19",
+      "caption": "来源: GitHub Trending | https://github.com/crsolver/claude-pxl",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
