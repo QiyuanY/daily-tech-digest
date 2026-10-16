@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-16",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Muse Spark Open",
+      "body": "HN Score: 758 | https:&#x2F;&#x2F;dev.meta.ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse-spark-ope...https:&#x2F;&#x2F;huggingface.co&#x2F;meta-models&#x2F;Muse-Sp",
+      "caption": "来源: Hacker News | https://research.meta.ai/blog/muse-spark-open",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "body": "HN Score: 190",
+      "caption": "来源: Hacker News | https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
+      "body": "HN Score: 96",
+      "caption": "来源: Hacker News | https://www.polygon.com/order-of-the-sinking-star-impressions/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "RPKI now protects 70% of internet routes",
+      "body": "HN Score: 113",
+      "caption": "来源: Hacker News | https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Neural networks are clean",
+      "body": "HN Score: 630 | https:&#x2F;&#x2F;twitter.com&#x2F;nickcammarata&#x2F;status&#x2F;2110757819427574056",
+      "caption": "来源: Hacker News | https://already-clean.goodfire.com/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "zgsfsec/Full-Chain-Sentinel-System",
+      "body": "[TypeScript] 【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。 | ★92",
+      "caption": "来源: GitHub Trending | https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "OpenMOSS/MOSS-Image",
+      "body": "[Python] Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, a | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/OpenMOSS/MOSS-Image",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SP4595/RoboMemory-Code",
+      "body": "[Python] RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied  | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/SP4595/RoboMemory-Code",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SatyPardus/wowdecomp15595",
+      "body": "[C++] ★12",
+      "caption": "来源: GitHub Trending | https://github.com/SatyPardus/wowdecomp15595",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "betomoedano/magnet-eyes",
+      "body": "[Swift] SwiftUI magnetometer experiment with animated eyes and a live magnetic-field grid. | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/betomoedano/magnet-eyes",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
