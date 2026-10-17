@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-17",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Ultramarine 1 Flash",
+      "body": "HN Score: 162 | https:&#x2F;&#x2F;www.paperinstruments.com&#x2F;blog&#x2F;ultramarinehttps:&#x2F;&#x2F;twitter.com&#x2F;bertgodel&#x2F;status&#x2F;2110400987622265232",
+      "caption": "来源: Hacker News | https://www.paperinstruments.com/ultramarine",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tesla Roadster",
+      "body": "HN Score: 1346 | https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=7p5LxFdc-Qghttps:&#x2F;&#x2F;twitter.com&#x2F;Tesla&#x2F;status&#x2F;2110788059008819215",
+      "caption": "来源: Hacker News | https://www.tesla.com/roadster",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "body": "HN Score: 262",
+      "caption": "来源: Hacker News | https://github.com/cobanov/PS5LM",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "body": "HN Score: 814 | https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;",
+      "caption": "来源: Hacker News | https://www.anthropic.com/research/ecdsa-curve-origins",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "body": "HN Score: 240",
+      "caption": "来源: Hacker News | https://alexwang.ai/posts/associative-memory/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "kerrdec97/PS5-Backport-GUI",
+      "body": "PS5 Backport — closed-source early testing beta. Windows x64; Linux and macOS to follow after Windows testing. | ★28",
+      "caption": "来源: GitHub Trending | https://github.com/kerrdec97/PS5-Backport-GUI",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "aicodeking/leanrea",
+      "body": "[Python] One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% chea | ★23",
+      "caption": "来源: GitHub Trending | https://github.com/aicodeking/leanrea",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "speedydivid/TokenForge",
+      "body": "[JavaScript] Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQL | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/speedydivid/TokenForge",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "LazyBonesLZY/rkp-v1-oracle",
+      "body": "[Java] On-device Google keybox provisioner for V1-only Qualcomm KeyMint firmware (PureSoft HBK=0 signing oracle) | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/LazyBonesLZY/rkp-v1-oracle",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "coolapk-desktop/coolapk-desktop",
+      "body": "[Vue] 酷安跨平台桌面版 | ★7",
+      "caption": "来源: GitHub Trending | https://github.com/coolapk-desktop/coolapk-desktop",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
