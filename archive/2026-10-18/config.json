@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-18",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "body": "HN Score: 80 | FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if y",
+      "caption": "来源: Hacker News | https://sphinx-six-theta.vercel.app/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+      "body": "HN Score: 56",
+      "caption": "来源: Hacker News | https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+      "body": "HN Score: 77",
+      "caption": "来源: Hacker News | https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "body": "HN Score: 416 | https:&#x2F;&#x2F;archive.ph&#x2F;zIPG4",
+      "caption": "来源: Hacker News | https://www.nature.com/articles/d41586-026-03266-x",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Lean now ships with verified kernels",
+      "body": "HN Score: 100",
+      "caption": "来源: Hacker News | https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "SNO2207/WindowSmash",
+      "body": "[C] Experimental Windows x64 native porting toolkit for Super Smash Bros. Ultimate: static AArch64 recompilation, a D3D11 ru | ★21",
+      "caption": "来源: GitHub Trending | https://github.com/SNO2207/WindowSmash",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "shaonialife/cardeck",
+      "body": "[Kotlin] CarDeck — 让 Android 手机扮演 CarPlay 发送端（非官方实验性项目） | ★20",
+      "caption": "来源: GitHub Trending | https://github.com/shaonialife/cardeck",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "chekusu/dropack",
+      "body": "[Swift] Native iPhone and iPad photo/video albums, AirDrop packages, and resumable Photos imports. | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/chekusu/dropack",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "realskyrin/ns-game-apple-arm-port",
+      "body": "Agent skill for native Nintendo Switch game porting to Apple Silicon macOS, iPadOS and iOS with Rust and Metal | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/realskyrin/ns-game-apple-arm-port",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mu-zi-lee/hitl-dev-loop",
+      "body": "[Shell] 面向 Claude Code + Codex CLI 的人机协作（Human-in-the-Loop）开发循环 | ★8",
+      "caption": "来源: GitHub Trending | https://github.com/mu-zi-lee/hitl-dev-loop",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
