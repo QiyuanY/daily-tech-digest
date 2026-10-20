@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-20",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Nordwand Mono – A monospace font for coders and adventurers",
+      "body": "HN Score: 108",
+      "caption": "来源: Hacker News | https://github.com/tywr/Nordwand-Mono",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "OpenBSD 8.0",
+      "body": "HN Score: 223",
+      "caption": "来源: Hacker News | https://www.openbsd.org/80.html",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "body": "HN Score: 315",
+      "caption": "来源: Hacker News | https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "body": "HN Score: 69",
+      "caption": "来源: Hacker News | https://github.com/golang/go/issues/82345",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MiniMax M3.1 Flash",
+      "body": "HN Score: 444",
+      "caption": "来源: Hacker News | https://www.minimax.io/blog/minimax-m31f",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "ELY-Open-Source/ELYTerminal",
+      "body": "[Rust] A terminal on GPUI and Ely components | ★27",
+      "caption": "来源: GitHub Trending | https://github.com/ELY-Open-Source/ELYTerminal",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "PZW152/one-click-eu-overlord",
+      "body": "[PowerShell] 一鍵轉生歐盟爺 · 一键转生欧盟爷 · One-Click EU Overlord — unlock the full Windows 11 EEA/DMA user-benefit set (uninstall Edge/Store, t | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/PZW152/one-click-eu-overlord",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Puddz/AstralChain-PC",
+      "body": "[C] Unofficial native Windows port of Astral Chain by static recompilation. Bring your own dump and keys. | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/Puddz/AstralChain-PC",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "nthnclrk/CleanFrame",
+      "body": "[JavaScript] A personal home screen for Samsung The Frame. A starting point to fork and adapt. | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/nthnclrk/CleanFrame",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "einstine336/research-introduction-writing",
+      "body": "Analyze, draft, or revise Introductions for computer science papers — especially ML, computer vision, NLP, multimodal le | ★13",
+      "caption": "来源: GitHub Trending | https://github.com/einstine336/research-introduction-writing",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
