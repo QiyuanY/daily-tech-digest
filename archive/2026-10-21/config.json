@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-21",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The Future of CSS",
+      "body": "HN Score: 253",
+      "caption": "来源: Hacker News | https://www.joshwcomeau.com/css/interop-2027/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: SimCity, but with Permits",
+      "body": "HN Score: 738",
+      "caption": "来源: Hacker News | https://permit.petercai.com/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "body": "HN Score: 109",
+      "caption": "来源: Hacker News | https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "body": "HN Score: 180",
+      "caption": "来源: Hacker News | https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Voxtral 3",
+      "body": "HN Score: 622",
+      "caption": "来源: Hacker News | https://mistral.ai/news/voxtral-3/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "WoYun520/dsh-purge",
+      "body": "[JavaScript] DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原作者署名见 README。 | ★139",
+      "caption": "来源: GitHub Trending | https://github.com/WoYun520/dsh-purge",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "DLSS-5-Swapper-Download-2026/.github",
+      "body": "DLSS 5 Swapper brings DLSS 5 installation and configuration into one desktop application, so you don't have to manage ev | ★102",
+      "caption": "来源: GitHub Trending | https://github.com/DLSS-5-Swapper-Download-2026/.github",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ZiyuanDu/deepinfer-unpacked",
+      "body": "Bringing thousands of learners together to unpack DeepInfer through peer-reviewed explanations, documentation, and hands | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/ZiyuanDu/deepinfer-unpacked",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "browser-use/rl-env-use",
+      "body": "[HTML] Build RL environments for any domain from real cases that Browser Use agents mine from the web | ★17",
+      "caption": "来源: GitHub Trending | https://github.com/browser-use/rl-env-use",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Zer061/CVE-2026-109618",
+      "body": "[Python] PoC CVE-2026-109618 / -109619 (PHP session.upload_progress heap UAF) | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/Zer061/CVE-2026-109618",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
