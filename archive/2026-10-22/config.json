@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-22",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "body": "HN Score: 163",
+      "caption": "来源: Hacker News | https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "body": "HN Score: 90",
+      "caption": "来源: Hacker News | https://simedw.com/2026/10/21/world-model-terminal/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "body": "HN Score: 456",
+      "caption": "来源: Hacker News | https://eliastaylor.com/noexploit/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GitLab critical patch release",
+      "body": "HN Score: 323",
+      "caption": "来源: Hacker News | https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "body": "HN Score: 487",
+      "caption": "来源: Hacker News | https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Acelogic/Snapintosh",
+      "body": "[Python] EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack | ★151",
+      "caption": "来源: GitHub Trending | https://github.com/Acelogic/Snapintosh",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "assetnote/php2shell-scanner",
+      "body": "[Python] High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619) | ★63",
+      "caption": "来源: GitHub Trending | https://github.com/assetnote/php2shell-scanner",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "oosexgang/hackios-xnu-kernel",
+      "body": "[C] ★50",
+      "caption": "来源: GitHub Trending | https://github.com/oosexgang/hackios-xnu-kernel",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "jwuthri-cloud/Scribely",
+      "body": "[TypeScript] AI chat app with unified access to 500+ LLMs via OpenRouter, Clerk auth and a terminal-style interface. | ★46",
+      "caption": "来源: GitHub Trending | https://github.com/jwuthri-cloud/Scribely",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "oosexgang/hackios-xnu-userland",
+      "body": "[C] ★28",
+      "caption": "来源: GitHub Trending | https://github.com/oosexgang/hackios-xnu-userland",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
