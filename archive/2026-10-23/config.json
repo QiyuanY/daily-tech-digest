@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-23",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "body": "HN Score: 132",
+      "caption": "来源: Hacker News | https://edjefferson.com/localwiki/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Docker is weird",
+      "body": "HN Score: 378",
+      "caption": "来源: Hacker News | https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "body": "HN Score: 298",
+      "caption": "来源: Hacker News | https://www.anthropic.com/research/formal-verification",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "This I Believe (1952)",
+      "body": "HN Score: 58",
+      "caption": "来源: Hacker News | https://www.awakin.org/v2/read/view.php?tid=468",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "body": "HN Score: 119",
+      "caption": "来源: Hacker News | https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "df-tools-bn/.github",
+      "body": "[HTML] 🔥 defi-arbitrage-trading-bot 🔥 | ★173",
+      "caption": "来源: GitHub Trending | https://github.com/df-tools-bn/.github",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "dex-tool-best/.github",
+      "body": "[HTML] 🔥 dex-copy-trading-bot 🔥 | ★173",
+      "caption": "来源: GitHub Trending | https://github.com/dex-tool-best/.github",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "dex-tools-new/.github",
+      "body": "[HTML] dex sniper bot | ★173",
+      "caption": "来源: GitHub Trending | https://github.com/dex-tools-new/.github",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mw-tools-123/.github",
+      "body": "[HTML] modern-warfare-mw-4-cheats-mod-menu-aim-esp | ★91",
+      "caption": "来源: GitHub Trending | https://github.com/mw-tools-123/.github",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "coder-irwin/voice-agent-workshop",
+      "body": "[Python] 🎙️ Local, open-source voice agent that talks back AND acts (opens YouTube, searches, scrolls). Workshop starter: whisper | ★12",
+      "caption": "来源: GitHub Trending | https://github.com/coder-irwin/voice-agent-workshop",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
