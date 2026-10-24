@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-24",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "body": "HN Score: 857 | https:&#x2F;&#x2F;www.kimi.com&#x2F;code&#x2F;docs&#x2F;en&#x2F;kimi-code&#x2F;models.htmlhttps:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kim",
+      "caption": "来源: Hacker News | https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Twelve years of distributed SQLite",
+      "body": "HN Score: 140",
+      "caption": "来源: Hacker News | https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "How close can pure functional programming get to C?",
+      "body": "HN Score: 62",
+      "caption": "来源: Hacker News | https://rtfeldman.com/fp-vs-c",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Apple Music 404 Not Found",
+      "body": "HN Score: 721 | https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;10&#x2F;23&#x2F;apple-music-has-a-hidde...",
+      "caption": "来源: Hacker News | https://music.apple.com/this-url-doesnt-exist",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "body": "HN Score: 1346",
+      "caption": "来源: Hacker News | https://edjefferson.com/localwiki/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    }
+  ]
+}
