@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-25",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "We should be more ambitious with the software we build",
+      "body": "HN Score: 334",
+      "caption": "来源: Hacker News | https://danluu.com/ambitious/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "body": "HN Score: 112",
+      "caption": "来源: Hacker News | https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Goose Programming Language",
+      "body": "HN Score: 344 | https:&#x2F;&#x2F;twitter.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2113704269274636568",
+      "caption": "来源: Hacker News | https://aardappel.github.io/goose/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "body": "HN Score: 125",
+      "caption": "来源: Hacker News | https://www.speedcrunch.org/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Small Programs and Languages",
+      "body": "HN Score: 87",
+      "caption": "来源: Hacker News | https://ratfactor.com/cards/pl-small",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "breakbrawlerheart/pixeluxe-ai",
+      "body": "PixeLuxe is an AI image generation interface built around a single idea: a consistent, cinematic visual direction — deep | ★100",
+      "caption": "来源: GitHub Trending | https://github.com/breakbrawlerheart/pixeluxe-ai",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "aideveloper-web/Free-Deepseek",
+      "body": "Explore Free DeepSeek AI, a standalone AI application for users interested in artificial intelligence, conversational to | ★94",
+      "caption": "来源: GitHub Trending | https://github.com/aideveloper-web/Free-Deepseek",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "mizorewww/gdirect",
+      "body": "[Rust] Rust Google Drive direct downloader using pinned libaria2 | ★59",
+      "caption": "来源: GitHub Trending | https://github.com/mizorewww/gdirect",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "KohakuBlueleaf/KohakUnlock",
+      "body": "[C] Experimental NVIDIA tensor-compute unlock research: guarded TU102 initramfs port, offline tests, and Ampere reproduction | ★49",
+      "caption": "来源: GitHub Trending | https://github.com/KohakuBlueleaf/KohakUnlock",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "holdcloud/mcd-calendar-buddy",
+      "body": "[Python] 作为一个J人&麦门信徒，是时候把优惠活动日期添加到我的日历了。疯狂星期四（just kidding~ | ★14",
+      "caption": "来源: GitHub Trending | https://github.com/holdcloud/mcd-calendar-buddy",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
