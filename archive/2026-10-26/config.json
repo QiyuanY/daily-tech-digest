@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-26",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "body": "HN Score: 177",
+      "caption": "来源: Hacker News | https://titleart.dvy.io/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "body": "HN Score: 108",
+      "caption": "来源: Hacker News | https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "body": "HN Score: 520 | With today&#x27;s news, I thought I&#x27;d share this great program:“When I was growing up in the hills of East Tennessee, I knew my dreams would come",
+      "caption": "来源: Hacker News | https://imaginationlibrary.com/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Behind the scenes at the NeXT Computer office",
+      "body": "HN Score: 81",
+      "caption": "来源: Hacker News | https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: A Truly Modular Keyboard",
+      "body": "HN Score: 122",
+      "caption": "来源: Hacker News | https://github.com/notaroomba/keybytes",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    }
+  ]
+}
