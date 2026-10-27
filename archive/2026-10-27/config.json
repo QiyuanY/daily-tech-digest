@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-27",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "body": "HN Score: 802 | Related:The Exponential Time Hypothesis Is False [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50251661",
+      "caption": "来源: Hacker News | https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "body": "HN Score: 559 | See also: Announcing three new discoveries in mathematics, computer science, and physics - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=5025134",
+      "caption": "来源: Hacker News | https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "body": "HN Score: 672",
+      "caption": "来源: Hacker News | https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "body": "HN Score: 386",
+      "caption": "来源: Hacker News | https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "body": "HN Score: 77",
+      "caption": "来源: Hacker News | https://github.com/otya128/winevdm",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "PierreTucker147/deepseek-uncensored",
+      "body": "[Python] DeepSeek Uncensored from RouterHub — the website for model guide and API access, with GPT, Claude, GLM, Qwen and Grok un | ★73",
+      "caption": "来源: GitHub Trending | https://github.com/PierreTucker147/deepseek-uncensored",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "QuixiAI/QuixiDesk",
+      "body": "[HTML] ★36",
+      "caption": "来源: GitHub Trending | https://github.com/QuixiAI/QuixiDesk",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "deepanshu406/scx_pgtier",
+      "body": "[C] Two-tier, selectively unfair sched_ext (eBPF) CPU scheduler for PostgreSQL servers that run short transactions next to l | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/deepanshu406/scx_pgtier",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Shagg88/COGBox",
+      "body": "[C++] This is an open source all-in-one launcher for the amazing series on Xbox 360: \"Gears of War\" franchise. 75% of this ama | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/Shagg88/COGBox",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "free-dam-man/zoho-catalyst-appsail-xhttp-skill",
+      "body": "[JavaScript] Zoho Catalyst AppSail · VLESS + XHTTP packet-up + TLS ALPN http/1.1 (MIT, reproducible) | ★11",
+      "caption": "来源: GitHub Trending | https://github.com/free-dam-man/zoho-catalyst-appsail-xhttp-skill",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
