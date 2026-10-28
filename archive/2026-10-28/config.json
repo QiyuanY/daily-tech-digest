@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-28",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Git for the US Code",
+      "body": "HN Score: 223",
+      "caption": "来源: Hacker News | https://lexifina.com/blog/git-for-the-us-code",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Genie 4",
+      "body": "HN Score: 860",
+      "caption": "来源: Hacker News | https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Ghostty 1.4",
+      "body": "HN Score: 976",
+      "caption": "来源: Hacker News | https://ghostty.org/docs/install/release-notes/1-4-0",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "body": "HN Score: 198",
+      "caption": "来源: Hacker News | https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "body": "HN Score: 322",
+      "caption": "来源: Hacker News | https://www.brangus.io/survival-llm",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "vaishantsah/watson-AI-osint-all-in-one",
+      "body": "[TypeScript] Watson — free OSINT tool for Windows: people search across 3,100+ public sites by nickname, email, phone or website. Ope | ★223",
+      "caption": "来源: GitHub Trending | https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ExitGooseEntrance/relay-v2.2.0",
+      "body": "Published: 2026-10-28 | ★102",
+      "caption": "来源: GitHub Trending | https://github.com/ExitGooseEntrance/relay-v2.2.0",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Centaurbinexplode/nova-v1.9.2",
+      "body": "Published: 2026-10-28 | ★102",
+      "caption": "来源: GitHub Trending | https://github.com/Centaurbinexplode/nova-v1.9.2",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Lookouteiseparator/droids-v1.5.2",
+      "body": "Published: 2026-10-28 | ★102",
+      "caption": "来源: GitHub Trending | https://github.com/Lookouteiseparator/droids-v1.5.2",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "UltraSultanHonor/recon-v1.7.0",
+      "body": "Published: 2026-10-28 | ★102",
+      "caption": "来源: GitHub Trending | https://github.com/UltraSultanHonor/recon-v1.7.0",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
