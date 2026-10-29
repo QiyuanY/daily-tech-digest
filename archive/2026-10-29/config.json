@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-29",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "body": "HN Score: 391",
+      "caption": "来源: Hacker News | https://divagr.com/blog/qwenputer",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "body": "HN Score: 1124",
+      "caption": "来源: Hacker News | https://nullpt.rs/fingerprinting-bioweapons",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "body": "HN Score: 371",
+      "caption": "来源: Hacker News | https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A Health Update",
+      "body": "HN Score: 226",
+      "caption": "来源: Hacker News | https://furbo.org/2026/10/28/a-health-update/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "body": "HN Score: 166",
+      "caption": "来源: Hacker News | https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "covesoulrhythm/Autodesk-3ds-MAX",
+      "body": "Autodesk 3Ds Max 2026 pre-configured full working installer. Ready-to-run desktop edition with all features activated. | ★99",
+      "caption": "来源: GitHub Trending | https://github.com/covesoulrhythm/Autodesk-3ds-MAX",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "HerdWarlordExplode/AOMEI-Backupper",
+      "body": "Complete standalone setup of Aomei Backupper 2026, ready-to-run with all features pre-activated. | ★99",
+      "caption": "来源: GitHub Trending | https://github.com/HerdWarlordExplode/AOMEI-Backupper",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AspectPikemanPier/AnyUnlock",
+      "body": "Anyunlock 2026: Full working installer for professional desktop software utility configuration. Ready to run with all fe | ★99",
+      "caption": "来源: GitHub Trending | https://github.com/AspectPikemanPier/AnyUnlock",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Operativenyodynamo/Chief-Architect-Premier",
+      "body": "Chief Architect Premier 2026: Full working installer with complete standalone setup, ready for immediate use. | ★99",
+      "caption": "来源: GitHub Trending | https://github.com/Operativenyodynamo/Chief-Architect-Premier",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "thresholdwolfshack/Autodesk-Inventor",
+      "body": "Autodesk Inventor 2026: Pre-activated desktop edition ready for installation with all features unlocked. | ★99",
+      "caption": "来源: GitHub Trending | https://github.com/thresholdwolfshack/Autodesk-Inventor",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
