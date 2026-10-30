@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-30",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "body": "HN Score: 1238",
+      "caption": "来源: Hacker News | https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "body": "HN Score: 1410",
+      "caption": "来源: Hacker News | https://mistral.ai/news/mistral-large-4-oss/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cuis: The Modern Smalltalk-80",
+      "body": "HN Score: 93",
+      "caption": "来源: Hacker News | https://cuis.st/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "body": "HN Score: 108",
+      "caption": "来源: Hacker News | https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "body": "HN Score: 111",
+      "caption": "来源: Hacker News | https://github.com/da-luce/astroterm",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Lostbrocreate/Adobe-InDesign",
+      "body": "Secure digital asset deployment pipeline 2026 full working installer. Ready-to-run solution for efficient online and off | ★126",
+      "caption": "来源: GitHub Trending | https://github.com/Lostbrocreate/Adobe-InDesign",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "nodedevelopersack/Cubase",
+      "body": "Professional Cubase 13 complete standalone installation build, pre-activated for seamless desktop audio production. | ★126",
+      "caption": "来源: GitHub Trending | https://github.com/nodedevelopersack/Cubase",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AshReinvigorate/Microsoft-Office",
+      "body": "Microsoft Office 2026 complete standalone setup. Ready-to-run desktop installation with all features pre-activated. | ★126",
+      "caption": "来源: GitHub Trending | https://github.com/AshReinvigorate/Microsoft-Office",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Fangludisclose/SystemCare-Pro",
+      "body": "Systemcare Pro 2026 full working installer. Complete standalone setup with all features activated, ready to run. | ★126",
+      "caption": "来源: GitHub Trending | https://github.com/Fangludisclose/SystemCare-Pro",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "FormHalberdierSouk/SoundPad",
+      "body": "Soundpad 2026: Full working installer with all essential plugins and effects for professional audio production. | ★126",
+      "caption": "来源: GitHub Trending | https://github.com/FormHalberdierSouk/SoundPad",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
