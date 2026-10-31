@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-31",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "body": "HN Score: 301",
+      "caption": "来源: Hacker News | https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "body": "HN Score: 184",
+      "caption": "来源: Hacker News | https://github.com/chris124567/cfsolve",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tell HN: Scribd Breached",
+      "body": "HN Score: 174 | Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:Subject: Notice of Security IncidentThis notice is being sent on",
+      "caption": "来源: Hacker News | https://news.ycombinator.com/item?id=50312756",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+      "body": "HN Score: 431",
+      "caption": "来源: Hacker News | https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Northflank Breached",
+      "body": "HN Score: 424",
+      "caption": "来源: Hacker News | https://status.northflank.com",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+      "body": "[Python] Powerful Roblox Account Manager for easy multi-account control. Switch accounts, manage sessions and organize profiles w | ★300",
+      "caption": "来源: GitHub Trending | https://github.com/TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "J-Vinicius/nova-ui",
+      "body": "[Lua] Published: 2026-10-31 | ★102",
+      "caption": "来源: GitHub Trending | https://github.com/J-Vinicius/nova-ui",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "nguyenthetri2k1/aether-hub",
+      "body": "[Lua] Published: 2026-10-31 | ★102",
+      "caption": "来源: GitHub Trending | https://github.com/nguyenthetri2k1/aether-hub",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "lokyfordev/pulse-toolkit",
+      "body": "[PowerShell] Published: 2026-10-31 | ★102",
+      "caption": "来源: GitHub Trending | https://github.com/lokyfordev/pulse-toolkit",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "trappenguinhammer/Adobe-Substance-3d",
+      "body": "Creative Studio App 2026: Full working installer with secure digital asset deployment pipeline, ready to run. | ★101",
+      "caption": "来源: GitHub Trending | https://github.com/trappenguinhammer/Adobe-Substance-3d",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
