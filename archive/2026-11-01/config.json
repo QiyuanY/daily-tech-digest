@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-01",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "body": "HN Score: 1233 | YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https:&#x2F;&#x2F;hackertube.org&#x2F;",
+      "caption": "来源: Hacker News | https://karpathy.bearblog.dev/hacker-tube/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "body": "HN Score: 387",
+      "caption": "来源: Hacker News | https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "body": "HN Score: 67",
+      "caption": "来源: Hacker News | https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "body": "HN Score: 106",
+      "caption": "来源: Hacker News | https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "body": "HN Score: 491",
+      "caption": "来源: Hacker News | https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "CubeLink-oss/voltdir",
+      "body": "[Rust] Read-only Windows disk analysis for AI agents: one call, stable JSON, low memory. | ★22",
+      "caption": "来源: GitHub Trending | https://github.com/CubeLink-oss/voltdir",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "SPIRAME/Emudhroll",
+      "body": "[Python] unenroll | ★16",
+      "caption": "来源: GitHub Trending | https://github.com/SPIRAME/Emudhroll",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "XiongWenye/shanghaitech-senior",
+      "body": "[Python] 上海科技大学本科老学长私人服务skill：选课口碑 + 历年真题与作业解答直达 + 培养方案路线 + 毕业学分预审 | ★10",
+      "caption": "来源: GitHub Trending | https://github.com/XiongWenye/shanghaitech-senior",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "thu-rllab/LPO",
+      "body": "[Python] [NeurIPS 2026] Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/thu-rllab/LPO",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Bowen1314/zai-batch-register",
+      "body": "[Python] Z.ai 批量自动化注册与 Coding Plan 专用凭证提取工作台 (WebUI + CDP 实时投屏人机滑块过检 + 多 IP 代理池 + 完美适配 Zcode2Api) | ★9",
+      "caption": "来源: GitHub Trending | https://github.com/Bowen1314/zai-batch-register",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
