@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-02",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "body": "HN Score: 132 | After seeing Karpathy&#x27;s Hackertube and Hackerbooks, I just had to make Wikihack.I scraped all mentions of wikipedia on hackernews and ranked them",
+      "caption": "来源: Hacker News | https://wikihack.netlify.app",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "body": "HN Score: 1349 | Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).It&#x27;s ~16.5k books that at least two diff",
+      "caption": "来源: Hacker News | https://hackerbooks.org",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "body": "HN Score: 398",
+      "caption": "来源: Hacker News | http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "body": "HN Score: 2544 | YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https:&#x2F;&#x2F;hackertube.org&#x2F;",
+      "caption": "来源: Hacker News | https://karpathy.bearblog.dev/hacker-tube/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "body": "HN Score: 109",
+      "caption": "来源: Hacker News | https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "body": "Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webho | ★414",
+      "caption": "来源: GitHub Trending | https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "davidlopez-x05x8/minecraft-aim-assist",
+      "body": "[Python] Minecraft Aim Assist 2026 — Smooth aiming assistance for 1.21.4 Fabric. Adaptive tracking, customizable FOV, visibility  | ★300",
+      "caption": "来源: GitHub Trending | https://github.com/davidlopez-x05x8/minecraft-aim-assist",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AssassinCreator/steam-stash-value-report-card",
+      "body": "[Python] Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One  | ★255",
+      "caption": "来源: GitHub Trending | https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "PostSurgeonAdmire/jenny-mod-remastered",
+      "body": "Unofficial Jenny Mod remaster for Forge 1.18 - 1.21.11. Upgraded NPC AI, new interactions, and full compatibility with m | ★74",
+      "caption": "来源: GitHub Trending | https://github.com/PostSurgeonAdmire/jenny-mod-remastered",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "justrach/nanolight",
+      "body": "[Zig] A ⌘Space launcher for the Mac, drawn by nanoui: apps, math, Google suggestions with results in the panel, Grok and X | ★52",
+      "caption": "来源: GitHub Trending | https://github.com/justrach/nanolight",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
