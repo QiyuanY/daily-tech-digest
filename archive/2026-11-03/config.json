@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-03",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "body": "HN Score: 2574",
+      "caption": "来源: Hacker News | https://rikiyat.github.io/blog/weight-space-programming/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "body": "HN Score: 249 | I thought it would be fun to browse HN as if it were a newspaper. The site updates once an hour. Enjoy!",
+      "caption": "来源: Hacker News | https://hackertimes.ca/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "body": "HN Score: 184",
+      "caption": "来源: Hacker News | https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "European RISC-V Industrial Computing Initiative",
+      "body": "HN Score: 95",
+      "caption": "来源: Hacker News | https://erici.eu",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "body": "HN Score: 684 | Hi HN, we&#x27;re Aarush and Arnav from The Subvocal Company (YC F26) (https:&#x2F;&#x2F;subvocal.company&#x2F;). We’re building smart glasses that le",
+      "caption": "来源: Hacker News | https://news.ycombinator.com/item?id=50340088",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "RUC-NLPIR/CoworkOS",
+      "body": "[JavaScript] CoworkOS: a cowork harness for long-horizon and human-in-the-loop task execution | ★55",
+      "caption": "来源: GitHub Trending | https://github.com/RUC-NLPIR/CoworkOS",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "shanselman/gputaskman",
+      "body": "[Python] An htop for what's inside your NVIDIA GPU on Windows: process memory, engine activity, and LLM weights/KV-cache introspe | ★36",
+      "caption": "来源: GitHub Trending | https://github.com/shanselman/gputaskman",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Renly1994/xiaotang-daozai",
+      "body": "[Rust] 岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。 | ★34",
+      "caption": "来源: GitHub Trending | https://github.com/Renly1994/xiaotang-daozai",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "deanyool/tallybar",
+      "body": "[Swift] A free, local-only macOS menu bar time tracker for freelancers, with per-client rates and PDF invoices. | ★33",
+      "caption": "来源: GitHub Trending | https://github.com/deanyool/tallybar",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "duongbirken2510/AI-Money",
+      "body": "[HTML] 🤖 Thực nghiệm 20 ngày để AI tự kiếm tiền nuôi Server (kiemtien.deta.vn) — Liên Hoa Các Chùa Online 4-in-1, Thần Số Học P | ★24",
+      "caption": "来源: GitHub Trending | https://github.com/duongbirken2510/AI-Money",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
