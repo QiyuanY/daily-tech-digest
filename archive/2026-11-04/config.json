@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-04",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Jelly Sheet",
+      "body": "HN Score: 217",
+      "caption": "来源: Hacker News | https://mrdoob.github.io/codevember-2026/01/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "C++26 Disapproved",
+      "body": "HN Score: 272",
+      "caption": "来源: Hacker News | https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "body": "HN Score: 786",
+      "caption": "来源: Hacker News | https://blog.nns.ee/2026/11/02/renault-hack/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "body": "HN Score: 576",
+      "caption": "来源: Hacker News | https://neufangled.com/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "body": "HN Score: 262",
+      "caption": "来源: Hacker News | https://www.interdb.jp/pg/index.html",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Lostuaexpand/windows-animated-wallpapers",
+      "body": "High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS animations, low CPU usage, 4K support. Op | ★300",
+      "caption": "来源: GitHub Trending | https://github.com/Lostuaexpand/windows-animated-wallpapers",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "DeltaProviderGuide/auto-auction-bot-wow-forever",
+      "body": "[Rust] A free Auction House bot for WoW Forever: buys low, posts high and undercuts for you. Windows app plus in-game panel. | ★89",
+      "caption": "来源: GitHub Trending | https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "protonversestudio/wow-forever-builds-kindred",
+      "body": "[Go] Answer four questions and see which WoW Forever class fits how you play. Free Windows app. | ★65",
+      "caption": "来源: GitHub Trending | https://github.com/protonversestudio/wow-forever-builds-kindred",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "PersonalitySpirit/Music-Downloader-Spotify",
+      "body": "[Python] Designed for avid music listeners, this Spotify mod enables direct downloads of songs and unlimited skips. Users can tak | ★51",
+      "caption": "来源: GitHub Trending | https://github.com/PersonalitySpirit/Music-Downloader-Spotify",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "EmpressRectifier/wow-forever-builds-sixty",
+      "body": "[Rust] Replay any WoW Forever talent build level by level from 1 to 60. Free Windows app. | ★34",
+      "caption": "来源: GitHub Trending | https://github.com/EmpressRectifier/wow-forever-builds-sixty",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
