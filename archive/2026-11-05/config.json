@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-05",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Residential proxies detected on White House network",
+      "body": "HN Score: 1019",
+      "caption": "来源: Hacker News | https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Lemmings CSS Animation",
+      "body": "HN Score: 152",
+      "caption": "来源: Hacker News | https://markblah.github.io/lemmings/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "body": "HN Score: 55",
+      "caption": "来源: Hacker News | https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Images 2.6",
+      "body": "HN Score: 284",
+      "caption": "来源: Hacker News | https://openai.com/index/introducing-images-2-6/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "body": "HN Score: 317",
+      "caption": "来源: Hacker News | https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "dragonwolfshovel/youtube-uploader",
+      "body": "[Python] Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTu | ★426",
+      "caption": "来源: GitHub Trending | https://github.com/dragonwolfshovel/youtube-uploader",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "TagPhaseArcade/tiktok-uploader",
+      "body": "[Python] Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Ope | ★425",
+      "caption": "来源: GitHub Trending | https://github.com/TagPhaseArcade/tiktok-uploader",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "WoYun520/pixel-gif-sticker-pack",
+      "body": "[Python] A Codex skill for creating and verifying animated GIF sticker packs from character references. | ★195",
+      "caption": "来源: GitHub Trending | https://github.com/WoYun520/pixel-gif-sticker-pack",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "WestBoltGirder/lossless-scaling",
+      "body": "Lossless Scaling 2026 - Full working installer, complete standalone setup for effortless image resizing without quality  | ★101",
+      "caption": "来源: GitHub Trending | https://github.com/WestBoltGirder/lossless-scaling",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AtomIllusionistDwell/watson-username-footprint-finder",
+      "body": "[TypeScript] Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable | ★101",
+      "caption": "来源: GitHub Trending | https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
