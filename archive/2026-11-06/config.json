@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-06",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "body": "HN Score: 82",
+      "caption": "来源: Hacker News | https://github.com/ppmpreetham/BUI",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "body": "HN Score: 1082",
+      "caption": "来源: Hacker News | https://github.com/anthropics/claude-code/issues/107757",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "sshole",
+      "body": "HN Score: 2670 | Related:https:&#x2F;&#x2F;hachyderm.io&#x2F;@damienmiller&#x2F;117563026759098135 &#x2F; https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50377221h",
+      "caption": "来源: Hacker News | https://sshhole.com",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "body": "HN Score: 125",
+      "caption": "来源: Hacker News | https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "body": "HN Score: 530",
+      "caption": "来源: Hacker News | https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "HerdBuilderEstimate/roblox-studio-mcp",
+      "body": "[Python] Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scrip | ★427",
+      "caption": "来源: GitHub Trending | https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "PulverizeLink/roblox-performance-tool",
+      "body": "[Python] Lightweight performance utility for Roblox on Windows. Boosts FPS, fixes stutter, reduces input lag, and allows custom f | ★425",
+      "caption": "来源: GitHub Trending | https://github.com/PulverizeLink/roblox-performance-tool",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "musubipapi/airpointer",
+      "body": "[Swift] ★94",
+      "caption": "来源: GitHub Trending | https://github.com/musubipapi/airpointer",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Stratumgreawning7/Meme_Sniper_Bot",
+      "body": "A real-time monitoring project focused on tracking emerging trends, identifying activity patterns, and analyzing newly a | ★46",
+      "caption": "来源: GitHub Trending | https://github.com/Stratumgreawning7/Meme_Sniper_Bot",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "boffti/starwire",
+      "body": "Open source repos worth a look, gathered from across the web and refreshed every two days | ★26",
+      "caption": "来源: GitHub Trending | https://github.com/boffti/starwire",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
