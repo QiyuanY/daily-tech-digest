@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-07",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Libghostty 1.0",
+      "body": "HN Score: 556",
+      "caption": "来源: Hacker News | https://mitchellh.com/writing/libghostty-1-0",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "body": "HN Score: 71",
+      "caption": "来源: Hacker News | https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Asahi Linux Progress Linux 7.3",
+      "body": "HN Score: 138",
+      "caption": "来源: Hacker News | https://asahilinux.org/2026/11/progress-report-7-3/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "body": "HN Score: 451",
+      "caption": "来源: Hacker News | https://hightouch.com/blog/llm-judges-identity-resolution",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "body": "HN Score: 984",
+      "caption": "来源: Hacker News | https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "dabingfy-dot/solo-to-team-skills",
+      "body": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹  | ★67",
+      "caption": "来源: GitHub Trending | https://github.com/dabingfy-dot/solo-to-team-skills",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "raygullcrease/axiom-launch-replay",
+      "body": "[HTML] Replay recorded launches offline, count every fee, keep notes on each token. | ★51",
+      "caption": "来源: GitHub Trending | https://github.com/raygullcrease/axiom-launch-replay",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "thecoderrrer/ai_manus",
+      "body": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen | ★32",
+      "caption": "来源: GitHub Trending | https://github.com/thecoderrrer/ai_manus",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Adil-Ijaz7/manus-ai",
+      "body": "[Python] AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen | ★32",
+      "caption": "来源: GitHub Trending | https://github.com/Adil-Ijaz7/manus-ai",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "abhinay-h/ai_manus",
+      "body": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environmen | ★32",
+      "caption": "来源: GitHub Trending | https://github.com/abhinay-h/ai_manus",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
