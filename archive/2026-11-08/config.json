@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-08",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "body": "HN Score: 248",
+      "caption": "来源: Hacker News | https://caleb.software/posts/claude-to-pi.html",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "body": "HN Score: 550",
+      "caption": "来源: Hacker News | https://blog.bosscher.ch/posts/openstick/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "body": "HN Score: 369",
+      "caption": "来源: Hacker News | https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Making any integer with four 2s (2025)",
+      "body": "HN Score: 133",
+      "caption": "来源: Hacker News | https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "body": "HN Score: 963",
+      "caption": "来源: Hacker News | https://nfsu2.xyz/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "MuseumCassowaryCarve/twitch-drops-miner",
+      "body": "[Python] Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. | ★425",
+      "caption": "来源: GitHub Trending | https://github.com/MuseumCassowaryCarve/twitch-drops-miner",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "PlateParrotTerminal/lag-doctor",
+      "body": "[Rust] Game ping, jitter & packet loss monitor: finds who causes your lag | ★76",
+      "caption": "来源: GitHub Trending | https://github.com/PlateParrotTerminal/lag-doctor",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "AmbassadorTassel/omnigear-peripheral-manager",
+      "body": "[Rust] Lightweight G Hub, Synapse & iCUE alternative: DPI, RGB sync, mic EQ | ★47",
+      "caption": "来源: GitHub Trending | https://github.com/AmbassadorTassel/omnigear-peripheral-manager",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "ToneProtectorSolve48/drift-doctor",
+      "body": "[Rust] Stick drift test and fix for Windows: gamepad tester, deadzone finder | ★38",
+      "caption": "来源: GitHub Trending | https://github.com/ToneProtectorSolve48/drift-doctor",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "oceanpacificpeace/lichii-shader-sync",
+      "body": "[Go] ★37",
+      "caption": "来源: GitHub Trending | https://github.com/oceanpacificpeace/lichii-shader-sync",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
