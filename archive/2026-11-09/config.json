@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-09",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "body": "HN Score: 58",
+      "caption": "来源: Hacker News | https://arxiv.org/abs/2610.14162",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "body": "HN Score: 476",
+      "caption": "来源: Hacker News | https://ketchup3d.github.io/app/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Unlocking any car from X brand in most of the world",
+      "body": "HN Score: 336",
+      "caption": "来源: Hacker News | https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "I'm not convinced the AI bubble exists",
+      "body": "HN Score: 269",
+      "caption": "来源: Hacker News | https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "body": "HN Score: 98",
+      "caption": "来源: Hacker News | https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "huamidev/GestaltX",
+      "body": "[Swift] An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages | ★291",
+      "caption": "来源: GitHub Trending | https://github.com/huamidev/GestaltX",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Nanoutrolley/roblox-studio-mcp",
+      "body": "[Python] Model Context Protocol (MCP) server for Roblox Studio. Connect AI assistants (Claude, Cursor, Cline) to read object tree | ★279",
+      "caption": "来源: GitHub Trending | https://github.com/Nanoutrolley/roblox-studio-mcp",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "FJNB5/fujiang-pojia",
+      "body": "[JavaScript] 富江破甲（破甲）：DeepSeek Harness破甲插件，旨在减少合法授权场景中人工智能不必要的拒答，支持技能库下载与调用、漏洞知识库检索、漏洞报告更新和安全评估自动续跑。当前版本：0.20.12，附免责声明。 | ★89",
+      "caption": "来源: GitHub Trending | https://github.com/FJNB5/fujiang-pojia",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "TwilightHairdresser/jenny-mod-archive",
+      "body": "[Java] Community archive and remaster of the Jenny Mod (Fapcraft) for Minecraft Forge 1.18 - 1.21.11. Upgraded AI and restored  | ★86",
+      "caption": "来源: GitHub Trending | https://github.com/TwilightHairdresser/jenny-mod-archive",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "shi3z/mightyCode",
+      "body": "[Python] ★33",
+      "caption": "来源: GitHub Trending | https://github.com/shi3z/mightyCode",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
