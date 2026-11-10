@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-10",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "body": "HN Score: 254",
+      "caption": "来源: Hacker News | https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "body": "HN Score: 576",
+      "caption": "来源: Hacker News | https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "body": "HN Score: 617",
+      "caption": "来源: Hacker News | https://postalpro.usps.com/zcb",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Your TV can see through walls",
+      "body": "HN Score: 95",
+      "caption": "来源: Hacker News | https://maurycyz.com/projects/fading/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Locating the source of a mysterious beep",
+      "body": "HN Score: 182",
+      "caption": "来源: Hacker News | https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Kianuni/Erosion-CN",
+      "body": "[Swift] iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） | ★532",
+      "caption": "来源: GitHub Trending | https://github.com/Kianuni/Erosion-CN",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "link-ding/image-to-psd",
+      "body": "[Python] Agent skill: split character art into a 19-layer PSD with editable masks | ★30",
+      "caption": "来源: GitHub Trending | https://github.com/link-ding/image-to-psd",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "marie448440145/counter-strike-2",
+      "body": "Counter-Strike 2 notes for Windows. A game page with its own preview. | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/marie448440145/counter-strike-2",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "adriancmurray/symcache-prune",
+      "body": "[Shell] Keep macOS's coresymbolicationd symbol cache from silently filling your disk: a small, audited hourly prune job. | ★19",
+      "caption": "来源: GitHub Trending | https://github.com/adriancmurray/symcache-prune",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "my-name-is-alan/iDuanJu",
+      "body": "[HTML] i短剧：免费开源的 iOS 多源短剧/视频/漫画/Telegram 聚合播放器（SwiftUI + QuickJS 插件沙箱）。GPL-3.0，禁止付费分发。 | ★15",
+      "caption": "来源: GitHub Trending | https://github.com/my-name-is-alan/iDuanJu",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
