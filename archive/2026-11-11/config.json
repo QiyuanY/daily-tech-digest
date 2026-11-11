@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-11",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "body": "HN Score: 172",
+      "caption": "来源: Hacker News | https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Smart home devices should work without the internet",
+      "body": "HN Score: 917",
+      "caption": "来源: Hacker News | https://docodethatmatters.com/home-automation-overnight-success/",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": ".name Grandfathered",
+      "body": "HN Score: 819 | Previously: .name Termination - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550772 - Sept 2026 (547 comments)",
+      "caption": "来源: Hacker News | https://neil.fraser.name/news/2026/11/10/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "body": "HN Score: 461",
+      "caption": "来源: Hacker News | https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+      "body": "HN Score: 57",
+      "caption": "来源: Hacker News | https://github.com/gmkurtzer/ginux",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "DemonMajorDenote/anyunlock",
+      "body": "[HTML] Anyunlock 1.5.3 automated deployment pipeline for enterprise desktop software utility, ensuring seamless pre-configured  | ★703",
+      "caption": "来源: GitHub Trending | https://github.com/DemonMajorDenote/anyunlock",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "setyamickala/fastmint-fcfs-agentic",
+      "body": "[JavaScript] FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka. | ★162",
+      "caption": "来源: GitHub Trending | https://github.com/setyamickala/fastmint-fcfs-agentic",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "smm-gg/smm-panel-api",
+      "body": "[PHP] SMM panel API client for PHP, Python & Node.js: resell 5,900+ Instagram, TikTok, YouTube and Telegram services from your | ★46",
+      "caption": "来源: GitHub Trending | https://github.com/smm-gg/smm-panel-api",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "fengchen122123-sudo/xingyao-y-code",
+      "body": "[Python] ★23",
+      "caption": "来源: GitHub Trending | https://github.com/fengchen122123-sudo/xingyao-y-code",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "wquguru/fable52-fps-repro",
+      "body": "[HTML] Fable 5.2 一句话生成 3D FPS 复现：4 个单文件演示、提示词与缓存账单 / One-prompt 3D FPS repro with demos, prompts & cost data | ★24",
+      "caption": "来源: GitHub Trending | https://github.com/wquguru/fable52-fps-repro",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
