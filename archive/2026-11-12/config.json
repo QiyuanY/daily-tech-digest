@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-12",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Jane Street: Socratic Tutor",
+      "body": "HN Score: 154",
+      "caption": "来源: Hacker News | https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Tim Peters has died",
+      "body": "HN Score: 1187 | https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;Python&#x2F;s&#x2F;2Cm5dBcvQw",
+      "caption": "来源: Hacker News | https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "body": "HN Score: 417",
+      "caption": "来源: Hacker News | https://www.mcmillen.dev/sigbovik/",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "body": "HN Score: 192",
+      "caption": "来源: Hacker News | https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "AWS emulator",
+      "body": "HN Score: 843 | https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-ai-agent...https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;",
+      "caption": "来源: Hacker News | https://github.com/aws/aws-emulator",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "routerhubSI/kimi-uncensored",
+      "body": "Every uncensored and abliterated Kimi build — Kimi K3.1 Pro Uncensored via API at 0.30/1.50 USD per million tokens, abli | ★84",
+      "caption": "来源: GitHub Trending | https://github.com/routerhubSI/kimi-uncensored",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "routerhubSI/deepseek-uncensored",
+      "body": "[Python] Every uncensored and abliterated DeepSeek build — V4.1 Flash 1017 Abliterated (the pinned, reproducible build that ranks | ★67",
+      "caption": "来源: GitHub Trending | https://github.com/routerhubSI/deepseek-uncensored",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "Simon3Sarkis/super-odyssey-pc-recomp",
+      "body": "[C] A native Windows PC port of Super Mario Odyssey by static recompilation. Bring your own game: no game files included. | ★51",
+      "caption": "来源: GitHub Trending | https://github.com/Simon3Sarkis/super-odyssey-pc-recomp",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "alinuo666/ComfyUI-Banzhang-All",
+      "body": "[Python] 用 MiniMax H3 视频模型生成视频的 ComfyUI 中文插件。主打三采工作流，6GB 显存也能跑高清视频。 | ★33",
+      "caption": "来源: GitHub Trending | https://github.com/alinuo666/ComfyUI-Banzhang-All",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "LALUARIFTA/goodle_drive_cloud_storage_ui",
+      "body": "[JavaScript] ★23",
+      "caption": "来源: GitHub Trending | https://github.com/LALUARIFTA/goodle_drive_cloud_storage_ui",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
