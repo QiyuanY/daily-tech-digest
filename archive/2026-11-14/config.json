@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-14",
+  "defaults": {
+    "width": 1080,
+    "height": 1080,
+    "alpha": 160
+  },
+  "cards": [
+    {
+      "title": "Ggml v1.0.0",
+      "body": "HN Score: 232",
+      "caption": "来源: Hacker News | https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "output": "card_01.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "body": "HN Score: 500",
+      "caption": "来源: Hacker News | https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "output": "card_02.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "body": "HN Score: 1524 | https:&#x2F;&#x2F;www.fly.faa.gov&#x2F;adv&#x2F;adv_otherdis?adv_date=11132026&amp;a...https:&#x2F;&#x2F;www.fly.faa.gov&#x2F;adv&#x2F;adv_otherdis?ad",
+      "caption": "来源: Hacker News | https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "output": "card_03.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Terminal borders that don't cost a cell",
+      "body": "HN Score: 228",
+      "caption": "来源: Hacker News | https://www.joshka.net/cell-borders/",
+      "output": "card_04.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "body": "HN Score: 116",
+      "caption": "来源: Hacker News | https://unsloth.ai/docs/models/qwen3.8",
+      "output": "card_05.png",
+      "accent": "FF6600"
+    },
+    {
+      "title": "duwqijlk/muse-protocol",
+      "body": "[Python] muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） | ★272",
+      "caption": "来源: GitHub Trending | https://github.com/duwqijlk/muse-protocol",
+      "output": "card_06.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "bradburns2001/topaz-video-ai-desktop",
+      "body": "[C++] Topaz Video AI 2026 desktop setup with AI upscaling up to 16K with detail recovery, frame interpolation for smooth slow- | ★226",
+      "caption": "来源: GitHub Trending | https://github.com/bradburns2001/topaz-video-ai-desktop",
+      "output": "card_07.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "brisk-thrush-husky/malware-defender-desktop",
+      "body": "[C++] Malware Defender 2026 desktop setup with real-time protection against malware and ransomware, deep system scan with quar | ★226",
+      "caption": "来源: GitHub Trending | https://github.com/brisk-thrush-husky/malware-defender-desktop",
+      "output": "card_08.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "brave-shell-07/izotope-rx-11-desktop",
+      "body": "[C++] iZotope RX 11 2026 desktop setup with AI audio repair, denoise, de-reverb and de-click, dialogue isolation and spectral  | ★226",
+      "caption": "来源: GitHub Trending | https://github.com/brave-shell-07/izotope-rx-11-desktop",
+      "output": "card_09.png",
+      "accent": "6E40C9"
+    },
+    {
+      "title": "briskember13/adobe-acrobat-pdf-desktop",
+      "body": "[C++] Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, E | ★225",
+      "caption": "来源: GitHub Trending | https://github.com/briskember13/adobe-acrobat-pdf-desktop",
+      "output": "card_10.png",
+      "accent": "6E40C9"
+    }
+  ]
+}
